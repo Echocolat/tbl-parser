@@ -118,4 +118,17 @@ def parse_all():
 
         parse('tbl/' + file)
 
-parse_all()
+def main():
+
+    if len(sys.argv) != 1:
+        try:
+            parse(sys.argv[1])
+            input('Your .tbl file has been converted to json. Press enter to quit.')
+        except:
+            input('Your .tbl file is either corrupted or incompatible. Press enter to quit.')
+
+    else:
+        input('Call the python script with the .tbl file. Press enter to quit.')
+
+if __name__ == '__main__':
+    main()
