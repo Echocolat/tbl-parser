@@ -1,0 +1,42 @@
+[
+  {
+    "_index": 1,
+    "_encounter_id": 3337
+  },
+  {
+    "_index": 512,
+    "_encounter_id": 919808
+  },
+  {
+    "_index": 196608,
+    "_encounter_id": 252248064
+  },
+  {
+    "_index": 67108864,
+    "_encounter_id": 150994944
+  },
+  {
+    "_index": 3,
+    "_encounter_id": 5
+  },
+  {
+    "_index": 768,
+    "_encounter_id": 1536
+  },
+  {
+    "_index": 196608,
+    "_encounter_id": 458752
+  },
+  {
+    "_index": 50331648,
+    "_encounter_id": 134217728
+  },
+  {
+    "_index": 11,
+    "_encounter_id": 3
+  },
+  {
+    "_index": 3073,
+    "_encounter_id": 768
+  }
+]

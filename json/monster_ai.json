@@ -1,0 +1,3506 @@
+[
+  {
+    "_table_id": 0,
+    "_skill_ratio": 150281,
+    "_skill_id": 38537472,
+    "_character_id": 0
+  },
+  {
+    "_table_id": 65536,
+    "_skill_ratio": 1292435456,
+    "_skill_id": 150994946,
+    "_character_id": 590
+  },
+  {
+    "_table_id": 3,
+    "_skill_ratio": 2,
+    "_skill_id": 151305,
+    "_character_id": 38799616
+  },
+  {
+    "_table_id": 196608,
+    "_skill_ratio": 196608,
+    "_skill_id": 1359544320,
+    "_character_id": 150994946
+  },
+  {
+    "_table_id": 7,
+    "_skill_ratio": 3,
+    "_skill_id": 4,
+    "_character_id": 152329
+  },
+  {
+    "_table_id": 524544,
+    "_skill_ratio": 196608,
+    "_skill_id": 327680,
+    "_character_id": 1426653184
+  },
+  {
+    "_table_id": 16777219,
+    "_skill_ratio": 9,
+    "_skill_id": 3,
+    "_character_id": 6
+  },
+  {
+    "_table_id": 257024,
+    "_skill_ratio": 655616,
+    "_skill_id": 196608,
+    "_character_id": 458752
+  },
+  {
+    "_table_id": -335544318,
+    "_skill_ratio": 16777219,
+    "_skill_id": 11,
+    "_character_id": 3
+  },
+  {
+    "_table_id": 154633,
+    "_skill_ratio": 257280,
+    "_skill_id": 786688,
+    "_character_id": 196608
+  },
+  {
+    "_table_id": 1577648128,
+    "_skill_ratio": -318767102,
+    "_skill_id": 16777219,
+    "_character_id": 13
+  },
+  {
+    "_table_id": 607,
+    "_skill_ratio": 155657,
+    "_skill_id": 257536,
+    "_character_id": 917760
+  },
+  {
+    "_table_id": 39913728,
+    "_skill_ratio": 1644756992,
+    "_skill_id": -301989886,
+    "_character_id": 16777219
+  },
+  {
+    "_table_id": 150994944,
+    "_skill_ratio": 611,
+    "_skill_id": 156681,
+    "_character_id": 257792
+  },
+  {
+    "_table_id": 3328,
+    "_skill_ratio": 40175872,
+    "_skill_id": 1711865856,
+    "_character_id": -285212670
+  },
+  {
+    "_table_id": 234881024,
+    "_skill_ratio": 150994944,
+    "_skill_id": 615,
+    "_character_id": 157705
+  },
+  {
+    "_table_id": 768,
+    "_skill_ratio": 3840,
+    "_skill_id": 40438016,
+    "_character_id": 1778974720
+  },
+  {
+    "_table_id": 50331648,
+    "_skill_ratio": 268435456,
+    "_skill_id": 150994944,
+    "_character_id": 619
+  },
+  {
+    "_table_id": 5121,
+    "_skill_ratio": 768,
+    "_skill_id": 4352,
+    "_character_id": 40700160
+  },
+  {
+    "_table_id": 352387072,
+    "_skill_ratio": 50331648,
+    "_skill_id": 301989888,
+    "_character_id": 150994944
+  },
+  {
+    "_table_id": 1010,
+    "_skill_ratio": 5633,
+    "_skill_id": 768,
+    "_character_id": 4864
+  },
+  {
+    "_table_id": 66191360,
+    "_skill_ratio": 385941504,
+    "_skill_id": 50331648,
+    "_character_id": 335544320
+  },
+  {
+    "_table_id": 628,
+    "_skill_ratio": 1011,
+    "_skill_id": 6145,
+    "_character_id": 768
+  },
+  {
+    "_table_id": 41289984,
+    "_skill_ratio": 66256896,
+    "_skill_id": 419495936,
+    "_character_id": 50331648
+  },
+  {
+    "_table_id": 150994946,
+    "_skill_ratio": 632,
+    "_skill_id": 1011,
+    "_character_id": 6657
+  },
+  {
+    "_table_id": 162057,
+    "_skill_ratio": 41552128,
+    "_skill_id": 66256896,
+    "_character_id": 453050368
+  },
+  {
+    "_table_id": 2064187392,
+    "_skill_ratio": 150994946,
+    "_skill_id": 636,
+    "_character_id": 1012
+  },
+  {
+    "_table_id": 25,
+    "_skill_ratio": 163081,
+    "_skill_id": 41814272,
+    "_character_id": 66322432
+  },
+  {
+    "_table_id": 1703936,
+    "_skill_ratio": 2131296256,
+    "_skill_id": 150994946,
+    "_character_id": 640
+  },
+  {
+    "_table_id": 3,
+    "_skill_ratio": 27,
+    "_skill_id": 164105,
+    "_character_id": 42076416
+  },
+  {
+    "_table_id": 196608,
+    "_skill_ratio": 1835008,
+    "_skill_id": -2096562176,
+    "_character_id": 150994946
+  },
+  {
+    "_table_id": 32,
+    "_skill_ratio": 3,
+    "_skill_id": 29,
+    "_character_id": 165129
+  },
+  {
+    "_table_id": 2162944,
+    "_skill_ratio": 196608,
+    "_skill_id": 1966080,
+    "_character_id": -2029453312
+  },
+  {
+    "_table_id": 16777219,
+    "_skill_ratio": 34,
+    "_skill_id": 3,
+    "_character_id": 31
+  },
+  {
+    "_table_id": 259840,
+    "_skill_ratio": 2294016,
+    "_skill_id": 196608,
+    "_character_id": 2097152
+  },
+  {
+    "_table_id": -150994942,
+    "_skill_ratio": 16777219,
+    "_skill_id": 36,
+    "_character_id": 3
+  },
+  {
+    "_table_id": 167433,
+    "_skill_ratio": 260096,
+    "_skill_id": 2425088,
+    "_character_id": 196608
+  },
+  {
+    "_table_id": -1878458368,
+    "_skill_ratio": -134217726,
+    "_skill_id": 16777219,
+    "_character_id": 38
+  },
+  {
+    "_table_id": 657,
+    "_skill_ratio": 168457,
+    "_skill_id": 260352,
+    "_character_id": 2556160
+  },
+  {
+    "_table_id": 43190528,
+    "_skill_ratio": -1811349504,
+    "_skill_id": -117440510,
+    "_character_id": 16777219
+  },
+  {
+    "_table_id": 150994944,
+    "_skill_ratio": 661,
+    "_skill_id": 169481,
+    "_character_id": 260608
+  },
+  {
+    "_table_id": 9728,
+    "_skill_ratio": 43452672,
+    "_skill_id": -1744240640,
+    "_character_id": -83886078
+  },
+  {
+    "_table_id": 654311424,
+    "_skill_ratio": 150994944,
+    "_skill_id": 665,
+    "_character_id": 170505
+  },
+  {
+    "_table_id": 768,
+    "_skill_ratio": 10240,
+    "_skill_id": 43714816,
+    "_character_id": -1677131776
+  },
+  {
+    "_table_id": 50331648,
+    "_skill_ratio": 687865856,
+    "_skill_id": 150994944,
+    "_character_id": 669
+  },
+  {
+    "_table_id": 11521,
+    "_skill_ratio": 768,
+    "_skill_id": 10752,
+    "_character_id": 43976960
+  },
+  {
+    "_table_id": 771817472,
+    "_skill_ratio": 50331648,
+    "_skill_id": 721420288,
+    "_character_id": 150994944
+  },
+  {
+    "_table_id": 1022,
+    "_skill_ratio": 12033,
+    "_skill_id": 768,
+    "_character_id": 11264
+  },
+  {
+    "_table_id": 66977792,
+    "_skill_ratio": 805371904,
+    "_skill_id": 50331648,
+    "_character_id": 754974720
+  },
+  {
+    "_table_id": 678,
+    "_skill_ratio": 1023,
+    "_skill_id": 12545,
+    "_character_id": 768
+  },
+  {
+    "_table_id": 44566784,
+    "_skill_ratio": 67043328,
+    "_skill_id": 838926336,
+    "_character_id": 50331648
+  },
+  {
+    "_table_id": 150994946,
+    "_skill_ratio": 682,
+    "_skill_id": 1024,
+    "_character_id": 13057
+  },
+  {
+    "_table_id": 174857,
+    "_skill_ratio": 44828928,
+    "_skill_id": 67108864,
+    "_character_id": 872480768
+  },
+  {
+    "_table_id": -1391919104,
+    "_skill_ratio": 150994946,
+    "_skill_id": 686,
+    "_character_id": 1025
+  },
+  {
+    "_table_id": 50,
+    "_skill_ratio": 175881,
+    "_skill_id": 45091072,
+    "_character_id": 67174400
+  },
+  {
+    "_table_id": 3342336,
+    "_skill_ratio": -1324810240,
+    "_skill_id": 150994946,
+    "_character_id": 690
+  },
+  {
+    "_table_id": 3,
+    "_skill_ratio": 52,
+    "_skill_id": 176905,
+    "_character_id": 45353216
+  },
+  {
+    "_table_id": 196608,
+    "_skill_ratio": 3473408,
+    "_skill_id": -1257701376,
+    "_character_id": 150994946
+  },
+  {
+    "_table_id": 57,
+    "_skill_ratio": 3,
+    "_skill_id": 54,
+    "_character_id": 177929
+  },
+  {
+    "_table_id": 3801344,
+    "_skill_ratio": 196608,
+    "_skill_id": 3604480,
+    "_character_id": -1190592512
+  },
+  {
+    "_table_id": 16777220,
+    "_skill_ratio": 59,
+    "_skill_id": 3,
+    "_character_id": 56
+  },
+  {
+    "_table_id": 263168,
+    "_skill_ratio": 3932416,
+    "_skill_id": 196608,
+    "_character_id": 3735552
+  },
+  {
+    "_table_id": 83886082,
+    "_skill_ratio": 16777220,
+    "_skill_id": 61,
+    "_character_id": 3
+  },
+  {
+    "_table_id": 180233,
+    "_skill_ratio": 263424,
+    "_skill_id": 4063488,
+    "_character_id": 196608
+  },
+  {
+    "_table_id": -1039597568,
+    "_skill_ratio": 100663298,
+    "_skill_id": 16777220,
+    "_character_id": 63
+  },
+  {
+    "_table_id": 707,
+    "_skill_ratio": 181257,
+    "_skill_id": 263680,
+    "_character_id": 4194560
+  },
+  {
+    "_table_id": 46467328,
+    "_skill_ratio": -972488704,
+    "_skill_id": 100663298,
+    "_character_id": 16777220
+  },
+  {
+    "_table_id": 150994944,
+    "_skill_ratio": 711,
+    "_skill_id": 182281,
+    "_character_id": 263936
+  },
+  {
+    "_table_id": 16128,
+    "_skill_ratio": 46729472,
+    "_skill_id": -905379840,
+    "_character_id": 117440514
+  },
+  {
+    "_table_id": 1073741824,
+    "_skill_ratio": 150994944,
+    "_skill_id": 715,
+    "_character_id": 183305
+  },
+  {
+    "_table_id": 768,
+    "_skill_ratio": 16640,
+    "_skill_id": 46991616,
+    "_character_id": -838270976
+  },
+  {
+    "_table_id": 50331648,
+    "_skill_ratio": 1107296256,
+    "_skill_id": 150994944,
+    "_character_id": 719
+  },
+  {
+    "_table_id": 17921,
+    "_skill_ratio": 768,
+    "_skill_id": 17152,
+    "_character_id": 47253760
+  },
+  {
+    "_table_id": 1191247872,
+    "_skill_ratio": 50331648,
+    "_skill_id": 1140850688,
+    "_character_id": 150994944
+  },
+  {
+    "_table_id": 1033,
+    "_skill_ratio": 18433,
+    "_skill_id": 768,
+    "_character_id": 17664
+  },
+  {
+    "_table_id": 67764224,
+    "_skill_ratio": 1224802304,
+    "_skill_id": 50331648,
+    "_character_id": 1174405120
+  },
+  {
+    "_table_id": 728,
+    "_skill_ratio": 1034,
+    "_skill_id": 18945,
+    "_character_id": 768
+  },
+  {
+    "_table_id": 47843584,
+    "_skill_ratio": 67764224,
+    "_skill_id": 1258356736,
+    "_character_id": 50331648
+  },
+  {
+    "_table_id": 150994946,
+    "_skill_ratio": 732,
+    "_skill_id": 1035,
+    "_character_id": 19457
+  },
+  {
+    "_table_id": 187657,
+    "_skill_ratio": 48105728,
+    "_skill_id": 67829760,
+    "_character_id": 1291911168
+  },
+  {
+    "_table_id": -553058304,
+    "_skill_ratio": 150994946,
+    "_skill_id": 736,
+    "_character_id": 1036
+  },
+  {
+    "_table_id": 75,
+    "_skill_ratio": 188681,
+    "_skill_id": 48367872,
+    "_character_id": 67895296
+  },
+  {
+    "_table_id": 4980736,
+    "_skill_ratio": -485949440,
+    "_skill_id": 150994946,
+    "_character_id": 740
+  },
+  {
+    "_table_id": 3,
+    "_skill_ratio": 77,
+    "_skill_id": 189705,
+    "_character_id": 48630016
+  },
+  {
+    "_table_id": 196608,
+    "_skill_ratio": 5111808,
+    "_skill_id": -418840576,
+    "_character_id": 150994946
+  },
+  {
+    "_table_id": 82,
+    "_skill_ratio": 3,
+    "_skill_id": 79,
+    "_character_id": 190729
+  },
+  {
+    "_table_id": 5439744,
+    "_skill_ratio": 196608,
+    "_skill_id": 5242880,
+    "_character_id": -351731712
+  },
+  {
+    "_table_id": 16777220,
+    "_skill_ratio": 84,
+    "_skill_id": 3,
+    "_character_id": 81
+  },
+  {
+    "_table_id": 265984,
+    "_skill_ratio": 5570816,
+    "_skill_id": 196608,
+    "_character_id": 5373952
+  },
+  {
+    "_table_id": 268435458,
+    "_skill_ratio": 16777220,
+    "_skill_id": 86,
+    "_character_id": 3
+  },
+  {
+    "_table_id": 193033,
+    "_skill_ratio": 266240,
+    "_skill_id": 5701888,
+    "_character_id": 196608
+  },
+  {
+    "_table_id": -200736768,
+    "_skill_ratio": 285212674,
+    "_skill_id": 16777220,
+    "_character_id": 88
+  },
+  {
+    "_table_id": 757,
+    "_skill_ratio": 194057,
+    "_skill_id": 266496,
+    "_character_id": 5832960
+  },
+  {
+    "_table_id": 49744128,
+    "_skill_ratio": -133627904,
+    "_skill_id": 285212674,
+    "_character_id": 16777220
+  },
+  {
+    "_table_id": 150994944,
+    "_skill_ratio": 761,
+    "_skill_id": 195081,
+    "_character_id": 266752
+  },
+  {
+    "_table_id": 22528,
+    "_skill_ratio": 50006272,
+    "_skill_id": -66519040,
+    "_character_id": 301989890
+  },
+  {
+    "_table_id": 1493172224,
+    "_skill_ratio": 150994944,
+    "_skill_id": 765,
+    "_character_id": 196105
+  },
+  {
+    "_table_id": 768,
+    "_skill_ratio": 23040,
+    "_skill_id": 50268416,
+    "_character_id": 589824
+  },
+  {
+    "_table_id": 50331648,
+    "_skill_ratio": 1526726656,
+    "_skill_id": 150994944,
+    "_character_id": 769
+  },
+  {
+    "_table_id": 24321,
+    "_skill_ratio": 768,
+    "_skill_id": 23552,
+    "_character_id": 50530560
+  },
+  {
+    "_table_id": 1610678272,
+    "_skill_ratio": 50331648,
+    "_skill_id": 1560281088,
+    "_character_id": 150994944
+  },
+  {
+    "_table_id": 1044,
+    "_skill_ratio": 24833,
+    "_skill_id": 768,
+    "_character_id": 24064
+  },
+  {
+    "_table_id": 68485120,
+    "_skill_ratio": 1644232704,
+    "_skill_id": 50331648,
+    "_character_id": 1593835520
+  },
+  {
+    "_table_id": 778,
+    "_skill_ratio": 1045,
+    "_skill_id": 25345,
+    "_character_id": 768
+  },
+  {
+    "_table_id": 51120384,
+    "_skill_ratio": 68550656,
+    "_skill_id": 1677787136,
+    "_character_id": 50331648
+  },
+  {
+    "_table_id": 150994947,
+    "_skill_ratio": 782,
+    "_skill_id": 1046,
+    "_character_id": 25857
+  },
+  {
+    "_table_id": 200457,
+    "_skill_ratio": 51382528,
+    "_skill_id": 68550656,
+    "_character_id": 1711341568
+  },
+  {
+    "_table_id": 285802496,
+    "_skill_ratio": 150994947,
+    "_skill_id": 786,
+    "_character_id": 1047
+  },
+  {
+    "_table_id": 100,
+    "_skill_ratio": 201481,
+    "_skill_id": 51644672,
+    "_character_id": 68616192
+  },
+  {
+    "_table_id": 6619136,
+    "_skill_ratio": 352911360,
+    "_skill_id": 150994947,
+    "_character_id": 790
+  },
+  {
+    "_table_id": 3,
+    "_skill_ratio": 102,
+    "_skill_id": 202505,
+    "_character_id": 51906816
+  },
+  {
+    "_table_id": 196608,
+    "_skill_ratio": 6750208,
+    "_skill_id": 420020224,
+    "_character_id": 150994947
+  },
+  {
+    "_table_id": 107,
+    "_skill_ratio": 3,
+    "_skill_id": 104,
+    "_character_id": 203529
+  },
+  {
+    "_table_id": 7078144,
+    "_skill_ratio": 196608,
+    "_skill_id": 6881280,
+    "_character_id": 487129088
+  },
+  {
+    "_table_id": 16777220,
+    "_skill_ratio": 109,
+    "_skill_id": 3,
+    "_character_id": 106
+  },
+  {
+    "_table_id": 268800,
+    "_skill_ratio": 7209216,
+    "_skill_id": 196608,
+    "_character_id": 7012352
+  },
+  {
+    "_table_id": 436207619,
+    "_skill_ratio": 16777220,
+    "_skill_id": 111,
+    "_character_id": 3
+  },
+  {
+    "_table_id": 205833,
+    "_skill_ratio": 269056,
+    "_skill_id": 7340288,
+    "_character_id": 196608
+  },
+  {
+    "_table_id": 638124032,
+    "_skill_ratio": 452984835,
+    "_skill_id": 16777220,
+    "_character_id": 113
+  },
+  {
+    "_table_id": 807,
+    "_skill_ratio": 206857,
+    "_skill_id": 269312,
+    "_character_id": 7471360
+  },
+  {
+    "_table_id": 53020928,
+    "_skill_ratio": 705232896,
+    "_skill_id": 486539267,
+    "_character_id": 16777220
+  },
+  {
+    "_table_id": 150994944,
+    "_skill_ratio": 811,
+    "_skill_id": 207881,
+    "_character_id": 269824
+  },
+  {
+    "_table_id": 28928,
+    "_skill_ratio": 53283072,
+    "_skill_id": 772341760,
+    "_character_id": 503316483
+  },
+  {
+    "_table_id": 1912602624,
+    "_skill_ratio": 150994944,
+    "_skill_id": 815,
+    "_character_id": 208905
+  },
+  {
+    "_table_id": 768,
+    "_skill_ratio": 29440,
+    "_skill_id": 53545216,
+    "_character_id": 839450624
+  },
+  {
+    "_table_id": 50331648,
+    "_skill_ratio": 1946157056,
+    "_skill_id": 150994944,
+    "_character_id": 819
+  },
+  {
+    "_table_id": 30721,
+    "_skill_ratio": 768,
+    "_skill_id": 29952,
+    "_character_id": 53807360
+  },
+  {
+    "_table_id": 2030108672,
+    "_skill_ratio": 50331648,
+    "_skill_id": 1979711488,
+    "_character_id": 150994944
+  },
+  {
+    "_table_id": 1056,
+    "_skill_ratio": 31233,
+    "_skill_id": 768,
+    "_character_id": 30464
+  },
+  {
+    "_table_id": 69271552,
+    "_skill_ratio": 2063663104,
+    "_skill_id": 50331648,
+    "_character_id": 2013265920
+  },
+  {
+    "_table_id": 828,
+    "_skill_ratio": 1057,
+    "_skill_id": 31745,
+    "_character_id": 768
+  },
+  {
+    "_table_id": 54397184,
+    "_skill_ratio": 69337088,
+    "_skill_id": 2097217536,
+    "_character_id": 50331648
+  },
+  {
+    "_table_id": 150994947,
+    "_skill_ratio": 832,
+    "_skill_id": 1058,
+    "_character_id": 32257
+  },
+  {
+    "_table_id": 213257,
+    "_skill_ratio": 54659328,
+    "_skill_id": 69402624,
+    "_character_id": 2130771968
+  },
+  {
+    "_table_id": 1124663296,
+    "_skill_ratio": 150994947,
+    "_skill_id": 836,
+    "_character_id": 1059
+  },
+  {
+    "_table_id": 125,
+    "_skill_ratio": 214281,
+    "_skill_id": 54921472,
+    "_character_id": 69468160
+  },
+  {
+    "_table_id": 8257536,
+    "_skill_ratio": 1191772160,
+    "_skill_id": 150994947,
+    "_character_id": 840
+  },
+  {
+    "_table_id": 3,
+    "_skill_ratio": 127,
+    "_skill_id": 215305,
+    "_character_id": 55183616
+  },
+  {
+    "_table_id": 196608,
+    "_skill_ratio": 8388608,
+    "_skill_id": 1258881024,
+    "_character_id": 150994947
+  },
+  {
+    "_table_id": 132,
+    "_skill_ratio": 3,
+    "_skill_id": 129,
+    "_character_id": 216329
+  },
+  {
+    "_table_id": 8716544,
+    "_skill_ratio": 196608,
+    "_skill_id": 8519680,
+    "_character_id": 1325989888
+  },
+  {
+    "_table_id": 16777220,
+    "_skill_ratio": 134,
+    "_skill_id": 3,
+    "_character_id": 131
+  },
+  {
+    "_table_id": 272128,
+    "_skill_ratio": 8847616,
+    "_skill_id": 196608,
+    "_character_id": 8650752
+  },
+  {
+    "_table_id": 654311427,
+    "_skill_ratio": 16777220,
+    "_skill_id": 136,
+    "_character_id": 3
+  },
+  {
+    "_table_id": 218633,
+    "_skill_ratio": 272384,
+    "_skill_id": 8978688,
+    "_character_id": 196608
+  },
+  {
+    "_table_id": 1476984832,
+    "_skill_ratio": 671088643,
+    "_skill_id": 16777220,
+    "_character_id": 138
+  },
+  {
+    "_table_id": 857,
+    "_skill_ratio": 219657,
+    "_skill_id": 272640,
+    "_character_id": 9109760
+  },
+  {
+    "_table_id": 56297728,
+    "_skill_ratio": 1544093696,
+    "_skill_id": 687865859,
+    "_character_id": 16777220
+  },
+  {
+    "_table_id": 150994944,
+    "_skill_ratio": 861,
+    "_skill_id": 220681,
+    "_character_id": 272640
+  },
+  {
+    "_table_id": 35328,
+    "_skill_ratio": 56559872,
+    "_skill_id": 1611202560,
+    "_character_id": 704643075
+  },
+  {
+    "_table_id": -1962934272,
+    "_skill_ratio": 150994944,
+    "_skill_id": 865,
+    "_character_id": 221705
+  },
+  {
+    "_table_id": 768,
+    "_skill_ratio": 35840,
+    "_skill_id": 56822016,
+    "_character_id": 1678311424
+  },
+  {
+    "_table_id": 50331648,
+    "_skill_ratio": -1929379840,
+    "_skill_id": 150994944,
+    "_character_id": 869
+  },
+  {
+    "_table_id": 37121,
+    "_skill_ratio": 768,
+    "_skill_id": 36352,
+    "_character_id": 57084160
+  },
+  {
+    "_table_id": -1845428224,
+    "_skill_ratio": 50331648,
+    "_skill_id": -1895825408,
+    "_character_id": 150994944
+  },
+  {
+    "_table_id": 1068,
+    "_skill_ratio": 37633,
+    "_skill_id": 768,
+    "_character_id": 36864
+  },
+  {
+    "_table_id": 69992448,
+    "_skill_ratio": -1811873792,
+    "_skill_id": 50331648,
+    "_character_id": -1862270976
+  },
+  {
+    "_table_id": 878,
+    "_skill_ratio": 1069,
+    "_skill_id": 38145,
+    "_character_id": 768
+  },
+  {
+    "_table_id": 57673984,
+    "_skill_ratio": 70057984,
+    "_skill_id": -1778319360,
+    "_character_id": 50331648
+  },
+  {
+    "_table_id": 150994947,
+    "_skill_ratio": 882,
+    "_skill_id": 1069,
+    "_character_id": 38657
+  },
+  {
+    "_table_id": 226057,
+    "_skill_ratio": 57936128,
+    "_skill_id": 70123520,
+    "_character_id": -1744764928
+  },
+  {
+    "_table_id": 1963524096,
+    "_skill_ratio": 150994947,
+    "_skill_id": 886,
+    "_character_id": 1070
+  },
+  {
+    "_table_id": 150,
+    "_skill_ratio": 227081,
+    "_skill_id": 58198272,
+    "_character_id": 70123520
+  },
+  {
+    "_table_id": 9895936,
+    "_skill_ratio": 2030632960,
+    "_skill_id": 150994947,
+    "_character_id": 890
+  },
+  {
+    "_table_id": 3,
+    "_skill_ratio": 152,
+    "_skill_id": 228105,
+    "_character_id": 58460416
+  },
+  {
+    "_table_id": 196608,
+    "_skill_ratio": 10027008,
+    "_skill_id": 2097741824,
+    "_character_id": 150994947
+  },
+  {
+    "_table_id": 157,
+    "_skill_ratio": 3,
+    "_skill_id": 154,
+    "_character_id": 229129
+  },
+  {
+    "_table_id": 10354944,
+    "_skill_ratio": 196608,
+    "_skill_id": 10158080,
+    "_character_id": -2130116608
+  },
+  {
+    "_table_id": 16777220,
+    "_skill_ratio": 159,
+    "_skill_id": 3,
+    "_character_id": 156
+  },
+  {
+    "_table_id": 274688,
+    "_skill_ratio": 10486016,
+    "_skill_id": 196608,
+    "_character_id": 10289152
+  },
+  {
+    "_table_id": 838860803,
+    "_skill_ratio": 16777220,
+    "_skill_id": 161,
+    "_character_id": 3
+  },
+  {
+    "_table_id": 231433,
+    "_skill_ratio": 274944,
+    "_skill_id": 10617088,
+    "_character_id": 196608
+  },
+  {
+    "_table_id": -1979121664,
+    "_skill_ratio": 855638019,
+    "_skill_id": 16777220,
+    "_character_id": 163
+  },
+  {
+    "_table_id": 907,
+    "_skill_ratio": 232457,
+    "_skill_id": 275456,
+    "_character_id": 10748160
+  },
+  {
+    "_table_id": 59574528,
+    "_skill_ratio": -1912012800,
+    "_skill_id": 872415235,
+    "_character_id": 16777220
+  },
+  {
+    "_table_id": 150994944,
+    "_skill_ratio": 911,
+    "_skill_id": 233481,
+    "_character_id": 275712
+  },
+  {
+    "_table_id": 41728,
+    "_skill_ratio": 59836672,
+    "_skill_id": -1844903936,
+    "_character_id": 889192451
+  },
+  {
+    "_table_id": -1543503872,
+    "_skill_ratio": 150994944,
+    "_skill_id": 915,
+    "_character_id": 234505
+  },
+  {
+    "_table_id": 768,
+    "_skill_ratio": 42240,
+    "_skill_id": 60098816,
+    "_character_id": -1777795072
+  },
+  {
+    "_table_id": 50331648,
+    "_skill_ratio": -1509949440,
+    "_skill_id": 150994944,
+    "_character_id": 919
+  },
+  {
+    "_table_id": 43521,
+    "_skill_ratio": 768,
+    "_skill_id": 42752,
+    "_character_id": 60360960
+  },
+  {
+    "_table_id": -1425997824,
+    "_skill_ratio": 50331648,
+    "_skill_id": -1476395008,
+    "_character_id": 150994944
+  },
+  {
+    "_table_id": 1079,
+    "_skill_ratio": 44033,
+    "_skill_id": 768,
+    "_character_id": 43264
+  },
+  {
+    "_table_id": 70778880,
+    "_skill_ratio": -1392443392,
+    "_skill_id": 50331648,
+    "_character_id": -1442840576
+  },
+  {
+    "_table_id": 928,
+    "_skill_ratio": 1081,
+    "_skill_id": 44545,
+    "_character_id": 768
+  },
+  {
+    "_table_id": 60950784,
+    "_skill_ratio": 70844416,
+    "_skill_id": -1358888960,
+    "_character_id": 50331648
+  },
+  {
+    "_table_id": 150994947,
+    "_skill_ratio": 932,
+    "_skill_id": 1081,
+    "_character_id": 45057
+  },
+  {
+    "_table_id": 238857,
+    "_skill_ratio": 61212928,
+    "_skill_id": 70844416,
+    "_character_id": -1325334528
+  },
+  {
+    "_table_id": -1492582400,
+    "_skill_ratio": 150994947,
+    "_skill_id": 936,
+    "_character_id": 1082
+  },
+  {
+    "_table_id": 175,
+    "_skill_ratio": 239881,
+    "_skill_id": 61475072,
+    "_character_id": 70909952
+  },
+  {
+    "_table_id": 11534336,
+    "_skill_ratio": -1425473536,
+    "_skill_id": 150994947,
+    "_character_id": 940
+  },
+  {
+    "_table_id": 3,
+    "_skill_ratio": 177,
+    "_skill_id": 240905,
+    "_character_id": 61737216
+  },
+  {
+    "_table_id": 196608,
+    "_skill_ratio": 11665408,
+    "_skill_id": -1358364672,
+    "_character_id": 150994947
+  },
+  {
+    "_table_id": 182,
+    "_skill_ratio": 3,
+    "_skill_id": 179,
+    "_character_id": 241929
+  },
+  {
+    "_table_id": 11993344,
+    "_skill_ratio": 196608,
+    "_skill_id": 11796480,
+    "_character_id": -1291255808
+  },
+  {
+    "_table_id": 16777220,
+    "_skill_ratio": 184,
+    "_skill_id": 3,
+    "_character_id": 181
+  },
+  {
+    "_table_id": 277760,
+    "_skill_ratio": 12124416,
+    "_skill_id": 196608,
+    "_character_id": 11927552
+  },
+  {
+    "_table_id": 1023410179,
+    "_skill_ratio": 16777220,
+    "_skill_id": 186,
+    "_character_id": 3
+  },
+  {
+    "_table_id": 244233,
+    "_skill_ratio": 278016,
+    "_skill_id": 12255488,
+    "_character_id": 196608
+  },
+  {
+    "_table_id": -1140260864,
+    "_skill_ratio": 1040187395,
+    "_skill_id": 16777220,
+    "_character_id": 188
+  },
+  {
+    "_table_id": 957,
+    "_skill_ratio": 245257,
+    "_skill_id": 278272,
+    "_character_id": 12386560
+  },
+  {
+    "_table_id": 62851328,
+    "_skill_ratio": -1073152000,
+    "_skill_id": 1056964611,
+    "_character_id": 16777220
+  },
+  {
+    "_table_id": 150994944,
+    "_skill_ratio": 961,
+    "_skill_id": 246281,
+    "_character_id": 278272
+  },
+  {
+    "_table_id": 48128,
+    "_skill_ratio": 63113472,
+    "_skill_id": -1006043136,
+    "_character_id": 1073741827
+  },
+  {
+    "_table_id": -1124073472,
+    "_skill_ratio": 150994944,
+    "_skill_id": 965,
+    "_character_id": 247305
+  },
+  {
+    "_table_id": 768,
+    "_skill_ratio": 48640,
+    "_skill_id": 63375616,
+    "_character_id": -938934272
+  },
+  {
+    "_table_id": 50331648,
+    "_skill_ratio": -1090519040,
+    "_skill_id": 150994944,
+    "_character_id": 969
+  },
+  {
+    "_table_id": 49921,
+    "_skill_ratio": 768,
+    "_skill_id": 49152,
+    "_character_id": 63637760
+  },
+  {
+    "_table_id": -1006567424,
+    "_skill_ratio": 50331648,
+    "_skill_id": -1056964608,
+    "_character_id": 150994944
+  },
+  {
+    "_table_id": 1089,
+    "_skill_ratio": 50433,
+    "_skill_id": 768,
+    "_character_id": 49664
+  },
+  {
+    "_table_id": 71368704,
+    "_skill_ratio": -973012992,
+    "_skill_id": 50331648,
+    "_character_id": -1023410176
+  },
+  {
+    "_table_id": 978,
+    "_skill_ratio": 1089,
+    "_skill_id": 50945,
+    "_character_id": 768
+  },
+  {
+    "_table_id": 64227584,
+    "_skill_ratio": 71434240,
+    "_skill_id": -939458560,
+    "_character_id": 50331648
+  },
+  {
+    "_table_id": 150994947,
+    "_skill_ratio": 982,
+    "_skill_id": 1090,
+    "_character_id": 51457
+  },
+  {
+    "_table_id": 251657,
+    "_skill_ratio": 64489728,
+    "_skill_id": 71499776,
+    "_character_id": -905904128
+  },
+  {
+    "_table_id": -653721600,
+    "_skill_ratio": 150994947,
+    "_skill_id": 986,
+    "_character_id": 1091
+  },
+  {
+    "_table_id": 200,
+    "_skill_ratio": 252681,
+    "_skill_id": 64751872,
+    "_character_id": 71565312
+  },
+  {
+    "_table_id": 13172736,
+    "_skill_ratio": -586612736,
+    "_skill_id": 150994947,
+    "_character_id": 990
+  },
+  {
+    "_table_id": 3,
+    "_skill_ratio": 202,
+    "_skill_id": 253705,
+    "_character_id": 65014016
+  },
+  {
+    "_table_id": 196608,
+    "_skill_ratio": 13303808,
+    "_skill_id": -519503872,
+    "_character_id": 150994947
+  },
+  {
+    "_table_id": 207,
+    "_skill_ratio": 3,
+    "_skill_id": 204,
+    "_character_id": 254729
+  },
+  {
+    "_table_id": 13631744,
+    "_skill_ratio": 196608,
+    "_skill_id": 13434880,
+    "_character_id": -452395008
+  },
+  {
+    "_table_id": 16777220,
+    "_skill_ratio": 209,
+    "_skill_id": 3,
+    "_character_id": 206
+  },
+  {
+    "_table_id": 280576,
+    "_skill_ratio": 13762816,
+    "_skill_id": 196608,
+    "_character_id": 13565952
+  },
+  {
+    "_table_id": 1207959555,
+    "_skill_ratio": 16777220,
+    "_skill_id": 211,
+    "_character_id": 3
+  },
+  {
+    "_table_id": 257033,
+    "_skill_ratio": 280832,
+    "_skill_id": 13893888,
+    "_character_id": 196608
+  },
+  {
+    "_table_id": -301400064,
+    "_skill_ratio": 1224736771,
+    "_skill_id": 16777220,
+    "_character_id": 213
+  },
+  {
+    "_table_id": 1007,
+    "_skill_ratio": 258057,
+    "_skill_id": 281088,
+    "_character_id": 14024960
+  },
+  {
+    "_table_id": 66128128,
+    "_skill_ratio": -234291200,
+    "_skill_id": 1241513987,
+    "_character_id": 16777220
+  },
+  {
+    "_table_id": 150994944,
+    "_skill_ratio": 1011,
+    "_skill_id": 259081,
+    "_character_id": 281344
+  },
+  {
+    "_table_id": 54528,
+    "_skill_ratio": 66390272,
+    "_skill_id": -167182336,
+    "_character_id": 1258291203
+  },
+  {
+    "_table_id": -704643072,
+    "_skill_ratio": 150994944,
+    "_skill_id": 1015,
+    "_character_id": 260105
+  },
+  {
+    "_table_id": 768,
+    "_skill_ratio": 55040,
+    "_skill_id": 66652416,
+    "_character_id": -100073472
+  },
+  {
+    "_table_id": 50331648,
+    "_skill_ratio": -671088640,
+    "_skill_id": 150994944,
+    "_character_id": 1019
+  },
+  {
+    "_table_id": 56321,
+    "_skill_ratio": 768,
+    "_skill_id": 55552,
+    "_character_id": 66914560
+  },
+  {
+    "_table_id": -587137024,
+    "_skill_ratio": 50331648,
+    "_skill_id": -637534208,
+    "_character_id": 150994944
+  },
+  {
+    "_table_id": 1099,
+    "_skill_ratio": 56833,
+    "_skill_id": 768,
+    "_character_id": 56064
+  },
+  {
+    "_table_id": 72089600,
+    "_skill_ratio": -553582592,
+    "_skill_id": 50331648,
+    "_character_id": -603979776
+  },
+  {
+    "_table_id": 1028,
+    "_skill_ratio": 1100,
+    "_skill_id": 57345,
+    "_character_id": 768
+  },
+  {
+    "_table_id": 67504384,
+    "_skill_ratio": 72089600,
+    "_skill_id": -520028160,
+    "_character_id": 50331648
+  },
+  {
+    "_table_id": 150994948,
+    "_skill_ratio": 1032,
+    "_skill_id": 1100,
+    "_character_id": 57857
+  },
+  {
+    "_table_id": 264457,
+    "_skill_ratio": 67766528,
+    "_skill_id": 72089600,
+    "_character_id": -486473728
+  },
+  {
+    "_table_id": 185139200,
+    "_skill_ratio": 150994948,
+    "_skill_id": 1036,
+    "_character_id": 1100
+  },
+  {
+    "_table_id": 225,
+    "_skill_ratio": 265481,
+    "_skill_id": 68028672,
+    "_character_id": 72155136
+  },
+  {
+    "_table_id": 14811136,
+    "_skill_ratio": 252248064,
+    "_skill_id": 150994948,
+    "_character_id": 1040
+  },
+  {
+    "_table_id": 3,
+    "_skill_ratio": 227,
+    "_skill_id": 266505,
+    "_character_id": 68290816
+  },
+  {
+    "_table_id": 196608,
+    "_skill_ratio": 14942208,
+    "_skill_id": 319356928,
+    "_character_id": 150994948
+  },
+  {
+    "_table_id": 232,
+    "_skill_ratio": 3,
+    "_skill_id": 229,
+    "_character_id": 267529
+  },
+  {
+    "_table_id": 15270144,
+    "_skill_ratio": 196608,
+    "_skill_id": 15073280,
+    "_character_id": 386465792
+  },
+  {
+    "_table_id": 16777220,
+    "_skill_ratio": 234,
+    "_skill_id": 3,
+    "_character_id": 231
+  },
+  {
+    "_table_id": 282368,
+    "_skill_ratio": 15401216,
+    "_skill_id": 196608,
+    "_character_id": 15204352
+  },
+  {
+    "_table_id": 1325400068,
+    "_skill_ratio": 16777220,
+    "_skill_id": 236,
+    "_character_id": 3
+  },
+  {
+    "_table_id": 269833,
+    "_skill_ratio": 282368,
+    "_skill_id": 15532288,
+    "_character_id": 196608
+  },
+  {
+    "_table_id": 537460736,
+    "_skill_ratio": 1325400068,
+    "_skill_id": 16777220,
+    "_character_id": 238
+  },
+  {
+    "_table_id": 1057,
+    "_skill_ratio": 270857,
+    "_skill_id": 282368,
+    "_character_id": 15663360
+  },
+  {
+    "_table_id": 69404928,
+    "_skill_ratio": 604569600,
+    "_skill_id": 1342177284,
+    "_character_id": 16777220
+  },
+  {
+    "_table_id": 150994944,
+    "_skill_ratio": 1061,
+    "_skill_id": 271881,
+    "_character_id": 282624
+  },
+  {
+    "_table_id": 60928,
+    "_skill_ratio": 69667072,
+    "_skill_id": 671678464,
+    "_character_id": 1358954500
+  },
+  {
+    "_table_id": -285212672,
+    "_skill_ratio": 150994944,
+    "_skill_id": 1065,
+    "_character_id": 272905
+  },
+  {
+    "_table_id": 768,
+    "_skill_ratio": 61440,
+    "_skill_id": 69929216,
+    "_character_id": 738787328
+  },
+  {
+    "_table_id": 50331648,
+    "_skill_ratio": -251658240,
+    "_skill_id": 150994944,
+    "_character_id": 1069
+  },
+  {
+    "_table_id": 62721,
+    "_skill_ratio": 768,
+    "_skill_id": 61952,
+    "_character_id": 70191360
+  },
+  {
+    "_table_id": -167706624,
+    "_skill_ratio": 50331648,
+    "_skill_id": -218103808,
+    "_character_id": 150994944
+  },
+  {
+    "_table_id": 1106,
+    "_skill_ratio": 63233,
+    "_skill_id": 768,
+    "_character_id": 62464
+  },
+  {
+    "_table_id": 72548352,
+    "_skill_ratio": -134152192,
+    "_skill_id": 50331648,
+    "_character_id": -184549376
+  },
+  {
+    "_table_id": 1078,
+    "_skill_ratio": 1107,
+    "_skill_id": 63745,
+    "_character_id": 768
+  },
+  {
+    "_table_id": 70781184,
+    "_skill_ratio": 72613888,
+    "_skill_id": -100597760,
+    "_character_id": 50331648
+  },
+  {
+    "_table_id": 150994948,
+    "_skill_ratio": 1082,
+    "_skill_id": 1108,
+    "_character_id": 64257
+  },
+  {
+    "_table_id": 277257,
+    "_skill_ratio": 71043328,
+    "_skill_id": 72679424,
+    "_character_id": -67043328
+  },
+  {
+    "_table_id": 1024000000,
+    "_skill_ratio": 150994948,
+    "_skill_id": 1086,
+    "_character_id": 1109
+  },
+  {
+    "_table_id": 250,
+    "_skill_ratio": 278281,
+    "_skill_id": 71305472,
+    "_character_id": 72744960
+  },
+  {
+    "_table_id": 16449536,
+    "_skill_ratio": 1091108864,
+    "_skill_id": 150994948,
+    "_character_id": 1090
+  },
+  {
+    "_table_id": 3,
+    "_skill_ratio": 252,
+    "_skill_id": 279305,
+    "_character_id": 71567616
+  },
+  {
+    "_table_id": 196608,
+    "_skill_ratio": 16580608,
+    "_skill_id": 1158217728,
+    "_character_id": 150994948
+  },
+  {
+    "_table_id": 257,
+    "_skill_ratio": 3,
+    "_skill_id": 254,
+    "_character_id": 280329
+  },
+  {
+    "_table_id": 16908544,
+    "_skill_ratio": 196608,
+    "_skill_id": 16711680,
+    "_character_id": 1225326592
+  },
+  {
+    "_table_id": 16777220,
+    "_skill_ratio": 259,
+    "_skill_id": 3,
+    "_character_id": 256
+  },
+  {
+    "_table_id": 284672,
+    "_skill_ratio": 17039616,
+    "_skill_id": 196608,
+    "_character_id": 16842752
+  },
+  {
+    "_table_id": 1476395012,
+    "_skill_ratio": 16777220,
+    "_skill_id": 261,
+    "_character_id": 3
+  },
+  {
+    "_table_id": 282633,
+    "_skill_ratio": 284928,
+    "_skill_id": 17170688,
+    "_character_id": 196608
+  },
+  {
+    "_table_id": 1376321536,
+    "_skill_ratio": 1493172228,
+    "_skill_id": 16777220,
+    "_character_id": 263
+  },
+  {
+    "_table_id": 1107,
+    "_skill_ratio": 283657,
+    "_skill_id": 284928,
+    "_character_id": 17301760
+  },
+  {
+    "_table_id": 72681728,
+    "_skill_ratio": 1443430400,
+    "_skill_id": 1493172228,
+    "_character_id": 16777220
+  },
+  {
+    "_table_id": 150994945,
+    "_skill_ratio": 1111,
+    "_skill_id": 284681,
+    "_character_id": 285184
+  },
+  {
+    "_table_id": 67328,
+    "_skill_ratio": 72943872,
+    "_skill_id": 1510539264,
+    "_character_id": 1526726660
+  },
+  {
+    "_table_id": 134217728,
+    "_skill_ratio": 150994945,
+    "_skill_id": 1115,
+    "_character_id": 285705
+  },
+  {
+    "_table_id": 768,
+    "_skill_ratio": 67840,
+    "_skill_id": 73206016,
+    "_character_id": 1577648128
+  },
+  {
+    "_table_id": 50331649,
+    "_skill_ratio": 167772160,
+    "_skill_id": 150994945,
+    "_character_id": 1119
+  },
+  {
+    "_table_id": 69121,
+    "_skill_ratio": 768,
+    "_skill_id": 68352,
+    "_character_id": 73468160
+  },
+  {
+    "_table_id": 251723776,
+    "_skill_ratio": 50331649,
+    "_skill_id": 201326592,
+    "_character_id": 150994945
+  },
+  {
+    "_table_id": 1118,
+    "_skill_ratio": 69633,
+    "_skill_id": 768,
+    "_character_id": 68864
+  },
+  {
+    "_table_id": 73334784,
+    "_skill_ratio": 285278208,
+    "_skill_id": 50331649,
+    "_character_id": 234881024
+  },
+  {
+    "_table_id": 1128,
+    "_skill_ratio": 1119,
+    "_skill_id": 70145,
+    "_character_id": 768
+  },
+  {
+    "_table_id": 74057984,
+    "_skill_ratio": 73465856,
+    "_skill_id": 318832640,
+    "_character_id": 50331649
+  },
+  {
+    "_table_id": 150994948,
+    "_skill_ratio": 1132,
+    "_skill_id": 1121,
+    "_character_id": 70657
+  },
+  {
+    "_table_id": 290057,
+    "_skill_ratio": 74320128,
+    "_skill_id": 73400320,
+    "_character_id": 352387072
+  },
+  {
+    "_table_id": 1862860800,
+    "_skill_ratio": 150994948,
+    "_skill_id": 1136,
+    "_character_id": 1120
+  },
+  {
+    "_table_id": 275,
+    "_skill_ratio": 291081,
+    "_skill_id": 74582272,
+    "_character_id": 73400320
+  },
+  {
+    "_table_id": 18087936,
+    "_skill_ratio": 1929969664,
+    "_skill_id": 150994948,
+    "_character_id": 1140
+  },
+  {
+    "_table_id": 3,
+    "_skill_ratio": 277,
+    "_skill_id": 292105,
+    "_character_id": 74844416
+  },
+  {
+    "_table_id": 196608,
+    "_skill_ratio": 18219008,
+    "_skill_id": 1997078528,
+    "_character_id": 150994948
+  },
+  {
+    "_table_id": 282,
+    "_skill_ratio": 3,
+    "_skill_id": 279,
+    "_character_id": 293129
+  },
+  {
+    "_table_id": 18546944,
+    "_skill_ratio": 196608,
+    "_skill_id": 18350080,
+    "_character_id": 2064187392
+  },
+  {
+    "_table_id": 16777220,
+    "_skill_ratio": 284,
+    "_skill_id": 3,
+    "_character_id": 281
+  },
+  {
+    "_table_id": 287488,
+    "_skill_ratio": 18678016,
+    "_skill_id": 196608,
+    "_character_id": 18481152
+  },
+  {
+    "_table_id": 1660944388,
+    "_skill_ratio": 16777220,
+    "_skill_id": 286,
+    "_character_id": 3
+  },
+  {
+    "_table_id": 295433,
+    "_skill_ratio": 287744,
+    "_skill_id": 18809088,
+    "_character_id": 196608
+  },
+  {
+    "_table_id": -2079784960,
+    "_skill_ratio": 1677721604,
+    "_skill_id": 16777220,
+    "_character_id": 288
+  },
+  {
+    "_table_id": 1157,
+    "_skill_ratio": 296457,
+    "_skill_id": 287744,
+    "_character_id": 18940160
+  },
+  {
+    "_table_id": 75958528,
+    "_skill_ratio": -2012676096,
+    "_skill_id": 1694498820,
+    "_character_id": 16777220
+  },
+  {
+    "_table_id": 150994945,
+    "_skill_ratio": 1161,
+    "_skill_id": 297481,
+    "_character_id": 288000
+  },
+  {
+    "_table_id": 73728,
+    "_skill_ratio": 76220672,
+    "_skill_id": -1945567232,
+    "_character_id": 1711276036
+  },
+  {
+    "_table_id": 553648128,
+    "_skill_ratio": 150994945,
+    "_skill_id": 1165,
+    "_character_id": 298505
+  },
+  {
+    "_table_id": 768,
+    "_skill_ratio": 74240,
+    "_skill_id": 76482816,
+    "_character_id": -1878458368
+  },
+  {
+    "_table_id": 50331649,
+    "_skill_ratio": 587202560,
+    "_skill_id": 150994945,
+    "_character_id": 1169
+  },
+  {
+    "_table_id": 75521,
+    "_skill_ratio": 768,
+    "_skill_id": 74752,
+    "_character_id": 76744960
+  },
+  {
+    "_table_id": 671154176,
+    "_skill_ratio": 50331649,
+    "_skill_id": 620756992,
+    "_character_id": 150994945
+  },
+  {
+    "_table_id": 1128,
+    "_skill_ratio": 76033,
+    "_skill_id": 768,
+    "_character_id": 75264
+  },
+  {
+    "_table_id": 73924608,
+    "_skill_ratio": 704708608,
+    "_skill_id": 50331649,
+    "_character_id": 654311424
+  },
+  {
+    "_table_id": 1178,
+    "_skill_ratio": 1129,
+    "_skill_id": 76545,
+    "_character_id": 768
+  },
+  {
+    "_table_id": 77334784,
+    "_skill_ratio": 98369536,
+    "_skill_id": 738263040,
+    "_character_id": 50331649
+  },
+  {
+    "_table_id": 150994948,
+    "_skill_ratio": 1182,
+    "_skill_id": 1502,
+    "_character_id": 77057
+  },
+  {
+    "_table_id": 302857,
+    "_skill_ratio": 77596928,
+    "_skill_id": 98500608,
+    "_character_id": 771817472
+  },
+  {
+    "_table_id": -1593245696,
+    "_skill_ratio": 150994948,
+    "_skill_id": 1186,
+    "_character_id": 1503
+  },
+  {
+    "_table_id": 1005,
+    "_skill_ratio": 303881,
+    "_skill_id": 77859072,
+    "_character_id": 98566144
+  },
+  {
+    "_table_id": 65929216,
+    "_skill_ratio": -1526136832,
+    "_skill_id": 150994948,
+    "_character_id": 1190
+  },
+  {
+    "_table_id": 3,
+    "_skill_ratio": 1007,
+    "_skill_id": 304905,
+    "_character_id": 78121216
+  },
+  {
+    "_table_id": 196608,
+    "_skill_ratio": 66060288,
+    "_skill_id": -1459027968,
+    "_character_id": 150994948
+  },
+  {
+    "_table_id": 307,
+    "_skill_ratio": 3,
+    "_skill_id": 1009,
+    "_character_id": 305929
+  },
+  {
+    "_table_id": 20185344,
+    "_skill_ratio": 196608,
+    "_skill_id": 66191360,
+    "_character_id": -1391919104
+  },
+  {
+    "_table_id": 16777221,
+    "_skill_ratio": 309,
+    "_skill_id": 3,
+    "_character_id": 1011
+  },
+  {
+    "_table_id": 385280,
+    "_skill_ratio": 20316416,
+    "_skill_id": 196608,
+    "_character_id": 66322432
+  },
+  {
+    "_table_id": -520093692,
+    "_skill_ratio": 16777221,
+    "_skill_id": 311,
+    "_character_id": 3
+  },
+  {
+    "_table_id": 308233,
+    "_skill_ratio": 385280,
+    "_skill_id": 20447488,
+    "_character_id": 196608
+  },
+  {
+    "_table_id": -1240924160,
+    "_skill_ratio": -503316476,
+    "_skill_id": 16777221,
+    "_character_id": 313
+  },
+  {
+    "_table_id": 1207,
+    "_skill_ratio": 309257,
+    "_skill_id": 385536,
+    "_character_id": 20578560
+  },
+  {
+    "_table_id": 79235328,
+    "_skill_ratio": -1173815296,
+    "_skill_id": -486539260,
+    "_character_id": 16777221
+  },
+  {
+    "_table_id": 150994947,
+    "_skill_ratio": 1211,
+    "_skill_id": 310281,
+    "_character_id": 385792
+  },
+  {
+    "_table_id": 260608,
+    "_skill_ratio": 79497472,
+    "_skill_id": -1106706432,
+    "_character_id": -486539260
+  },
+  {
+    "_table_id": -83886080,
+    "_skill_ratio": 150994947,
+    "_skill_id": 1215,
+    "_character_id": 311305
+  },
+  {
+    "_table_id": 768,
+    "_skill_ratio": 261120,
+    "_skill_id": 79759616,
+    "_character_id": -1039597568
+  },
+  {
+    "_table_id": 50331649,
+    "_skill_ratio": -50331648,
+    "_skill_id": 150994947,
+    "_character_id": 1219
+  },
+  {
+    "_table_id": 81921,
+    "_skill_ratio": 768,
+    "_skill_id": 261632,
+    "_character_id": 80021760
+  },
+  {
+    "_table_id": 1090584576,
+    "_skill_ratio": 50331649,
+    "_skill_id": -16777216,
+    "_character_id": 150994947
+  },
+  {
+    "_table_id": 1508,
+    "_skill_ratio": 82433,
+    "_skill_id": 768,
+    "_character_id": 262144
+  },
+  {
+    "_table_id": 98828288,
+    "_skill_ratio": 1124139008,
+    "_skill_id": 50331649,
+    "_character_id": 16777216
+  },
+  {
+    "_table_id": 1228,
+    "_skill_ratio": 1508,
+    "_skill_id": 82945,
+    "_character_id": 768
+  },
+  {
+    "_table_id": 80611584,
+    "_skill_ratio": 98828288,
+    "_skill_id": 1157693440,
+    "_character_id": 50331649
+  },
+  {
+    "_table_id": 150994948,
+    "_skill_ratio": 1232,
+    "_skill_id": 1508,
+    "_character_id": 83457
+  },
+  {
+    "_table_id": 315657,
+    "_skill_ratio": 80873728,
+    "_skill_id": 98893824,
+    "_character_id": 1191247872
+  },
+  {
+    "_table_id": -754384896,
+    "_skill_ratio": 150994948,
+    "_skill_id": 1236,
+    "_character_id": 1509
+  },
+  {
+    "_table_id": 1030,
+    "_skill_ratio": 316681,
+    "_skill_id": 81135872,
+    "_character_id": 98893824
+  },
+  {
+    "_table_id": 67567616,
+    "_skill_ratio": -687276032,
+    "_skill_id": 150994948,
+    "_character_id": 1240
+  },
+  {
+    "_table_id": 3,
+    "_skill_ratio": 1032,
+    "_skill_id": 317705,
+    "_character_id": 81398016
+  },
+  {
+    "_table_id": 196608,
+    "_skill_ratio": 67698688,
+    "_skill_id": -620167168,
+    "_character_id": 150994948
+  },
+  {
+    "_table_id": 332,
+    "_skill_ratio": 3,
+    "_skill_id": 1034,
+    "_character_id": 318729
+  },
+  {
+    "_table_id": 21823744,
+    "_skill_ratio": 196608,
+    "_skill_id": 67829760,
+    "_character_id": -553058304
+  },
+  {
+    "_table_id": 16777221,
+    "_skill_ratio": 334,
+    "_skill_id": 3,
+    "_character_id": 1036
+  },
+  {
+    "_table_id": 386816,
+    "_skill_ratio": 21954816,
+    "_skill_id": 196608,
+    "_character_id": 67960832
+  },
+  {
+    "_table_id": -419430396,
+    "_skill_ratio": 16777221,
+    "_skill_id": 336,
+    "_character_id": 3
+  },
+  {
+    "_table_id": 321033,
+    "_skill_ratio": 386816,
+    "_skill_id": 22085888,
+    "_character_id": 196608
+  },
+  {
+    "_table_id": -402063360,
+    "_skill_ratio": -402653180,
+    "_skill_id": 16777221,
+    "_character_id": 338
+  },
+  {
+    "_table_id": 1257,
+    "_skill_ratio": 322057,
+    "_skill_id": 387072,
+    "_character_id": 22216960
+  },
+  {
+    "_table_id": 82512128,
+    "_skill_ratio": -334954496,
+    "_skill_id": -385875964,
+    "_character_id": 16777221
+  },
+  {
+    "_table_id": 150994948,
+    "_skill_ratio": 1261,
+    "_skill_id": 323081,
+    "_character_id": 387328
+  },
+  {
+    "_table_id": 267008,
+    "_skill_ratio": 82774272,
+    "_skill_id": -267845632,
+    "_character_id": -369098748
+  },
+  {
+    "_table_id": 335544320,
+    "_skill_ratio": 150994948,
+    "_skill_id": 1265,
+    "_character_id": 324105
+  },
+  {
+    "_table_id": 768,
+    "_skill_ratio": 267520,
+    "_skill_id": 83036416,
+    "_character_id": -200736768
+  },
+  {
+    "_table_id": 50331649,
+    "_skill_ratio": 369098752,
+    "_skill_id": 150994948,
+    "_character_id": 1269
+  },
+  {
+    "_table_id": 88321,
+    "_skill_ratio": 768,
+    "_skill_id": 268032,
+    "_character_id": 83298560
+  },
+  {
+    "_table_id": 1510014976,
+    "_skill_ratio": 50331649,
+    "_skill_id": 402653184,
+    "_character_id": 150994948
+  },
+  {
+    "_table_id": 1517,
+    "_skill_ratio": 88833,
+    "_skill_id": 768,
+    "_character_id": 268544
+  },
+  {
+    "_table_id": 99418112,
+    "_skill_ratio": 1543569408,
+    "_skill_id": 50331649,
+    "_character_id": 436207616
+  },
+  {
+    "_table_id": 1278,
+    "_skill_ratio": 1517,
+    "_skill_id": 89345,
+    "_character_id": 768
+  },
+  {
+    "_table_id": 83888384,
+    "_skill_ratio": 99483648,
+    "_skill_id": 1577123840,
+    "_character_id": 50331649
+  },
+  {
+    "_table_id": 150994949,
+    "_skill_ratio": 1282,
+    "_skill_id": 1518,
+    "_character_id": 89857
+  },
+  {
+    "_table_id": 328457,
+    "_skill_ratio": 84150528,
+    "_skill_id": 99483648,
+    "_character_id": 1610678272
+  },
+  {
+    "_table_id": 84475904,
+    "_skill_ratio": 150994949,
+    "_skill_id": 1286,
+    "_character_id": 1519
+  },
+  {
+    "_table_id": 1055,
+    "_skill_ratio": 329481,
+    "_skill_id": 84412672,
+    "_character_id": 99549184
+  },
+  {
+    "_table_id": 69206016,
+    "_skill_ratio": 151584768,
+    "_skill_id": 150994949,
+    "_character_id": 1290
+  },
+  {
+    "_table_id": 3,
+    "_skill_ratio": 1057,
+    "_skill_id": 330505,
+    "_character_id": 84674816
+  },
+  {
+    "_table_id": 196608,
+    "_skill_ratio": 69337088,
+    "_skill_id": 218693632,
+    "_character_id": 150994949
+  },
+  {
+    "_table_id": 357,
+    "_skill_ratio": 3,
+    "_skill_id": 1059,
+    "_character_id": 331529
+  },
+  {
+    "_table_id": 23462144,
+    "_skill_ratio": 196608,
+    "_skill_id": 69468160,
+    "_character_id": 285802496
+  },
+  {
+    "_table_id": 16777221,
+    "_skill_ratio": 359,
+    "_skill_id": 3,
+    "_character_id": 1061
+  },
+  {
+    "_table_id": 389376,
+    "_skill_ratio": 23593216,
+    "_skill_id": 196608,
+    "_character_id": 69599232
+  },
+  {
+    "_table_id": -234881019,
+    "_skill_ratio": 16777221,
+    "_skill_id": 361,
+    "_character_id": 3
+  },
+  {
+    "_table_id": 333833,
+    "_skill_ratio": 389632,
+    "_skill_id": 23724288,
+    "_character_id": 196608
+  },
+  {
+    "_table_id": 436797440,
+    "_skill_ratio": -234881019,
+    "_skill_id": 16777221,
+    "_character_id": 363
+  },
+  {
+    "_table_id": 1307,
+    "_skill_ratio": 334857,
+    "_skill_id": 389632,
+    "_character_id": 23855360
+  },
+  {
+    "_table_id": 85788928,
+    "_skill_ratio": 503906304,
+    "_skill_id": -218103803,
+    "_character_id": 16777221
+  },
+  {
+    "_table_id": 150994948,
+    "_skill_ratio": 1311,
+    "_skill_id": 335881,
+    "_character_id": 389888
+  },
+  {
+    "_table_id": 273408,
+    "_skill_ratio": 86051072,
+    "_skill_id": 571015168,
+    "_character_id": -201326587
+  },
+  {
+    "_table_id": 754974720,
+    "_skill_ratio": 150994948,
+    "_skill_id": 1315,
+    "_character_id": 336905
+  },
+  {
+    "_table_id": 768,
+    "_skill_ratio": 273920,
+    "_skill_id": 86313216,
+    "_character_id": 638124032
+  },
+  {
+    "_table_id": 50331649,
+    "_skill_ratio": 788529152,
+    "_skill_id": 150994948,
+    "_character_id": 1319
+  },
+  {
+    "_table_id": 94721,
+    "_skill_ratio": 768,
+    "_skill_id": 274432,
+    "_character_id": 86575360
+  },
+  {
+    "_table_id": 1929445376,
+    "_skill_ratio": 50331649,
+    "_skill_id": 822083584,
+    "_character_id": 150994948
+  },
+  {
+    "_table_id": 1526,
+    "_skill_ratio": 95233,
+    "_skill_id": 768,
+    "_character_id": 274944
+  },
+  {
+    "_table_id": 100073472,
+    "_skill_ratio": 1962999808,
+    "_skill_id": 50331649,
+    "_character_id": 855638016
+  },
+  {
+    "_table_id": 1328,
+    "_skill_ratio": 1528,
+    "_skill_id": 95745,
+    "_character_id": 768
+  },
+  {
+    "_table_id": 87165184,
+    "_skill_ratio": 100139008,
+    "_skill_id": 1996554240,
+    "_character_id": 50331649
+  },
+  {
+    "_table_id": 150994949,
+    "_skill_ratio": 1332,
+    "_skill_id": 1529,
+    "_character_id": 96257
+  },
+  {
+    "_table_id": 341257,
+    "_skill_ratio": 87427328,
+    "_skill_id": 100204544,
+    "_character_id": 2030108672
+  },
+  {
+    "_table_id": 923336704,
+    "_skill_ratio": 150994949,
+    "_skill_id": 1336,
+    "_character_id": 1530
+  },
+  {
+    "_table_id": 1080,
+    "_skill_ratio": 342281,
+    "_skill_id": 87689472,
+    "_character_id": 100335616
+  },
+  {
+    "_table_id": 70844416,
+    "_skill_ratio": 990445568,
+    "_skill_id": 150994949,
+    "_character_id": 1340
+  },
+  {
+    "_table_id": 3,
+    "_skill_ratio": 1082,
+    "_skill_id": 343305,
+    "_character_id": 87951616
+  },
+  {
+    "_table_id": 196608,
+    "_skill_ratio": 70975488,
+    "_skill_id": 1057554432,
+    "_character_id": 150994949
+  },
+  {
+    "_table_id": 382,
+    "_skill_ratio": 3,
+    "_skill_id": 1084,
+    "_character_id": 344329
+  },
+  {
+    "_table_id": 25100544,
+    "_skill_ratio": 196608,
+    "_skill_id": 71106560,
+    "_character_id": 1124663296
+  },
+  {
+    "_table_id": 16777221,
+    "_skill_ratio": 384,
+    "_skill_id": 3,
+    "_character_id": 1086
+  },
+  {
+    "_table_id": 392704,
+    "_skill_ratio": 25231616,
+    "_skill_id": 196608,
+    "_character_id": 71237632
+  },
+  {
+    "_table_id": -33554427,
+    "_skill_ratio": 16777221,
+    "_skill_id": 386,
+    "_character_id": 3
+  },
+  {
+    "_table_id": 346633,
+    "_skill_ratio": 392704,
+    "_skill_id": 25362688,
+    "_character_id": 196608
+  },
+  {
+    "_table_id": 1275658240,
+    "_skill_ratio": -33554427,
+    "_skill_id": 16777221,
+    "_character_id": 388
+  },
+  {
+    "_table_id": 1357,
+    "_skill_ratio": 347657,
+    "_skill_id": 392704,
+    "_character_id": 25493760
+  },
+  {
+    "_table_id": 89065728,
+    "_skill_ratio": 1342767104,
+    "_skill_id": -33554427,
+    "_character_id": 16777221
+  },
+  {
+    "_table_id": 150994948,
+    "_skill_ratio": 1361,
+    "_skill_id": 348681,
+    "_character_id": 392960
+  },
+  {
+    "_table_id": 279808,
+    "_skill_ratio": 89327872,
+    "_skill_id": 1409875968,
+    "_character_id": -16777211
+  },
+  {
+    "_table_id": 1174405120,
+    "_skill_ratio": 150994948,
+    "_skill_id": 1365,
+    "_character_id": 349705
+  },
+  {
+    "_table_id": 768,
+    "_skill_ratio": 280320,
+    "_skill_id": 89590016,
+    "_character_id": 1476984832
+  },
+  {
+    "_table_id": 50331649,
+    "_skill_ratio": 1207959552,
+    "_skill_id": 150994948,
+    "_character_id": 1369
+  },
+  {
+    "_table_id": 101121,
+    "_skill_ratio": 768,
+    "_skill_id": 280832,
+    "_character_id": 89852160
+  },
+  {
+    "_table_id": -1946091520,
+    "_skill_ratio": 50331649,
+    "_skill_id": 1241513984,
+    "_character_id": 150994948
+  },
+  {
+    "_table_id": 1536,
+    "_skill_ratio": 101633,
+    "_skill_id": 768,
+    "_character_id": 281344
+  },
+  {
+    "_table_id": 100663296,
+    "_skill_ratio": -1912537088,
+    "_skill_id": 50331649,
+    "_character_id": 1275068416
+  },
+  {
+    "_table_id": 1378,
+    "_skill_ratio": 1537,
+    "_skill_id": 102145,
+    "_character_id": 768
+  },
+  {
+    "_table_id": 90441984,
+    "_skill_ratio": 100728832,
+    "_skill_id": -1878982656,
+    "_character_id": 50331649
+  },
+  {
+    "_table_id": 150994949,
+    "_skill_ratio": 1382,
+    "_skill_id": 1538,
+    "_character_id": 102657
+  },
+  {
+    "_table_id": 354057,
+    "_skill_ratio": 90704128,
+    "_skill_id": 100859904,
+    "_character_id": -1845428224
+  },
+  {
+    "_table_id": 1762197504,
+    "_skill_ratio": 150994949,
+    "_skill_id": 1386,
+    "_character_id": 1539
+  },
+  {
+    "_table_id": 1105,
+    "_skill_ratio": 355081,
+    "_skill_id": 90966272,
+    "_character_id": 100859904
+  },
+  {
+    "_table_id": 72482816,
+    "_skill_ratio": 1829306368,
+    "_skill_id": 150994949,
+    "_character_id": 1390
+  },
+  {
+    "_table_id": 3,
+    "_skill_ratio": 1107,
+    "_skill_id": 356105,
+    "_character_id": 91228416
+  },
+  {
+    "_table_id": 196608,
+    "_skill_ratio": 72613888,
+    "_skill_id": 1896415232,
+    "_character_id": 150994949
+  },
+  {
+    "_table_id": 407,
+    "_skill_ratio": 3,
+    "_skill_id": 1109,
+    "_character_id": 357129
+  },
+  {
+    "_table_id": 26738944,
+    "_skill_ratio": 196608,
+    "_skill_id": 72744960,
+    "_character_id": 1963524096
+  },
+  {
+    "_table_id": 16777222,
+    "_skill_ratio": 409,
+    "_skill_id": 3,
+    "_character_id": 1111
+  },
+  {
+    "_table_id": 394496,
+    "_skill_ratio": 26870016,
+    "_skill_id": 196608,
+    "_character_id": 72876032
+  },
+  {
+    "_table_id": 905969669,
+    "_skill_ratio": 16777222,
+    "_skill_id": 411,
+    "_character_id": 3
+  },
+  {
+    "_table_id": 359433,
+    "_skill_ratio": 407040,
+    "_skill_id": 27001088,
+    "_character_id": 196608
+  },
+  {
+    "_table_id": 2114519040,
+    "_skill_ratio": 100663301,
+    "_skill_id": 16777222,
+    "_character_id": 413
+  },
+  {
+    "_table_id": 1407,
+    "_skill_ratio": 360457,
+    "_skill_id": 394752,
+    "_character_id": 27132160
+  },
+  {
+    "_table_id": 92342528,
+    "_skill_ratio": -2113339392,
+    "_skill_id": 100663301,
+    "_character_id": 16777222
+  },
+  {
+    "_table_id": 150994948,
+    "_skill_ratio": 1411,
+    "_skill_id": 361481,
+    "_character_id": 394752
+  },
+  {
+    "_table_id": 286208,
+    "_skill_ratio": 92604672,
+    "_skill_id": -2046230528,
+    "_character_id": 117440517
+  },
+  {
+    "_table_id": 1593835520,
+    "_skill_ratio": 150994948,
+    "_skill_id": 1415,
+    "_character_id": 362505
+  },
+  {
+    "_table_id": 768,
+    "_skill_ratio": 286720,
+    "_skill_id": 92866816,
+    "_character_id": -1979121664
+  },
+  {
+    "_table_id": 50331649,
+    "_skill_ratio": 1627389952,
+    "_skill_id": 150994948,
+    "_character_id": 1419
+  },
+  {
+    "_table_id": 107521,
+    "_skill_ratio": 768,
+    "_skill_id": 287232,
+    "_character_id": 93128960
+  },
+  {
+    "_table_id": -1526661120,
+    "_skill_ratio": 50331649,
+    "_skill_id": 1660944384,
+    "_character_id": 150994948
+  },
+  {
+    "_table_id": 1545,
+    "_skill_ratio": 108033,
+    "_skill_id": 768,
+    "_character_id": 287744
+  },
+  {
+    "_table_id": 101253120,
+    "_skill_ratio": -1493106688,
+    "_skill_id": 50331649,
+    "_character_id": 1694498816
+  },
+  {
+    "_table_id": 1428,
+    "_skill_ratio": 1545,
+    "_skill_id": 108545,
+    "_character_id": 768
+  },
+  {
+    "_table_id": 93718784,
+    "_skill_ratio": 101318656,
+    "_skill_id": -1459552256,
+    "_character_id": 50331649
+  },
+  {
+    "_table_id": 150994949,
+    "_skill_ratio": 1432,
+    "_skill_id": 1546,
+    "_character_id": 109057
+  },
+  {
+    "_table_id": 366857,
+    "_skill_ratio": 93980928,
+    "_skill_id": 101384192,
+    "_character_id": -1425997824
+  },
+  {
+    "_table_id": -1693908992,
+    "_skill_ratio": 150994949,
+    "_skill_id": 1436,
+    "_character_id": 1547
+  },
+  {
+    "_table_id": 1130,
+    "_skill_ratio": 367881,
+    "_skill_id": 94243072,
+    "_character_id": 101449728
+  },
+  {
+    "_table_id": 74121216,
+    "_skill_ratio": -1626800128,
+    "_skill_id": 150994949,
+    "_character_id": 1440
+  },
+  {
+    "_table_id": 3,
+    "_skill_ratio": 1132,
+    "_skill_id": 368905,
+    "_character_id": 94505216
+  },
+  {
+    "_table_id": 196608,
+    "_skill_ratio": 74252288,
+    "_skill_id": -1559691264,
+    "_character_id": 150994949
+  },
+  {
+    "_table_id": 432,
+    "_skill_ratio": 3,
+    "_skill_id": 1134,
+    "_character_id": 369929
+  },
+  {
+    "_table_id": 28377344,
+    "_skill_ratio": 196608,
+    "_skill_id": 74383360,
+    "_character_id": -1492582400
+  },
+  {
+    "_table_id": 16777222,
+    "_skill_ratio": 434,
+    "_skill_id": 3,
+    "_character_id": 1136
+  },
+  {
+    "_table_id": 396800,
+    "_skill_ratio": 28508416,
+    "_skill_id": 196608,
+    "_character_id": 74514432
+  },
+  {
+    "_table_id": 251658245,
+    "_skill_ratio": 16777222,
+    "_skill_id": 436,
+    "_character_id": 3
+  },
+  {
+    "_table_id": 372233,
+    "_skill_ratio": 397056,
+    "_skill_id": 28639488,
+    "_character_id": 196608
+  },
+  {
+    "_table_id": -1341587456,
+    "_skill_ratio": 268435461,
+    "_skill_id": 16777222,
+    "_character_id": 438
+  },
+  {
+    "_table_id": 1457,
+    "_skill_ratio": 373257,
+    "_skill_id": 397312,
+    "_character_id": 28770560
+  },
+  {
+    "_table_id": 95619328,
+    "_skill_ratio": -1274478592,
+    "_skill_id": 268435461,
+    "_character_id": 16777222
+  },
+  {
+    "_table_id": 150994948,
+    "_skill_ratio": 1461,
+    "_skill_id": 374281,
+    "_character_id": 397312
+  },
+  {
+    "_table_id": 292608,
+    "_skill_ratio": 95881472,
+    "_skill_id": -1207369728,
+    "_character_id": 285212677
+  },
+  {
+    "_table_id": 2013265920,
+    "_skill_ratio": 150994948,
+    "_skill_id": 1465,
+    "_character_id": 375305
+  },
+  {
+    "_table_id": 768,
+    "_skill_ratio": 293120,
+    "_skill_id": 96143616,
+    "_character_id": -1140260864
+  },
+  {
+    "_table_id": 50331649,
+    "_skill_ratio": 2046820352,
+    "_skill_id": 150994948,
+    "_character_id": 1469
+  },
+  {
+    "_table_id": 113921,
+    "_skill_ratio": 768,
+    "_skill_id": 293632,
+    "_character_id": 96405760
+  },
+  {
+    "_table_id": -1107230720,
+    "_skill_ratio": 50331649,
+    "_skill_id": 2080374784,
+    "_character_id": 150994948
+  },
+  {
+    "_table_id": 1555,
+    "_skill_ratio": 114433,
+    "_skill_id": 768,
+    "_character_id": 294144
+  },
+  {
+    "_table_id": 101908480,
+    "_skill_ratio": -1073676288,
+    "_skill_id": 50331649,
+    "_character_id": 2113929216
+  },
+  {
+    "_table_id": 1478,
+    "_skill_ratio": 1555,
+    "_skill_id": 114945,
+    "_character_id": 768
+  },
+  {
+    "_table_id": 96995584,
+    "_skill_ratio": 101974016,
+    "_skill_id": -1040121856,
+    "_character_id": 50331649
+  },
+  {
+    "_table_id": 150994949,
+    "_skill_ratio": 1482,
+    "_skill_id": 1556,
+    "_character_id": 115457
+  },
+  {
+    "_table_id": 379657,
+    "_skill_ratio": 97257728,
+    "_skill_id": 101974016,
+    "_character_id": -1006567424
+  },
+  {
+    "_table_id": -855048192,
+    "_skill_ratio": 150994949,
+    "_skill_id": 1486,
+    "_character_id": 1557
+  },
+  {
+    "_table_id": 1155,
+    "_skill_ratio": 380681,
+    "_skill_id": 97519872,
+    "_character_id": 102105088
+  },
+  {
+    "_table_id": 75759616,
+    "_skill_ratio": -787939328,
+    "_skill_id": 150994949,
+    "_character_id": 1490
+  },
+  {
+    "_table_id": 3,
+    "_skill_ratio": 1157,
+    "_skill_id": 381705,
+    "_character_id": 97782016
+  },
+  {
+    "_table_id": 196608,
+    "_skill_ratio": 75890688,
+    "_skill_id": -720830464,
+    "_character_id": 150994949
+  },
+  {
+    "_table_id": 457,
+    "_skill_ratio": 3,
+    "_skill_id": 1159,
+    "_character_id": 382729
+  },
+  {
+    "_table_id": 30015744,
+    "_skill_ratio": 196608,
+    "_skill_id": 76021760,
+    "_character_id": -653721600
+  },
+  {
+    "_table_id": 16777222,
+    "_skill_ratio": 459,
+    "_skill_id": 3,
+    "_character_id": 1161
+  },
+  {
+    "_table_id": 399360,
+    "_skill_ratio": 30146816,
+    "_skill_id": 196608,
+    "_character_id": 76152832
+  },
+  {
+    "_table_id": 419430405,
+    "_skill_ratio": 16777222,
+    "_skill_id": 461,
+    "_character_id": 3
+  },
+  {
+    "_table_id": 385033,
+    "_skill_ratio": 399616,
+    "_skill_id": 30277888,
+    "_character_id": 196608
+  },
+  {
+    "_table_id": -502726656,
+    "_skill_ratio": 419430405,
+    "_skill_id": 16777222,
+    "_character_id": 463
+  },
+  {
+    "_table_id": 1507,
+    "_skill_ratio": 386057,
+    "_skill_id": 399616,
+    "_character_id": 30408960
+  },
+  {
+    "_table_id": 98896128,
+    "_skill_ratio": -435617792,
+    "_skill_id": 419430405,
+    "_character_id": 16777222
+  },
+  {
+    "_table_id": 150994948,
+    "_skill_ratio": 1511,
+    "_skill_id": 387081,
+    "_character_id": 399616
+  },
+  {
+    "_table_id": 299008,
+    "_skill_ratio": 99158272,
+    "_skill_id": -368508928,
+    "_character_id": 419430405
+  },
+  {
+    "_table_id": -1862270976,
+    "_skill_ratio": 150994948,
+    "_skill_id": 1515,
+    "_character_id": 388105
+  },
+  {
+    "_table_id": 768,
+    "_skill_ratio": 299520,
+    "_skill_id": 99420416,
+    "_character_id": -301400064
+  },
+  {
+    "_table_id": 50331649,
+    "_skill_ratio": -1828716544,
+    "_skill_id": 150994948,
+    "_character_id": 1519
+  },
+  {
+    "_table_id": 120321,
+    "_skill_ratio": 768,
+    "_skill_id": 300032,
+    "_character_id": 99682560
+  },
+  {
+    "_table_id": -687800320,
+    "_skill_ratio": 50331649,
+    "_skill_id": -1795162112,
+    "_character_id": 150994948
+  },
+  {
+    "_table_id": 1562,
+    "_skill_ratio": 120833,
+    "_skill_id": 768,
+    "_character_id": 300544
+  },
+  {
+    "_table_id": 102432768,
+    "_skill_ratio": -654245888,
+    "_skill_id": 50331649,
+    "_character_id": -1761607680
+  },
+  {
+    "_table_id": 1528,
+    "_skill_ratio": 1591,
+    "_skill_id": 121345,
+    "_character_id": 768
+  },
+  {
+    "_table_id": 100272384,
+    "_skill_ratio": 102498304,
+    "_skill_id": -620691456,
+    "_character_id": 50331649
+  },
+  {
+    "_table_id": 150994949,
+    "_skill_ratio": 1532,
+    "_skill_id": 1564,
+    "_character_id": 121857
+  },
+  {
+    "_table_id": 392457,
+    "_skill_ratio": 100534528,
+    "_skill_id": 104333312,
+    "_character_id": -587137024
+  },
+  {
+    "_table_id": -16187392,
+    "_skill_ratio": 150994949,
+    "_skill_id": 1536,
+    "_character_id": 1592
+  },
+  {
+    "_table_id": 1180,
+    "_skill_ratio": 393481,
+    "_skill_id": 100796672,
+    "_character_id": 102563840
+  },
+  {
+    "_table_id": 77398016,
+    "_skill_ratio": 50921472,
+    "_skill_id": 150994950,
+    "_character_id": 1540
+  },
+  {
+    "_table_id": 3,
+    "_skill_ratio": 1182,
+    "_skill_id": 394505,
+    "_character_id": 101058816
+  },
+  {
+    "_table_id": 196608,
+    "_skill_ratio": 77529088,
+    "_skill_id": 118030336,
+    "_character_id": 150994950
+  },
+  {
+    "_table_id": 482,
+    "_skill_ratio": 3,
+    "_skill_id": 1184,
+    "_character_id": 395529
+  },
+  {
+    "_table_id": 31654144,
+    "_skill_ratio": 196608,
+    "_skill_id": 77660160,
+    "_character_id": 185139200
+  },
+  {
+    "_table_id": 16777222,
+    "_skill_ratio": 484,
+    "_skill_id": 3,
+    "_character_id": 1186
+  },
+  {
+    "_table_id": 401152,
+    "_skill_ratio": 31785216,
+    "_skill_id": 196608,
+    "_character_id": 77791232
+  },
+  {
+    "_table_id": 536870918,
+    "_skill_ratio": 16777222,
+    "_skill_id": 486,
+    "_character_id": 3
+  },
+  {
+    "_table_id": 397833,
+    "_skill_ratio": 401408,
+    "_skill_id": 31916288,
+    "_character_id": 196608
+  },
+  {
+    "_table_id": 336134144,
+    "_skill_ratio": 536870918,
+    "_skill_id": 16777222,
+    "_character_id": 488
+  },
+  {
+    "_table_id": 1557,
+    "_skill_ratio": 398857,
+    "_skill_id": 401664,
+    "_character_id": 32047360
+  },
+  {
+    "_table_id": 102172928,
+    "_skill_ratio": 403243008,
+    "_skill_id": 553648134,
+    "_character_id": 16777222
+  },
+  {
+    "_table_id": 150994948,
+    "_skill_ratio": 1561,
+    "_skill_id": 399881,
+    "_character_id": 401664
+  },
+  {
+    "_table_id": 305408,
+    "_skill_ratio": 102435072,
+    "_skill_id": 470351872,
+    "_character_id": 553648134
+  },
+  {
+    "_table_id": -1442840576,
+    "_skill_ratio": 150994948,
+    "_skill_id": 1565,
+    "_character_id": 400905
+  },
+  {
+    "_table_id": 768,
+    "_skill_ratio": 305920,
+    "_skill_id": 102697216,
+    "_character_id": 537460736
+  },
+  {
+    "_table_id": 50331649,
+    "_skill_ratio": -1409286144,
+    "_skill_id": 150994948,
+    "_character_id": 1569
+  },
+  {
+    "_table_id": 126721,
+    "_skill_ratio": 768,
+    "_skill_id": 306432,
+    "_character_id": 102959360
+  },
+  {
+    "_table_id": -268369920,
+    "_skill_ratio": 50331649,
+    "_skill_id": -1375731712,
+    "_character_id": 150994948
+  },
+  {
+    "_table_id": 1571,
+    "_skill_ratio": 127233,
+    "_skill_id": 768,
+    "_character_id": 306944
+  },
+  {
+    "_table_id": 102957056,
+    "_skill_ratio": -234815488,
+    "_skill_id": 50331649,
+    "_character_id": -1342177280
+  },
+  {
+    "_table_id": 1578,
+    "_skill_ratio": 1572,
+    "_skill_id": 127745,
+    "_character_id": 768
+  },
+  {
+    "_table_id": 103549184,
+    "_skill_ratio": 103022592,
+    "_skill_id": -201261056,
+    "_character_id": 50331649
+  },
+  {
+    "_table_id": 150994950,
+    "_skill_ratio": 1582,
+    "_skill_id": 1572,
+    "_character_id": 128257
+  },
+  {
+    "_table_id": 405257,
+    "_skill_ratio": 103811328,
+    "_skill_id": 103088128,
+    "_character_id": -167706624
+  },
+  {
+    "_table_id": 822673408,
+    "_skill_ratio": 150994950,
+    "_skill_id": 1586,
+    "_character_id": 1573
+  },
+  {
+    "_table_id": 1205,
+    "_skill_ratio": 406281,
+    "_skill_id": 104073472,
+    "_character_id": 103153664
+  },
+  {
+    "_table_id": 79036416,
+    "_skill_ratio": 889782272,
+    "_skill_id": 150994950,
+    "_character_id": 1590
+  },
+  {
+    "_table_id": 3,
+    "_skill_ratio": 1207,
+    "_skill_id": 407305,
+    "_character_id": 104335616
+  },
+  {
+    "_table_id": 196608,
+    "_skill_ratio": 79167488,
+    "_skill_id": 956891136,
+    "_character_id": 150994950
+  },
+  {
+    "_table_id": 507,
+    "_skill_ratio": 3,
+    "_skill_id": 1209,
+    "_character_id": 408329
+  },
+  {
+    "_table_id": 33292544,
+    "_skill_ratio": 196608,
+    "_skill_id": 79298560,
+    "_character_id": 1024000000
+  },
+  {
+    "_table_id": 16777222,
+    "_skill_ratio": 509,
+    "_skill_id": 3,
+    "_character_id": 1211
+  },
+  {
+    "_table_id": 403712,
+    "_skill_ratio": 33423616,
+    "_skill_id": 196608,
+    "_character_id": 79429632
+  },
+  {
+    "_table_id": 704643078,
+    "_skill_ratio": 16777222,
+    "_skill_id": 511,
+    "_character_id": 3
+  },
+  {
+    "_table_id": 410633,
+    "_skill_ratio": 403968,
+    "_skill_id": 33554688,
+    "_character_id": 196608
+  },
+  {
+    "_table_id": 1174994944,
+    "_skill_ratio": 721420294,
+    "_skill_id": 16777222,
+    "_character_id": 513
+  },
+  {
+    "_table_id": 1607,
+    "_skill_ratio": 411657,
+    "_skill_id": 404224,
+    "_character_id": 33685760
+  },
+  {
+    "_table_id": 105449728,
+    "_skill_ratio": 1242103808,
+    "_skill_id": 738197510,
+    "_character_id": 16777222
+  },
+  {
+    "_table_id": 150994948,
+    "_skill_ratio": 1611,
+    "_skill_id": 412681,
+    "_character_id": 404480
+  },
+  {
+    "_table_id": 311808,
+    "_skill_ratio": 105711872,
+    "_skill_id": 1309212672,
+    "_character_id": 738197510
+  },
+  {
+    "_table_id": -1023410176,
+    "_skill_ratio": 150994948,
+    "_skill_id": 1615,
+    "_character_id": 413705
+  },
+  {
+    "_table_id": 768,
+    "_skill_ratio": 312320,
+    "_skill_id": 105974016,
+    "_character_id": 1376321536
+  },
+  {
+    "_table_id": 50331650,
+    "_skill_ratio": -989855744,
+    "_skill_id": 150994948,
+    "_character_id": 1619
+  },
+  {
+    "_table_id": 133121,
+    "_skill_ratio": 768,
+    "_skill_id": 312832,
+    "_character_id": 106236160
+  },
+  {
+    "_table_id": 151060480,
+    "_skill_ratio": 50331650,
+    "_skill_id": -956301312,
+    "_character_id": 150994948
+  },
+  {
+    "_table_id": 1582,
+    "_skill_ratio": 133633,
+    "_skill_id": 768,
+    "_character_id": 313344
+  },
+  {
+    "_table_id": 103743488,
+    "_skill_ratio": 184614912,
+    "_skill_id": 50331650,
+    "_character_id": -922746880
+  },
+  {
+    "_table_id": 1628,
+    "_skill_ratio": 1583,
+    "_skill_id": 134145,
+    "_character_id": 768
+  },
+  {
+    "_table_id": 106825984,
+    "_skill_ratio": 103809024,
+    "_skill_id": 218169344,
+    "_character_id": 50331650
+  },
+  {
+    "_table_id": 150994950,
+    "_skill_ratio": 1632,
+    "_skill_id": 1584,
+    "_character_id": 134657
+  },
+  {
+    "_table_id": 418057,
+    "_skill_ratio": 107088128,
+    "_skill_id": 103874560,
+    "_character_id": 251723776
+  },
+  {
+    "_table_id": 1661534208,
+    "_skill_ratio": 150994950,
+    "_skill_id": 1636,
+    "_character_id": 1585
+  },
+  {
+    "_table_id": 1230,
+    "_skill_ratio": 419081,
+    "_skill_id": 107350272,
+    "_character_id": 100335616
+  },
+  {
+    "_table_id": 80674816,
+    "_skill_ratio": 1728643072,
+    "_skill_id": 150994950,
+    "_character_id": 1640
+  },
+  {
+    "_table_id": 3,
+    "_skill_ratio": 1232,
+    "_skill_id": 420105,
+    "_character_id": 107612416
+  },
+  {
+    "_table_id": 196608,
+    "_skill_ratio": 80805888,
+    "_skill_id": 1795751936,
+    "_character_id": 150994950
+  },
+  {
+    "_table_id": 532,
+    "_skill_ratio": 3,
+    "_skill_id": 1234,
+    "_character_id": 421129
+  },
+  {
+    "_table_id": 34930944,
+    "_skill_ratio": 196608,
+    "_skill_id": 80936960,
+    "_character_id": 1862860800
+  },
+  {
+    "_table_id": 16777222,
+    "_skill_ratio": 534,
+    "_skill_id": 3,
+    "_character_id": 1236
+  },
+  {
+    "_table_id": 407808,
+    "_skill_ratio": 35062016,
+    "_skill_id": 196608,
+    "_character_id": 81068032
+  },
+  {
+    "_table_id": 956301318,
+    "_skill_ratio": 16777222,
+    "_skill_id": 536,
+    "_character_id": 3
+  },
+  {
+    "_table_id": 423433,
+    "_skill_ratio": 408064,
+    "_skill_id": 35193088,
+    "_character_id": 196608
+  },
+  {
+    "_table_id": 2013855744,
+    "_skill_ratio": 973078534,
+    "_skill_id": 16777222,
+    "_character_id": 538
+  },
+  {
+    "_table_id": 1657,
+    "_skill_ratio": 424457,
+    "_skill_id": 408320,
+    "_character_id": 35324160
+  },
+  {
+    "_table_id": 108726528,
+    "_skill_ratio": 2080964608,
+    "_skill_id": 989855750,
+    "_character_id": 16777222
+  },
+  {
+    "_table_id": 150994948,
+    "_skill_ratio": 1661,
+    "_skill_id": 425481,
+    "_character_id": 408576
+  },
+  {
+    "_table_id": 318208,
+    "_skill_ratio": 108988672,
+    "_skill_id": -2146893824,
+    "_character_id": 1006632966
+  },
+  {
+    "_table_id": -603979776,
+    "_skill_ratio": 150994948,
+    "_skill_id": 1665,
+    "_character_id": 426505
+  },
+  {
+    "_table_id": 768,
+    "_skill_ratio": 318720,
+    "_skill_id": 109250816,
+    "_character_id": -2079784960
+  }
+]

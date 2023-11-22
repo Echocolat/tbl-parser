@@ -1,0 +1,82 @@
+[
+  {
+    "_encounter_id": 2014,
+    "_divert_encounter_id": 2012
+  },
+  {
+    "_encounter_id": 2016,
+    "_divert_encounter_id": 2012
+  },
+  {
+    "_encounter_id": 2017,
+    "_divert_encounter_id": 2012
+  },
+  {
+    "_encounter_id": 2018,
+    "_divert_encounter_id": 2012
+  },
+  {
+    "_encounter_id": 2019,
+    "_divert_encounter_id": 2012
+  },
+  {
+    "_encounter_id": 376,
+    "_divert_encounter_id": 376
+  },
+  {
+    "_encounter_id": 404,
+    "_divert_encounter_id": 376
+  },
+  {
+    "_encounter_id": 409,
+    "_divert_encounter_id": 376
+  },
+  {
+    "_encounter_id": 411,
+    "_divert_encounter_id": 376
+  },
+  {
+    "_encounter_id": 413,
+    "_divert_encounter_id": 376
+  },
+  {
+    "_encounter_id": 415,
+    "_divert_encounter_id": 376
+  },
+  {
+    "_encounter_id": 449,
+    "_divert_encounter_id": 376
+  },
+  {
+    "_encounter_id": 450,
+    "_divert_encounter_id": 376
+  },
+  {
+    "_encounter_id": 455,
+    "_divert_encounter_id": 376
+  },
+  {
+    "_encounter_id": 456,
+    "_divert_encounter_id": 376
+  },
+  {
+    "_encounter_id": 2070,
+    "_divert_encounter_id": 376
+  },
+  {
+    "_encounter_id": 2049,
+    "_divert_encounter_id": 2049
+  },
+  {
+    "_encounter_id": 2051,
+    "_divert_encounter_id": 2049
+  },
+  {
+    "_encounter_id": 659,
+    "_divert_encounter_id": 659
+  },
+  {
+    "_encounter_id": 665,
+    "_divert_encounter_id": 659
+  }
+]

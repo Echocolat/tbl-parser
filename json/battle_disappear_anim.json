@@ -1,0 +1,9 @@
+[
+  {
+    "_index": 1,
+    "_dead_effect_frame_offset": -4,
+    "_coin_frame_offset": -10,
+    "_kaeru_coin_frame_offset": -10,
+    "_bonus_flower_move_frame": 28
+  }
+]

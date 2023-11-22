@@ -1,0 +1,1010 @@
+[
+  {
+    "_character_id": 1567,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": -1,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1568,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": -1,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1569,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": -1,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1544,
+    "_skill_id": 647,
+    "_hit_type": 1,
+    "_other_effect": -1,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1114,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": -1,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1129,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": -1,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1515,
+    "_skill_id": 535,
+    "_hit_type": 0,
+    "_other_effect": 1,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1501,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1516,
+    "_skill_id": 672,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1516,
+    "_skill_id": 673,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1050,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1057,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1057,
+    "_skill_id": 561,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 0
+  },
+  {
+    "_character_id": 1058,
+    "_skill_id": 561,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 0
+  },
+  {
+    "_character_id": 1061,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1064,
+    "_skill_id": 568,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1069,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1530,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1581,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1081,
+    "_skill_id": 582,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1082,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1542,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1091,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1094,
+    "_skill_id": 561,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 0
+  },
+  {
+    "_character_id": 1096,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1543,
+    "_skill_id": 545,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1104,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1107,
+    "_skill_id": 545,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1555,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1559,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1560,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1109,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1125,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1615,
+    "_skill_id": 582,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1621,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1014,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1508,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1129,
+    "_skill_id": 567,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1505,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1004,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1011,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1012,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1013,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1013,
+    "_skill_id": 515,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1015,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1017,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1021,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1024,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1025,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1031,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1033,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1043,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1517,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1518,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1045,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1048,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1051,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1053,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1061,
+    "_skill_id": 515,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1063,
+    "_skill_id": 567,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1066,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1070,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1071,
+    "_skill_id": 574,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1078,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1078,
+    "_skill_id": 515,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1079,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1080,
+    "_skill_id": 515,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1044,
+    "_skill_id": 515,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1083,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1089,
+    "_skill_id": 582,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1092,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1095,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1101,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1116,
+    "_skill_id": 591,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1117,
+    "_skill_id": 592,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1119,
+    "_skill_id": 591,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1120,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1122,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1123,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1547,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1522,
+    "_skill_id": 567,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1623,
+    "_skill_id": 567,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1620,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1593,
+    "_skill_id": 1,
+    "_hit_type": 2,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": -1
+  },
+  {
+    "_character_id": 1016,
+    "_skill_id": 523,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1021,
+    "_skill_id": 527,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1022,
+    "_skill_id": 530,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1025,
+    "_skill_id": 523,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1025,
+    "_skill_id": 531,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1031,
+    "_skill_id": 540,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1034,
+    "_skill_id": 542,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1034,
+    "_skill_id": 543,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1035,
+    "_skill_id": 530,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1036,
+    "_skill_id": 530,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1039,
+    "_skill_id": 530,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1040,
+    "_skill_id": 547,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1046,
+    "_skill_id": 552,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1046,
+    "_skill_id": 524,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1055,
+    "_skill_id": 562,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1056,
+    "_skill_id": 565,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1056,
+    "_skill_id": 566,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1057,
+    "_skill_id": 512,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1067,
+    "_skill_id": 530,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1067,
+    "_skill_id": 552,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1068,
+    "_skill_id": 552,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1069,
+    "_skill_id": 512,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1070,
+    "_skill_id": 523,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1071,
+    "_skill_id": 574,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1073,
+    "_skill_id": 531,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1073,
+    "_skill_id": 523,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1074,
+    "_skill_id": 530,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1075,
+    "_skill_id": 524,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1526,
+    "_skill_id": 578,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1526,
+    "_skill_id": 607,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1585,
+    "_skill_id": 607,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1585,
+    "_skill_id": 601,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1536,
+    "_skill_id": 523,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1537,
+    "_skill_id": 531,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1537,
+    "_skill_id": 601,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1083,
+    "_skill_id": 543,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1083,
+    "_skill_id": 542,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1542,
+    "_skill_id": 578,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1542,
+    "_skill_id": 601,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1091,
+    "_skill_id": 513,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1549,
+    "_skill_id": 512,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1550,
+    "_skill_id": 601,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1559,
+    "_skill_id": 524,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1559,
+    "_skill_id": 530,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1560,
+    "_skill_id": 578,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1108,
+    "_skill_id": 562,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1561,
+    "_skill_id": 578,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1561,
+    "_skill_id": 601,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1562,
+    "_skill_id": 543,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1562,
+    "_skill_id": 542,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1112,
+    "_skill_id": 512,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1113,
+    "_skill_id": 601,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1114,
+    "_skill_id": 593,
+    "_hit_type": 1,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 0
+  },
+  {
+    "_character_id": 1118,
+    "_skill_id": 594,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1119,
+    "_skill_id": 547,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1609,
+    "_skill_id": 578,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1618,
+    "_skill_id": 530,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1620,
+    "_skill_id": 601,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1621,
+    "_skill_id": 607,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  },
+  {
+    "_character_id": 1597,
+    "_skill_id": 601,
+    "_hit_type": 0,
+    "_other_effect": 0,
+    "_bad_status_bifurcation": 1
+  }
+]

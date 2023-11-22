@@ -1,0 +1,90 @@
+[
+  {
+    "_index": 0,
+    "_num": 0,
+    "_is_move": 0,
+    "_delay": 0,
+    "_alpha": 0.0,
+    "_alpha_attenuation": 0.0
+  },
+  {
+    "_index": 1,
+    "_num": 3,
+    "_is_move": 1,
+    "_delay": 3,
+    "_alpha": 0.800000011920929,
+    "_alpha_attenuation": 0.20000000298023224
+  },
+  {
+    "_index": 2,
+    "_num": 3,
+    "_is_move": 1,
+    "_delay": 3,
+    "_alpha": 0.800000011920929,
+    "_alpha_attenuation": 0.10000000149011612
+  },
+  {
+    "_index": 3,
+    "_num": 1,
+    "_is_move": 2,
+    "_delay": 0,
+    "_alpha": 0.800000011920929,
+    "_alpha_attenuation": 0.0
+  },
+  {
+    "_index": 4,
+    "_num": 6,
+    "_is_move": 1,
+    "_delay": 1,
+    "_alpha": 0.800000011920929,
+    "_alpha_attenuation": 0.0
+  },
+  {
+    "_index": 5,
+    "_num": 1,
+    "_is_move": 2,
+    "_delay": 0,
+    "_alpha": 1.0,
+    "_alpha_attenuation": 0.0
+  },
+  {
+    "_index": 6,
+    "_num": 3,
+    "_is_move": 1,
+    "_delay": 2,
+    "_alpha": 0.800000011920929,
+    "_alpha_attenuation": 0.20000000298023224
+  },
+  {
+    "_index": 7,
+    "_num": 1,
+    "_is_move": 2,
+    "_delay": 0,
+    "_alpha": 0.5,
+    "_alpha_attenuation": 0.0
+  },
+  {
+    "_index": 8,
+    "_num": 3,
+    "_is_move": 1,
+    "_delay": 2,
+    "_alpha": 0.6000000238418579,
+    "_alpha_attenuation": 0.20000000298023224
+  },
+  {
+    "_index": 9,
+    "_num": 3,
+    "_is_move": 1,
+    "_delay": 1,
+    "_alpha": 0.800000011920929,
+    "_alpha_attenuation": 0.20000000298023224
+  },
+  {
+    "_index": 10,
+    "_num": 0,
+    "_is_move": 0,
+    "_delay": 0,
+    "_alpha": 0.0,
+    "_alpha_attenuation": 0.0
+  }
+]

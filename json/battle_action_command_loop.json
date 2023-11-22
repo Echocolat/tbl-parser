@@ -1,0 +1,23 @@
+[
+  {
+    "_action_id": 105,
+    "_max_num": 100,
+    "_hit_count_disp_thresholds": 1545,
+    "_succeed_start_frames": 461056,
+    "_succeed_frames": 134807552
+  },
+  {
+    "_action_id": 1795162112,
+    "_max_num": 1677721600,
+    "_hit_count_disp_thresholds": 150994944,
+    "_succeed_start_frames": 9,
+    "_succeed_frames": 2569
+  },
+  {
+    "_action_id": 196608,
+    "_max_num": 7471104,
+    "_hit_count_disp_thresholds": 1114112,
+    "_succeed_start_frames": 201916416,
+    "_succeed_frames": 150994944
+  }
+]

@@ -1,0 +1,1418 @@
+[
+  {
+    "_character_id": 1031,
+    "_skill_id": 1,
+    "_diversion_character_id": 1004,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1095,
+    "_skill_id": 1,
+    "_diversion_character_id": 1004,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1095,
+    "_skill_id": 502,
+    "_diversion_character_id": 1004,
+    "_diversion_skill_id": 502
+  },
+  {
+    "_character_id": 1083,
+    "_skill_id": 1,
+    "_diversion_character_id": 1015,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1083,
+    "_skill_id": 519,
+    "_diversion_character_id": 1017,
+    "_diversion_skill_id": 519
+  },
+  {
+    "_character_id": 1026,
+    "_skill_id": 1,
+    "_diversion_character_id": 1015,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1026,
+    "_skill_id": 519,
+    "_diversion_character_id": 1017,
+    "_diversion_skill_id": 519
+  },
+  {
+    "_character_id": 1083,
+    "_skill_id": 520,
+    "_diversion_character_id": 1015,
+    "_diversion_skill_id": 520
+  },
+  {
+    "_character_id": 1036,
+    "_skill_id": 1,
+    "_diversion_character_id": 1035,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1036,
+    "_skill_id": 530,
+    "_diversion_character_id": 1035,
+    "_diversion_skill_id": 530
+  },
+  {
+    "_character_id": 1036,
+    "_skill_id": 519,
+    "_diversion_character_id": 1017,
+    "_diversion_skill_id": 519
+  },
+  {
+    "_character_id": 1039,
+    "_skill_id": 1,
+    "_diversion_character_id": 1035,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1039,
+    "_skill_id": 509,
+    "_diversion_character_id": 1035,
+    "_diversion_skill_id": 509
+  },
+  {
+    "_character_id": 1039,
+    "_skill_id": 530,
+    "_diversion_character_id": 1035,
+    "_diversion_skill_id": 530
+  },
+  {
+    "_character_id": 1039,
+    "_skill_id": 539,
+    "_diversion_character_id": 1035,
+    "_diversion_skill_id": 539
+  },
+  {
+    "_character_id": 1039,
+    "_skill_id": 670,
+    "_diversion_character_id": 1035,
+    "_diversion_skill_id": 670
+  },
+  {
+    "_character_id": 1041,
+    "_skill_id": 533,
+    "_diversion_character_id": 1028,
+    "_diversion_skill_id": 533
+  },
+  {
+    "_character_id": 1043,
+    "_skill_id": 1,
+    "_diversion_character_id": 1024,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1043,
+    "_skill_id": 506,
+    "_diversion_character_id": 1024,
+    "_diversion_skill_id": 506
+  },
+  {
+    "_character_id": 1048,
+    "_skill_id": 1,
+    "_diversion_character_id": 1017,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1048,
+    "_skill_id": 518,
+    "_diversion_character_id": 1017,
+    "_diversion_skill_id": 518
+  },
+  {
+    "_character_id": 1048,
+    "_skill_id": 519,
+    "_diversion_character_id": 1017,
+    "_diversion_skill_id": 519
+  },
+  {
+    "_character_id": 1049,
+    "_skill_id": 1,
+    "_diversion_character_id": 1030,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1050,
+    "_skill_id": 1,
+    "_diversion_character_id": 1014,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1050,
+    "_skill_id": 522,
+    "_diversion_character_id": 1014,
+    "_diversion_skill_id": 522
+  },
+  {
+    "_character_id": 1052,
+    "_skill_id": 1,
+    "_diversion_character_id": 1008,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1056,
+    "_skill_id": 1,
+    "_diversion_character_id": 1010,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1056,
+    "_skill_id": 511,
+    "_diversion_character_id": 1010,
+    "_diversion_skill_id": 511
+  },
+  {
+    "_character_id": 1059,
+    "_skill_id": 1,
+    "_diversion_character_id": 1009,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1059,
+    "_skill_id": 507,
+    "_diversion_character_id": 1009,
+    "_diversion_skill_id": 507
+  },
+  {
+    "_character_id": 1059,
+    "_skill_id": 519,
+    "_diversion_character_id": 1009,
+    "_diversion_skill_id": 519
+  },
+  {
+    "_character_id": 1060,
+    "_skill_id": 1,
+    "_diversion_character_id": 1029,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1060,
+    "_skill_id": 535,
+    "_diversion_character_id": 1029,
+    "_diversion_skill_id": 535
+  },
+  {
+    "_character_id": 1061,
+    "_skill_id": 515,
+    "_diversion_character_id": 1013,
+    "_diversion_skill_id": 515
+  },
+  {
+    "_character_id": 1062,
+    "_skill_id": 1,
+    "_diversion_character_id": 1002,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1078,
+    "_skill_id": 515,
+    "_diversion_character_id": 1013,
+    "_diversion_skill_id": 515
+  },
+  {
+    "_character_id": 1078,
+    "_skill_id": 508,
+    "_diversion_character_id": 1013,
+    "_diversion_skill_id": 508
+  },
+  {
+    "_character_id": 1106,
+    "_skill_id": 517,
+    "_diversion_character_id": 1013,
+    "_diversion_skill_id": 517
+  },
+  {
+    "_character_id": 1064,
+    "_skill_id": 1,
+    "_diversion_character_id": 1063,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1065,
+    "_skill_id": 1,
+    "_diversion_character_id": 1006,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1065,
+    "_skill_id": 504,
+    "_diversion_character_id": 1006,
+    "_diversion_skill_id": 504
+  },
+  {
+    "_character_id": 1067,
+    "_skill_id": 1,
+    "_diversion_character_id": 1022,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1067,
+    "_skill_id": 510,
+    "_diversion_character_id": 1022,
+    "_diversion_skill_id": 510
+  },
+  {
+    "_character_id": 1067,
+    "_skill_id": 530,
+    "_diversion_character_id": 1022,
+    "_diversion_skill_id": 530
+  },
+  {
+    "_character_id": 1068,
+    "_skill_id": 1,
+    "_diversion_character_id": 1046,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1068,
+    "_skill_id": 552,
+    "_diversion_character_id": 1046,
+    "_diversion_skill_id": 552
+  },
+  {
+    "_character_id": 1070,
+    "_skill_id": 1,
+    "_diversion_character_id": 1025,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1070,
+    "_skill_id": 523,
+    "_diversion_character_id": 1025,
+    "_diversion_skill_id": 523
+  },
+  {
+    "_character_id": 1071,
+    "_skill_id": 1,
+    "_diversion_character_id": 1018,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1072,
+    "_skill_id": 1,
+    "_diversion_character_id": 1023,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1072,
+    "_skill_id": 519,
+    "_diversion_character_id": 1023,
+    "_diversion_skill_id": 519
+  },
+  {
+    "_character_id": 1072,
+    "_skill_id": 528,
+    "_diversion_character_id": 1023,
+    "_diversion_skill_id": 528
+  },
+  {
+    "_character_id": 1073,
+    "_skill_id": 1,
+    "_diversion_character_id": 1016,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1073,
+    "_skill_id": 523,
+    "_diversion_character_id": 1016,
+    "_diversion_skill_id": 523
+  },
+  {
+    "_character_id": 1074,
+    "_skill_id": 1,
+    "_diversion_character_id": 1032,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1075,
+    "_skill_id": 1,
+    "_diversion_character_id": 1005,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1080,
+    "_skill_id": 1,
+    "_diversion_character_id": 1044,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1080,
+    "_skill_id": 515,
+    "_diversion_character_id": 1044,
+    "_diversion_skill_id": 515
+  },
+  {
+    "_character_id": 1087,
+    "_skill_id": 1,
+    "_diversion_character_id": 1102,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1089,
+    "_skill_id": 1,
+    "_diversion_character_id": 1081,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1089,
+    "_skill_id": 572,
+    "_diversion_character_id": 1081,
+    "_diversion_skill_id": 572
+  },
+  {
+    "_character_id": 1089,
+    "_skill_id": 582,
+    "_diversion_character_id": 1081,
+    "_diversion_skill_id": 582
+  },
+  {
+    "_character_id": 1089,
+    "_skill_id": 678,
+    "_diversion_character_id": 1081,
+    "_diversion_skill_id": 678
+  },
+  {
+    "_character_id": 1090,
+    "_skill_id": 1,
+    "_diversion_character_id": 1027,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1091,
+    "_skill_id": 1,
+    "_diversion_character_id": 1066,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1091,
+    "_skill_id": 526,
+    "_diversion_character_id": 1066,
+    "_diversion_skill_id": 526
+  },
+  {
+    "_character_id": 1092,
+    "_skill_id": 1,
+    "_diversion_character_id": 1024,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1092,
+    "_skill_id": 506,
+    "_diversion_character_id": 1024,
+    "_diversion_skill_id": 506
+  },
+  {
+    "_character_id": 1093,
+    "_skill_id": 1,
+    "_diversion_character_id": 1020,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1093,
+    "_skill_id": 529,
+    "_diversion_character_id": 1020,
+    "_diversion_skill_id": 529
+  },
+  {
+    "_character_id": 1094,
+    "_skill_id": 1,
+    "_diversion_character_id": 1058,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1094,
+    "_skill_id": 561,
+    "_diversion_character_id": 1058,
+    "_diversion_skill_id": 561
+  },
+  {
+    "_character_id": 1094,
+    "_skill_id": 671,
+    "_diversion_character_id": 1058,
+    "_diversion_skill_id": 671
+  },
+  {
+    "_character_id": 1095,
+    "_skill_id": 1,
+    "_diversion_character_id": 1004,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1099,
+    "_skill_id": 519,
+    "_diversion_character_id": 1017,
+    "_diversion_skill_id": 519
+  },
+  {
+    "_character_id": 1099,
+    "_skill_id": 581,
+    "_diversion_character_id": 1532,
+    "_diversion_skill_id": 581
+  },
+  {
+    "_character_id": 1532,
+    "_skill_id": 1,
+    "_diversion_character_id": 1001,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1103,
+    "_skill_id": 1,
+    "_diversion_character_id": 1003,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1104,
+    "_skill_id": 1,
+    "_diversion_character_id": 1082,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1104,
+    "_skill_id": 579,
+    "_diversion_character_id": 1082,
+    "_diversion_skill_id": 579
+  },
+  {
+    "_character_id": 1105,
+    "_skill_id": 546,
+    "_diversion_character_id": 1042,
+    "_diversion_skill_id": 546
+  },
+  {
+    "_character_id": 1105,
+    "_skill_id": 670,
+    "_diversion_character_id": 1042,
+    "_diversion_skill_id": 670
+  },
+  {
+    "_character_id": 1100,
+    "_skill_id": 1,
+    "_diversion_character_id": 1002,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1100,
+    "_skill_id": 519,
+    "_diversion_character_id": 1017,
+    "_diversion_skill_id": 519
+  },
+  {
+    "_character_id": 1101,
+    "_skill_id": 1,
+    "_diversion_character_id": 1053,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1103,
+    "_skill_id": 1,
+    "_diversion_character_id": 1003,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1108,
+    "_skill_id": 1,
+    "_diversion_character_id": 1055,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1108,
+    "_skill_id": 510,
+    "_diversion_character_id": 1055,
+    "_diversion_skill_id": 510
+  },
+  {
+    "_character_id": 1111,
+    "_skill_id": 1,
+    "_diversion_character_id": 1546,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1111,
+    "_skill_id": 514,
+    "_diversion_character_id": 1546,
+    "_diversion_skill_id": 514
+  },
+  {
+    "_character_id": 1111,
+    "_skill_id": 526,
+    "_diversion_character_id": 1546,
+    "_diversion_skill_id": 526
+  },
+  {
+    "_character_id": 1112,
+    "_skill_id": 1,
+    "_diversion_character_id": 1549,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1112,
+    "_skill_id": 512,
+    "_diversion_character_id": 1549,
+    "_diversion_skill_id": 512
+  },
+  {
+    "_character_id": 1112,
+    "_skill_id": 577,
+    "_diversion_character_id": 1549,
+    "_diversion_skill_id": 577
+  },
+  {
+    "_character_id": 1113,
+    "_skill_id": 1,
+    "_diversion_character_id": 1550,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1113,
+    "_skill_id": 522,
+    "_diversion_character_id": 1550,
+    "_diversion_skill_id": 522
+  },
+  {
+    "_character_id": 1113,
+    "_skill_id": 583,
+    "_diversion_character_id": 1550,
+    "_diversion_skill_id": 583
+  },
+  {
+    "_character_id": 1113,
+    "_skill_id": 589,
+    "_diversion_character_id": 1550,
+    "_diversion_skill_id": 589
+  },
+  {
+    "_character_id": 1113,
+    "_skill_id": 601,
+    "_diversion_character_id": 1550,
+    "_diversion_skill_id": 601
+  },
+  {
+    "_character_id": 1116,
+    "_skill_id": 1,
+    "_diversion_character_id": 1115,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1117,
+    "_skill_id": 1,
+    "_diversion_character_id": 1115,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1118,
+    "_skill_id": 1,
+    "_diversion_character_id": 1007,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1118,
+    "_skill_id": 506,
+    "_diversion_character_id": 1007,
+    "_diversion_skill_id": 506
+  },
+  {
+    "_character_id": 1119,
+    "_skill_id": 1,
+    "_diversion_character_id": 1040,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1119,
+    "_skill_id": 547,
+    "_diversion_character_id": 1040,
+    "_diversion_skill_id": 547
+  },
+  {
+    "_character_id": 1120,
+    "_skill_id": 1,
+    "_diversion_character_id": 1505,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1120,
+    "_skill_id": 516,
+    "_diversion_character_id": 1505,
+    "_diversion_skill_id": 516
+  },
+  {
+    "_character_id": 1120,
+    "_skill_id": 517,
+    "_diversion_character_id": 1505,
+    "_diversion_skill_id": 517
+  },
+  {
+    "_character_id": 1120,
+    "_skill_id": 640,
+    "_diversion_character_id": 1505,
+    "_diversion_skill_id": 640
+  },
+  {
+    "_character_id": 1120,
+    "_skill_id": 683,
+    "_diversion_character_id": 1505,
+    "_diversion_skill_id": 657
+  },
+  {
+    "_character_id": 1120,
+    "_skill_id": 684,
+    "_diversion_character_id": 1505,
+    "_diversion_skill_id": 684
+  },
+  {
+    "_character_id": 1121,
+    "_skill_id": 1,
+    "_diversion_character_id": 1007,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1121,
+    "_skill_id": 506,
+    "_diversion_character_id": 1007,
+    "_diversion_skill_id": 506
+  },
+  {
+    "_character_id": 1122,
+    "_skill_id": 1,
+    "_diversion_character_id": 1012,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1122,
+    "_skill_id": 508,
+    "_diversion_character_id": 1012,
+    "_diversion_skill_id": 508
+  },
+  {
+    "_character_id": 1122,
+    "_skill_id": 510,
+    "_diversion_character_id": 1012,
+    "_diversion_skill_id": 510
+  },
+  {
+    "_character_id": 1123,
+    "_skill_id": 1,
+    "_diversion_character_id": 1011,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1123,
+    "_skill_id": 513,
+    "_diversion_character_id": 1011,
+    "_diversion_skill_id": 513
+  },
+  {
+    "_character_id": 1124,
+    "_skill_id": 509,
+    "_diversion_character_id": 1508,
+    "_diversion_skill_id": 509
+  },
+  {
+    "_character_id": 1124,
+    "_skill_id": 510,
+    "_diversion_character_id": 1508,
+    "_diversion_skill_id": 510
+  },
+  {
+    "_character_id": 1124,
+    "_skill_id": 539,
+    "_diversion_character_id": 1508,
+    "_diversion_skill_id": 539
+  },
+  {
+    "_character_id": 1125,
+    "_skill_id": 1,
+    "_diversion_character_id": 1547,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1125,
+    "_skill_id": 599,
+    "_diversion_character_id": 1547,
+    "_diversion_skill_id": 599
+  },
+  {
+    "_character_id": 1125,
+    "_skill_id": 600,
+    "_diversion_character_id": 1547,
+    "_diversion_skill_id": 600
+  },
+  {
+    "_character_id": 1126,
+    "_skill_id": 1,
+    "_diversion_character_id": 1548,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1126,
+    "_skill_id": 505,
+    "_diversion_character_id": 1548,
+    "_diversion_skill_id": 505
+  },
+  {
+    "_character_id": 1126,
+    "_skill_id": 597,
+    "_diversion_character_id": 1548,
+    "_diversion_skill_id": 597
+  },
+  {
+    "_character_id": 1128,
+    "_skill_id": 1,
+    "_diversion_character_id": 1524,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1128,
+    "_skill_id": 550,
+    "_diversion_character_id": 1524,
+    "_diversion_skill_id": 550
+  },
+  {
+    "_character_id": 1128,
+    "_skill_id": 577,
+    "_diversion_character_id": 1525,
+    "_diversion_skill_id": 577
+  },
+  {
+    "_character_id": 1129,
+    "_skill_id": 1,
+    "_diversion_character_id": 1114,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1509,
+    "_skill_id": 1,
+    "_diversion_character_id": 1504,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1509,
+    "_skill_id": 599,
+    "_diversion_character_id": 1504,
+    "_diversion_skill_id": 599
+  },
+  {
+    "_character_id": 1512,
+    "_skill_id": 533,
+    "_diversion_character_id": 1028,
+    "_diversion_skill_id": 533
+  },
+  {
+    "_character_id": 1526,
+    "_skill_id": 1,
+    "_diversion_character_id": 1507,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1525,
+    "_skill_id": 1,
+    "_diversion_character_id": 1524,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1530,
+    "_skill_id": 1,
+    "_diversion_character_id": 1501,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1526,
+    "_skill_id": 1,
+    "_diversion_character_id": 1507,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1534,
+    "_skill_id": 584,
+    "_diversion_character_id": 1533,
+    "_diversion_skill_id": 584
+  },
+  {
+    "_character_id": 1535,
+    "_skill_id": 584,
+    "_diversion_character_id": 1533,
+    "_diversion_skill_id": 584
+  },
+  {
+    "_character_id": 1556,
+    "_skill_id": 1,
+    "_diversion_character_id": 1555,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1556,
+    "_skill_id": 551,
+    "_diversion_character_id": 1555,
+    "_diversion_skill_id": 551
+  },
+  {
+    "_character_id": 1556,
+    "_skill_id": 567,
+    "_diversion_character_id": 1555,
+    "_diversion_skill_id": 567
+  },
+  {
+    "_character_id": 1556,
+    "_skill_id": 571,
+    "_diversion_character_id": 1555,
+    "_diversion_skill_id": 571
+  },
+  {
+    "_character_id": 1556,
+    "_skill_id": 611,
+    "_diversion_character_id": 1555,
+    "_diversion_skill_id": 611
+  },
+  {
+    "_character_id": 1556,
+    "_skill_id": 624,
+    "_diversion_character_id": 1555,
+    "_diversion_skill_id": 624
+  },
+  {
+    "_character_id": 1568,
+    "_skill_id": 1,
+    "_diversion_character_id": 1567,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1568,
+    "_skill_id": 599,
+    "_diversion_character_id": 1567,
+    "_diversion_skill_id": 599
+  },
+  {
+    "_character_id": 1569,
+    "_skill_id": 1,
+    "_diversion_character_id": 1567,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1569,
+    "_skill_id": 526,
+    "_diversion_character_id": 1567,
+    "_diversion_skill_id": 526
+  },
+  {
+    "_character_id": 1569,
+    "_skill_id": 584,
+    "_diversion_character_id": 1567,
+    "_diversion_skill_id": 584
+  },
+  {
+    "_character_id": 1569,
+    "_skill_id": 599,
+    "_diversion_character_id": 1567,
+    "_diversion_skill_id": 599
+  },
+  {
+    "_character_id": 1569,
+    "_skill_id": 600,
+    "_diversion_character_id": 1568,
+    "_diversion_skill_id": 600
+  },
+  {
+    "_character_id": 1570,
+    "_skill_id": 1,
+    "_diversion_character_id": 1127,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1570,
+    "_skill_id": 532,
+    "_diversion_character_id": 1127,
+    "_diversion_skill_id": 532
+  },
+  {
+    "_character_id": 1574,
+    "_skill_id": 1,
+    "_diversion_character_id": 1007,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1590,
+    "_skill_id": 1,
+    "_diversion_character_id": 1541,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1590,
+    "_skill_id": 620,
+    "_diversion_character_id": 1541,
+    "_diversion_skill_id": 620
+  },
+  {
+    "_character_id": 1590,
+    "_skill_id": 621,
+    "_diversion_character_id": 1541,
+    "_diversion_skill_id": 621
+  },
+  {
+    "_character_id": 1600,
+    "_skill_id": 516,
+    "_diversion_character_id": 1536,
+    "_diversion_skill_id": 516
+  },
+  {
+    "_character_id": 1601,
+    "_skill_id": 1,
+    "_diversion_character_id": 1600,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1601,
+    "_skill_id": 506,
+    "_diversion_character_id": 1600,
+    "_diversion_skill_id": 506
+  },
+  {
+    "_character_id": 1601,
+    "_skill_id": 523,
+    "_diversion_character_id": 1600,
+    "_diversion_skill_id": 523
+  },
+  {
+    "_character_id": 1602,
+    "_skill_id": 1,
+    "_diversion_character_id": 1600,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1602,
+    "_skill_id": 506,
+    "_diversion_character_id": 1600,
+    "_diversion_skill_id": 506
+  },
+  {
+    "_character_id": 1602,
+    "_skill_id": 516,
+    "_diversion_character_id": 1601,
+    "_diversion_skill_id": 516
+  },
+  {
+    "_character_id": 1603,
+    "_skill_id": 1,
+    "_diversion_character_id": 1600,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1603,
+    "_skill_id": 506,
+    "_diversion_character_id": 1600,
+    "_diversion_skill_id": 506
+  },
+  {
+    "_character_id": 1603,
+    "_skill_id": 516,
+    "_diversion_character_id": 1601,
+    "_diversion_skill_id": 516
+  },
+  {
+    "_character_id": 1603,
+    "_skill_id": 523,
+    "_diversion_character_id": 1602,
+    "_diversion_skill_id": 523
+  },
+  {
+    "_character_id": 1604,
+    "_skill_id": 1,
+    "_diversion_character_id": 1600,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1604,
+    "_skill_id": 506,
+    "_diversion_character_id": 1600,
+    "_diversion_skill_id": 506
+  },
+  {
+    "_character_id": 1604,
+    "_skill_id": 516,
+    "_diversion_character_id": 1601,
+    "_diversion_skill_id": 516
+  },
+  {
+    "_character_id": 1604,
+    "_skill_id": 523,
+    "_diversion_character_id": 1600,
+    "_diversion_skill_id": 523
+  },
+  {
+    "_character_id": 1605,
+    "_skill_id": 1,
+    "_diversion_character_id": 1600,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1605,
+    "_skill_id": 506,
+    "_diversion_character_id": 1600,
+    "_diversion_skill_id": 506
+  },
+  {
+    "_character_id": 1605,
+    "_skill_id": 516,
+    "_diversion_character_id": 1601,
+    "_diversion_skill_id": 516
+  },
+  {
+    "_character_id": 1605,
+    "_skill_id": 523,
+    "_diversion_character_id": 1600,
+    "_diversion_skill_id": 523
+  },
+  {
+    "_character_id": 1606,
+    "_skill_id": 1,
+    "_diversion_character_id": 1600,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1606,
+    "_skill_id": 506,
+    "_diversion_character_id": 1600,
+    "_diversion_skill_id": 506
+  },
+  {
+    "_character_id": 1606,
+    "_skill_id": 516,
+    "_diversion_character_id": 1601,
+    "_diversion_skill_id": 516
+  },
+  {
+    "_character_id": 1606,
+    "_skill_id": 523,
+    "_diversion_character_id": 1600,
+    "_diversion_skill_id": 523
+  },
+  {
+    "_character_id": 1609,
+    "_skill_id": 1,
+    "_diversion_character_id": 1507,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1609,
+    "_skill_id": 521,
+    "_diversion_character_id": 1526,
+    "_diversion_skill_id": 521
+  },
+  {
+    "_character_id": 1609,
+    "_skill_id": 578,
+    "_diversion_character_id": 1526,
+    "_diversion_skill_id": 578
+  },
+  {
+    "_character_id": 1609,
+    "_skill_id": 607,
+    "_diversion_character_id": 1526,
+    "_diversion_skill_id": 607
+  },
+  {
+    "_character_id": 1609,
+    "_skill_id": 644,
+    "_diversion_character_id": 1526,
+    "_diversion_skill_id": 644
+  },
+  {
+    "_character_id": 1610,
+    "_skill_id": 608,
+    "_diversion_character_id": 1527,
+    "_diversion_skill_id": 608
+  },
+  {
+    "_character_id": 1611,
+    "_skill_id": 556,
+    "_diversion_character_id": 1528,
+    "_diversion_skill_id": 556
+  },
+  {
+    "_character_id": 1611,
+    "_skill_id": 509,
+    "_diversion_character_id": 1528,
+    "_diversion_skill_id": 509
+  },
+  {
+    "_character_id": 1611,
+    "_skill_id": 539,
+    "_diversion_character_id": 1528,
+    "_diversion_skill_id": 539
+  },
+  {
+    "_character_id": 1612,
+    "_skill_id": 550,
+    "_diversion_character_id": 1529,
+    "_diversion_skill_id": 550
+  },
+  {
+    "_character_id": 1613,
+    "_skill_id": 502,
+    "_diversion_character_id": 1530,
+    "_diversion_skill_id": 502
+  },
+  {
+    "_character_id": 1614,
+    "_skill_id": 522,
+    "_diversion_character_id": 1531,
+    "_diversion_skill_id": 522
+  },
+  {
+    "_character_id": 1614,
+    "_skill_id": 583,
+    "_diversion_character_id": 1531,
+    "_diversion_skill_id": 583
+  },
+  {
+    "_character_id": 1615,
+    "_skill_id": 1,
+    "_diversion_character_id": 1510,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1615,
+    "_skill_id": 525,
+    "_diversion_character_id": 1510,
+    "_diversion_skill_id": 525
+  },
+  {
+    "_character_id": 1618,
+    "_skill_id": 1,
+    "_diversion_character_id": 1035,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1618,
+    "_skill_id": 530,
+    "_diversion_character_id": 1035,
+    "_diversion_skill_id": 530
+  },
+  {
+    "_character_id": 1618,
+    "_skill_id": 509,
+    "_diversion_character_id": 1035,
+    "_diversion_skill_id": 509
+  },
+  {
+    "_character_id": 1618,
+    "_skill_id": 539,
+    "_diversion_character_id": 1035,
+    "_diversion_skill_id": 539
+  },
+  {
+    "_character_id": 1618,
+    "_skill_id": 551,
+    "_diversion_character_id": 1039,
+    "_diversion_skill_id": 551
+  },
+  {
+    "_character_id": 1618,
+    "_skill_id": 670,
+    "_diversion_character_id": 1035,
+    "_diversion_skill_id": 670
+  },
+  {
+    "_character_id": 1620,
+    "_skill_id": 1,
+    "_diversion_character_id": 1517,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1620,
+    "_skill_id": 514,
+    "_diversion_character_id": 1517,
+    "_diversion_skill_id": 514
+  },
+  {
+    "_character_id": 1620,
+    "_skill_id": 521,
+    "_diversion_character_id": 1517,
+    "_diversion_skill_id": 521
+  },
+  {
+    "_character_id": 1620,
+    "_skill_id": 551,
+    "_diversion_character_id": 1517,
+    "_diversion_skill_id": 551
+  },
+  {
+    "_character_id": 1620,
+    "_skill_id": 564,
+    "_diversion_character_id": 1517,
+    "_diversion_skill_id": 564
+  },
+  {
+    "_character_id": 1621,
+    "_skill_id": 1,
+    "_diversion_character_id": 1518,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1621,
+    "_skill_id": 525,
+    "_diversion_character_id": 1518,
+    "_diversion_skill_id": 525
+  },
+  {
+    "_character_id": 1621,
+    "_skill_id": 570,
+    "_diversion_character_id": 1518,
+    "_diversion_skill_id": 570
+  },
+  {
+    "_character_id": 1621,
+    "_skill_id": 514,
+    "_diversion_character_id": 1518,
+    "_diversion_skill_id": 514
+  },
+  {
+    "_character_id": 1622,
+    "_skill_id": 616,
+    "_diversion_character_id": 1534,
+    "_diversion_skill_id": 616
+  },
+  {
+    "_character_id": 1623,
+    "_skill_id": 1,
+    "_diversion_character_id": 1522,
+    "_diversion_skill_id": 1
+  },
+  {
+    "_character_id": 1623,
+    "_skill_id": 567,
+    "_diversion_character_id": 1522,
+    "_diversion_skill_id": 567
+  },
+  {
+    "_character_id": 1623,
+    "_skill_id": 564,
+    "_diversion_character_id": 1522,
+    "_diversion_skill_id": 564
+  },
+  {
+    "_character_id": 1623,
+    "_skill_id": 606,
+    "_diversion_character_id": 1522,
+    "_diversion_skill_id": 606
+  },
+  {
+    "_character_id": 0,
+    "_skill_id": 683,
+    "_diversion_character_id": 0,
+    "_diversion_skill_id": 657
+  },
+  {
+    "_character_id": 0,
+    "_skill_id": 687,
+    "_diversion_character_id": 0,
+    "_diversion_skill_id": 663
+  },
+  {
+    "_character_id": 0,
+    "_skill_id": 699,
+    "_diversion_character_id": 0,
+    "_diversion_skill_id": 698
+  },
+  {
+    "_character_id": 0,
+    "_skill_id": 700,
+    "_diversion_character_id": 0,
+    "_diversion_skill_id": 698
+  },
+  {
+    "_character_id": 0,
+    "_skill_id": 702,
+    "_diversion_character_id": 0,
+    "_diversion_skill_id": 701
+  },
+  {
+    "_character_id": 0,
+    "_skill_id": 703,
+    "_diversion_character_id": 0,
+    "_diversion_skill_id": 701
+  },
+  {
+    "_character_id": 0,
+    "_skill_id": 705,
+    "_diversion_character_id": 0,
+    "_diversion_skill_id": 704
+  },
+  {
+    "_character_id": 0,
+    "_skill_id": 706,
+    "_diversion_character_id": 0,
+    "_diversion_skill_id": 704
+  },
+  {
+    "_character_id": 0,
+    "_skill_id": 708,
+    "_diversion_character_id": 0,
+    "_diversion_skill_id": 707
+  },
+  {
+    "_character_id": 0,
+    "_skill_id": 709,
+    "_diversion_character_id": 0,
+    "_diversion_skill_id": 707
+  },
+  {
+    "_character_id": 0,
+    "_skill_id": 711,
+    "_diversion_character_id": 0,
+    "_diversion_skill_id": 710
+  },
+  {
+    "_character_id": 0,
+    "_skill_id": 712,
+    "_diversion_character_id": 0,
+    "_diversion_skill_id": 710
+  },
+  {
+    "_character_id": 0,
+    "_skill_id": 714,
+    "_diversion_character_id": 0,
+    "_diversion_skill_id": 713
+  },
+  {
+    "_character_id": 0,
+    "_skill_id": 715,
+    "_diversion_character_id": 0,
+    "_diversion_skill_id": 713
+  },
+  {
+    "_character_id": 0,
+    "_skill_id": 652001,
+    "_diversion_character_id": 0,
+    "_diversion_skill_id": 2008001
+  },
+  {
+    "_character_id": -1,
+    "_skill_id": -1,
+    "_diversion_character_id": -1,
+    "_diversion_skill_id": -1
+  },
+  {
+    "_character_id": -1,
+    "_skill_id": -1,
+    "_diversion_character_id": -1,
+    "_diversion_skill_id": -1
+  },
+  {
+    "_character_id": -1,
+    "_skill_id": -1,
+    "_diversion_character_id": -1,
+    "_diversion_skill_id": -1
+  },
+  {
+    "_character_id": -1,
+    "_skill_id": -1,
+    "_diversion_character_id": -1,
+    "_diversion_skill_id": -1
+  }
+]

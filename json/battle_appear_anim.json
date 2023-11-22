@@ -1,0 +1,13 @@
+[
+  {
+    "_id": 1,
+    "_bounce_frame_1": 30,
+    "_bounce_height_1": 3.0,
+    "_bounce_frame_2": 10,
+    "_bounce_height_2": 0.6000000238418579,
+    "_bounce_offset": 13.0,
+    "_bounce_pos_ratio": 0.8999999761581421,
+    "_bounce_fade_in_start_frame": 21,
+    "_bounce_fade_in_frame": 7
+  }
+]

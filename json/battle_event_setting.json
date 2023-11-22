@@ -1,0 +1,147 @@
+[
+  {
+    "_encounter_id": 2006,
+    "_appear_anim": 2,
+    "_battle_start_fade_in": 1
+  },
+  {
+    "_encounter_id": 2007,
+    "_appear_anim": 2,
+    "_battle_start_fade_in": 1
+  },
+  {
+    "_encounter_id": 2008,
+    "_appear_anim": 2,
+    "_battle_start_fade_in": 1
+  },
+  {
+    "_encounter_id": 2010,
+    "_appear_anim": 2,
+    "_battle_start_fade_in": 1
+  },
+  {
+    "_encounter_id": 2011,
+    "_appear_anim": 2,
+    "_battle_start_fade_in": 0
+  },
+  {
+    "_encounter_id": 2012,
+    "_appear_anim": 0,
+    "_battle_start_fade_in": 0
+  },
+  {
+    "_encounter_id": 2021,
+    "_appear_anim": 2,
+    "_battle_start_fade_in": 1
+  },
+  {
+    "_encounter_id": 2026,
+    "_appear_anim": 2,
+    "_battle_start_fade_in": 1
+  },
+  {
+    "_encounter_id": 2027,
+    "_appear_anim": 2,
+    "_battle_start_fade_in": 1
+  },
+  {
+    "_encounter_id": 2029,
+    "_appear_anim": 2,
+    "_battle_start_fade_in": 1
+  },
+  {
+    "_encounter_id": 2031,
+    "_appear_anim": 0,
+    "_battle_start_fade_in": 0
+  },
+  {
+    "_encounter_id": 2037,
+    "_appear_anim": 2,
+    "_battle_start_fade_in": 1
+  },
+  {
+    "_encounter_id": 2038,
+    "_appear_anim": 2,
+    "_battle_start_fade_in": 1
+  },
+  {
+    "_encounter_id": 2039,
+    "_appear_anim": 0,
+    "_battle_start_fade_in": 0
+  },
+  {
+    "_encounter_id": 2041,
+    "_appear_anim": 2,
+    "_battle_start_fade_in": 1
+  },
+  {
+    "_encounter_id": 2042,
+    "_appear_anim": 0,
+    "_battle_start_fade_in": 0
+  },
+  {
+    "_encounter_id": 2043,
+    "_appear_anim": 0,
+    "_battle_start_fade_in": 0
+  },
+  {
+    "_encounter_id": 2048,
+    "_appear_anim": 2,
+    "_battle_start_fade_in": 0
+  },
+  {
+    "_encounter_id": 2050,
+    "_appear_anim": 0,
+    "_battle_start_fade_in": 0
+  },
+  {
+    "_encounter_id": 2052,
+    "_appear_anim": 2,
+    "_battle_start_fade_in": 1
+  },
+  {
+    "_encounter_id": 2053,
+    "_appear_anim": 2,
+    "_battle_start_fade_in": 1
+  },
+  {
+    "_encounter_id": 2054,
+    "_appear_anim": 2,
+    "_battle_start_fade_in": 1
+  },
+  {
+    "_encounter_id": 2056,
+    "_appear_anim": 2,
+    "_battle_start_fade_in": 1
+  },
+  {
+    "_encounter_id": 2057,
+    "_appear_anim": 2,
+    "_battle_start_fade_in": 1
+  },
+  {
+    "_encounter_id": 2059,
+    "_appear_anim": 2,
+    "_battle_start_fade_in": 1
+  },
+  {
+    "_encounter_id": 2066,
+    "_appear_anim": 2,
+    "_battle_start_fade_in": 1
+  },
+  {
+    "_encounter_id": 2068,
+    "_appear_anim": 2,
+    "_battle_start_fade_in": 1
+  },
+  {
+    "_encounter_id": 2072,
+    "_appear_anim": 0,
+    "_battle_start_fade_in": 1
+  },
+  {
+    "_encounter_id": 2075,
+    "_appear_anim": 2,
+    "_battle_start_fade_in": 1
+  }
+]

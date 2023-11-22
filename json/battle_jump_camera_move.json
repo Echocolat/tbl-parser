@@ -1,0 +1,74 @@
+[
+  {
+    "_encounter_id": 2072,
+    "_skill_id": 3849,
+    "_character_id": 407808,
+    "_event_id": -256
+  },
+  {
+    "_encounter_id": 527104,
+    "_skill_id": 1050880,
+    "_character_id": 102432768,
+    "_event_id": 720896
+  },
+  {
+    "_encounter_id": 134938624,
+    "_skill_id": 285802496,
+    "_character_id": 469762048,
+    "_event_id": 167772166
+  },
+  {
+    "_encounter_id": 150994944,
+    "_skill_id": 150994952,
+    "_character_id": 18,
+    "_event_id": 1557
+  },
+  {
+    "_encounter_id": 3,
+    "_skill_id": 2068,
+    "_character_id": 4873,
+    "_event_id": 404736
+  },
+  {
+    "_encounter_id": 768,
+    "_skill_id": 166912,
+    "_character_id": 1313024,
+    "_event_id": 73400320
+  },
+  {
+    "_encounter_id": 196608,
+    "_skill_id": 131596288,
+    "_character_id": 352911360,
+    "_event_id": -520093696
+  },
+  {
+    "_encounter_id": 50331648,
+    "_skill_id": 402653184,
+    "_character_id": 150994952,
+    "_event_id": 22
+  },
+  {
+    "_encounter_id": 11,
+    "_skill_id": 3,
+    "_character_id": 2059,
+    "_event_id": 5897
+  },
+  {
+    "_encounter_id": 3073,
+    "_skill_id": 768,
+    "_character_id": 527104,
+    "_event_id": 1575168
+  },
+  {
+    "_encounter_id": 852224,
+    "_skill_id": 196608,
+    "_character_id": 134807552,
+    "_event_id": 420020224
+  },
+  {
+    "_encounter_id": 235012095,
+    "_skill_id": 50331648,
+    "_character_id": 335544320,
+    "_event_id": 150994952
+  }
+]

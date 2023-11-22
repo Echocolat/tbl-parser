@@ -1,0 +1,44 @@
+[
+  {
+    "_shop_id": 0,
+    "_area_id": 0,
+    "_item_id": 2569,
+    "_shop_name_id": 0
+  },
+  {
+    "_shop_id": 256,
+    "_area_id": 26368,
+    "_item_id": 723200,
+    "_shop_name_id": 40960000
+  },
+  {
+    "_shop_id": 131072,
+    "_area_id": 327680,
+    "_item_id": 201916416,
+    "_shop_name_id": 1912602624
+  },
+  {
+    "_shop_id": 50331648,
+    "_area_id": 0,
+    "_item_id": 150994944,
+    "_shop_name_id": 13
+  },
+  {
+    "_shop_id": 3,
+    "_area_id": 4,
+    "_item_id": 0,
+    "_shop_name_id": 3593
+  },
+  {
+    "_shop_id": 768,
+    "_area_id": 1280,
+    "_item_id": 0,
+    "_shop_name_id": 985344
+  },
+  {
+    "_shop_id": 196608,
+    "_area_id": 0,
+    "_item_id": 0,
+    "_shop_name_id": 269025280
+  }
+]
