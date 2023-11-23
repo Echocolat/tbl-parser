@@ -3,6 +3,7 @@
 ##### Overview
 
 [.tbl format overview](https://docs.google.com/document/d/1gm_tDC8aXLRfiSI8cXgvApwNnhd2Y1X9SkEEbQf_jsE/edit?usp=sharing)
+[Datamining spreadsheet](https://docs.google.com/spreadsheets/d/1SmJZwXTk5KYuJfRKDZyR1OeHWDFJTysNIrgRknViFmg/edit?usp=sharing)
 
 ##### How to use
 
