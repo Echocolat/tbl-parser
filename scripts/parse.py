@@ -61,7 +61,7 @@ def parse(tbl):
         param_table.append({'Param name': param_name})
 
     for _ in range(param_num):
-        param_table[_]['Unknown value'] = tbl_data[new_offset]
+        param_table[_]['Pointer type'] = tbl_data[new_offset]
         new_offset += 1
 
     for _ in range(param_num):
@@ -78,9 +78,10 @@ def parse(tbl):
 
     #Raw data
 
-    print('Reading raw data...')
+    print('Reading regular value data...')
 
     data = []
+    pointer_list = []
 
     for _ in range(size):
 
@@ -88,24 +89,62 @@ def parse(tbl):
 
         for param in param_table:
 
-            if param['Type'] == 1:
-                value = signed_byte(tbl_data[new_offset])
-                plus_offset = 1
+            if param['Pointer type'] == 0:
 
-            elif param['Type'] == 8:
-                value = int.from_bytes(tbl_data[new_offset : new_offset + 4], byteorder = 'little', signed = True)
-                plus_offset = 4
+                if param['Type'] == 1:
+                    value = signed_byte(tbl_data[new_offset])
+                    plus_offset = 1
 
-            elif param['Type'] == 11:
-                value = struct.unpack('f', tbl_data[new_offset : new_offset + 4])[0]
-                plus_offset = 4
+                elif param['Type'] == 8:
+                    value = int.from_bytes(tbl_data[new_offset : new_offset + 4], byteorder = 'little', signed = True)
+                    plus_offset = 4
 
-            data[-1][param['Param name']] = value
+                elif param['Type'] == 11:
+                    value = struct.unpack('f', tbl_data[new_offset : new_offset + 4])[0]
+                    plus_offset = 4
+
+                data[-1][param['Param name']] = value
+
+            elif param['Pointer type'] == 7:
+
+                if param['Type'] == 8:
+                    pointer_list.append({"Index": _, "Param name": param['Param name'],"Type": param['Type'],"Value": int.from_bytes(tbl_data[new_offset + 1 : new_offset + 5], byteorder = 'little', signed = True)})
+                    plus_offset = 5
+
+                elif param['Type'] == 11:
+                    pointer_list.append({"Index": _, "Param name": param['Param name'],"Type": param['Type'],"Value": int.from_bytes(tbl_data[new_offset + 1 : new_offset + 5], byteorder = 'little', signed = True)})
+                    plus_offset = 5
+
+                data[-1][param['Param name']] = []
+
             new_offset += plus_offset
 
         new_offset += 9
 
-    print('Finished reading raw data.')
+    print('Finished reading regular value data.\nReading array value data...')
+
+    new_offset -= 9
+    for _ in range(len(pointer_list)):
+
+        if pointer_list[_]['Type'] == 8:
+            value = []
+            array_size = int.from_bytes(tbl_data[new_offset + 5 : new_offset + 9], byteorder = 'little', signed = True)
+            new_offset += 10
+            for i in range(array_size):
+                value.append(int.from_bytes(tbl_data[new_offset : new_offset + 4], byteorder = 'little', signed = True))
+                new_offset += 4
+
+        elif pointer_list[_]['Type'] == 11:
+            value = []
+            array_size = int.from_bytes(tbl_data[new_offset + 5 : new_offset + 9], byteorder = 'little', signed = True)
+            new_offset += 10
+            for i in range(array_size):
+                value.append(struct.unpack('f', tbl_data[new_offset : new_offset + 4])[0])
+                new_offset += 4
+
+        data[pointer_list[_]['Index']][pointer_list[_]['Param name']] = value
+
+    print('Finished reading array value data.')
 
     with open(f'json/{file_name}.json', 'w') as json_file:
         json_file.write(json.dumps(data, indent = 2))
@@ -119,6 +158,8 @@ def parse_all():
         parse('tbl/' + file)
 
 def main():
+
+    parse_all()
 
     if len(sys.argv) != 1:
         try:

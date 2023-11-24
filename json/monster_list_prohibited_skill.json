@@ -1,486 +1,1575 @@
 [
   {
     "_character_id": 1001,
-    "_prohibited_skill_ids": 31753
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 384512,
-    "_prohibited_skill_ids": 8194304
+    "_character_id": 1502,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 65732608,
-    "_prohibited_skill_ids": 2114519040
+    "_character_id": 1003,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": -536870912,
-    "_prohibited_skill_ids": 150994949
+    "_character_id": 1504,
+    "_prohibited_skill_ids": [
+      603,
+      639,
+      688,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 3,
-    "_prohibited_skill_ids": 1007
+    "_character_id": 1007,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 768,
-    "_prohibited_skill_ids": 385280
+    "_character_id": 1505,
+    "_prohibited_skill_ids": [
+      640,
+      657,
+      501,
+      684,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 196608,
-    "_prohibited_skill_ids": 66060288
+    "_character_id": 1008,
+    "_prohibited_skill_ids": [
+      669,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 50331648,
-    "_prohibited_skill_ids": -251658240
+    "_character_id": 1009,
+    "_prohibited_skill_ids": [
+      519,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 11,
-    "_prohibited_skill_ids": 3
+    "_character_id": 1507,
+    "_prohibited_skill_ids": [
+      641,
+      664,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 3073,
-    "_prohibited_skill_ids": 768
+    "_character_id": 1017,
+    "_prohibited_skill_ids": [
+      519,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 852224,
-    "_prohibited_skill_ids": 196608
+    "_character_id": 1019,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 234946560,
-    "_prohibited_skill_ids": 50331648
+    "_character_id": 1023,
+    "_prohibited_skill_ids": [
+      519,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 16777216,
-    "_prohibited_skill_ids": 15
+    "_character_id": 1508,
+    "_prohibited_skill_ids": [
+      627,
+      667,
+      668,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 136,
-    "_prohibited_skill_ids": 4097
+    "_character_id": 1024,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 35081,
-    "_prohibited_skill_ids": 1114368
+    "_character_id": 1025,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 9046272,
-    "_prohibited_skill_ids": 302055424
+    "_character_id": 1026,
+    "_prohibited_skill_ids": [
+      519,
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": -1962344448,
-    "_prohibited_skill_ids": 16777216
-  },
-  {
-    "_character_id": 150994948,
-    "_prohibited_skill_ids": 140
+    "_character_id": 1028,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
     "_character_id": 1509,
-    "_prohibited_skill_ids": 36105
+    "_prohibited_skill_ids": [
+      538,
+      665,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 386816,
-    "_prohibited_skill_ids": 9308416
+    "_character_id": 1511,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 99090432,
-    "_prohibited_skill_ids": -1895235584
+    "_character_id": 1512,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": -436207616,
-    "_prohibited_skill_ids": 150994949
+    "_character_id": 1510,
+    "_prohibited_skill_ids": [
+      658,
+      659,
+      660,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 3,
-    "_prohibited_skill_ids": 1033
+    "_character_id": 1033,
+    "_prohibited_skill_ids": [
+      538,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 768,
-    "_prohibited_skill_ids": 264960
+    "_character_id": 1035,
+    "_prohibited_skill_ids": [
+      670,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 196608,
-    "_prohibited_skill_ids": 68091904
+    "_character_id": 1039,
+    "_prohibited_skill_ids": [
+      670,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 50331648,
-    "_prohibited_skill_ids": 268435456
+    "_character_id": 1040,
+    "_prohibited_skill_ids": [
+      671,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 28,
-    "_prohibited_skill_ids": 3
+    "_character_id": 1041,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 7425,
-    "_prohibited_skill_ids": 768
+    "_character_id": 1042,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 1966336,
-    "_prohibited_skill_ids": 196608
+    "_character_id": 1043,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 520159232,
-    "_prohibited_skill_ids": 50331648
+    "_character_id": 1513,
+    "_prohibited_skill_ids": [
+      604,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 16777216,
-    "_prohibited_skill_ids": 32
+    "_character_id": 1514,
+    "_prohibited_skill_ids": [
+      666,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 153,
-    "_prohibited_skill_ids": 8449
+    "_character_id": 1515,
+    "_prohibited_skill_ids": [
+      535,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 39433,
-    "_prohibited_skill_ids": 2228480
+    "_character_id": 1517,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 10160384,
-    "_prohibited_skill_ids": 587268096
+    "_character_id": 1518,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": -1677131776,
-    "_prohibited_skill_ids": 16777216
-  },
-  {
-    "_character_id": 150994948,
-    "_prohibited_skill_ids": 157
+    "_character_id": 1045,
+    "_prohibited_skill_ids": [
+      675,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
     "_character_id": 1046,
-    "_prohibited_skill_ids": 40457
+    "_prohibited_skill_ids": [
+      519,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 268288,
-    "_prohibited_skill_ids": 10422528
+    "_character_id": 1048,
+    "_prohibited_skill_ids": [
+      519,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 68878336,
-    "_prohibited_skill_ids": -1610022912
+    "_character_id": 1051,
+    "_prohibited_skill_ids": [
+      519,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 570425344,
-    "_prohibited_skill_ids": 150994948
+    "_character_id": 1058,
+    "_prohibited_skill_ids": [
+      671,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 3,
-    "_prohibited_skill_ids": 1059
+    "_character_id": 1059,
+    "_prohibited_skill_ids": [
+      519,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 768,
-    "_prohibited_skill_ids": 271360
+    "_character_id": 1060,
+    "_prohibited_skill_ids": [
+      563,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 196608,
-    "_prohibited_skill_ids": 99549184
+    "_character_id": 1519,
+    "_prohibited_skill_ids": [
+      642,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 50331648,
-    "_prohibited_skill_ids": -268435456
+    "_character_id": 1520,
+    "_prohibited_skill_ids": [
+      642,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 45,
-    "_prohibited_skill_ids": 3
+    "_character_id": 1598,
+    "_prohibited_skill_ids": [
+      642,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 11777,
-    "_prohibited_skill_ids": 768
+    "_character_id": 1599,
+    "_prohibited_skill_ids": [
+      642,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 3080448,
-    "_prohibited_skill_ids": 196608
+    "_character_id": 1607,
+    "_prohibited_skill_ids": [
+      642,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 805371904,
-    "_prohibited_skill_ids": 50331648
+    "_character_id": 1608,
+    "_prohibited_skill_ids": [
+      642,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 16777216,
-    "_prohibited_skill_ids": 49
+    "_character_id": 1061,
+    "_prohibited_skill_ids": [
+      563,
+      654,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 170,
-    "_prohibited_skill_ids": 12801
+    "_character_id": 1063,
+    "_prohibited_skill_ids": [
+      519,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 43785,
-    "_prohibited_skill_ids": 3342592
+    "_character_id": 1522,
+    "_prohibited_skill_ids": [
+      605,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 11274496,
-    "_prohibited_skill_ids": 872480768
+    "_character_id": 1524,
+    "_prohibited_skill_ids": [
+      563,
+      643,
+      691,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": -1391919104,
-    "_prohibited_skill_ids": 16777216
-  },
-  {
-    "_character_id": 150994948,
-    "_prohibited_skill_ids": 174
+    "_character_id": 1067,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
     "_character_id": 1068,
-    "_prohibited_skill_ids": 44809
+    "_prohibited_skill_ids": [
+      572,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 273664,
-    "_prohibited_skill_ids": 11536640
+    "_character_id": 1069,
+    "_prohibited_skill_ids": [
+      519,
+      563,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 70123520,
-    "_prohibited_skill_ids": -1324810240
+    "_character_id": 1070,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 805306368,
-    "_prohibited_skill_ids": 150994948
+    "_character_id": 1072,
+    "_prohibited_skill_ids": [
+      519,
+      540,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 3,
-    "_prohibited_skill_ids": 1526
+    "_character_id": 1526,
+    "_prohibited_skill_ids": [
+      644,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 768,
-    "_prohibited_skill_ids": 391936
+    "_character_id": 1531,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 196608,
-    "_prohibited_skill_ids": 103612416
+    "_character_id": 1581,
+    "_prohibited_skill_ids": [
+      610,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 50331648,
-    "_prohibited_skill_ids": 905969664
+    "_character_id": 1078,
+    "_prohibited_skill_ids": [
+      655,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 62,
-    "_prohibited_skill_ids": 3
+    "_character_id": 1081,
+    "_prohibited_skill_ids": [
+      501,
+      572,
+      678,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 16129,
-    "_prohibited_skill_ids": 768
+    "_character_id": 1082,
+    "_prohibited_skill_ids": [
+      579,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 4194560,
-    "_prohibited_skill_ids": 196608
+    "_character_id": 1083,
+    "_prohibited_skill_ids": [
+      519,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 1090584576,
-    "_prohibited_skill_ids": 50331648
+    "_character_id": 1084,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 16777216,
-    "_prohibited_skill_ids": 66
+    "_character_id": 1086,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 187,
-    "_prohibited_skill_ids": 17153
+    "_character_id": 1087,
+    "_prohibited_skill_ids": [
+      580,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 48137,
-    "_prohibited_skill_ids": 4456704
+    "_character_id": 1088,
+    "_prohibited_skill_ids": [
+      519,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 12388608,
-    "_prohibited_skill_ids": 1157693440
+    "_character_id": 1089,
+    "_prohibited_skill_ids": [
+      501,
+      572,
+      678,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": -1106706432,
-    "_prohibited_skill_ids": 16777216
-  },
-  {
-    "_character_id": 150994950,
-    "_prohibited_skill_ids": 191
+    "_character_id": 1538,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
     "_character_id": 1540,
-    "_prohibited_skill_ids": 49161
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 394752,
-    "_prohibited_skill_ids": 12650752
+    "_character_id": 1542,
+    "_prohibited_skill_ids": [
+      537,
+      607,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 71565312,
-    "_prohibited_skill_ids": -1039597568
+    "_character_id": 1092,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 1174405120,
-    "_prohibited_skill_ids": 150994948
+    "_character_id": 1094,
+    "_prohibited_skill_ids": [
+      671,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 3,
-    "_prohibited_skill_ids": 1096
+    "_character_id": 1096,
+    "_prohibited_skill_ids": [
+      671,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 768,
-    "_prohibited_skill_ids": 280832
+    "_character_id": 1097,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 196608,
-    "_prohibited_skill_ids": 101122048
+    "_character_id": 1543,
+    "_prohibited_skill_ids": [
+      661,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 50331648,
-    "_prohibited_skill_ids": 1258291200
+    "_character_id": 1099,
+    "_prohibited_skill_ids": [
+      626,
+      692,
+      501,
+      519,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 79,
-    "_prohibited_skill_ids": 3
+    "_character_id": 1100,
+    "_prohibited_skill_ids": [
+      626,
+      626,
+      692,
+      501,
+      519,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 20481,
-    "_prohibited_skill_ids": 768
+    "_character_id": 1102,
+    "_prohibited_skill_ids": [
+      590,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 5308672,
-    "_prohibited_skill_ids": 196608
+    "_character_id": 1103,
+    "_prohibited_skill_ids": [
+      626,
+      501,
+      692,
+      519,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 1375797248,
-    "_prohibited_skill_ids": 50331648
+    "_character_id": 1104,
+    "_prohibited_skill_ids": [
+      579,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 16777216,
-    "_prohibited_skill_ids": 83
+    "_character_id": 1106,
+    "_prohibited_skill_ids": [
+      656,
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 204,
-    "_prohibited_skill_ids": 21505
+    "_character_id": 1552,
+    "_prohibited_skill_ids": [
+      563,
+      649,
+      693,
+      674,
+      501,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 52489,
-    "_prohibited_skill_ids": 5570816
+    "_character_id": 1554,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 13502720,
-    "_prohibited_skill_ids": 1442906112
+    "_character_id": 1555,
+    "_prohibited_skill_ids": [
+      611,
+      662,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": -821493760,
-    "_prohibited_skill_ids": 16777216
-  },
-  {
-    "_character_id": 150994950,
-    "_prohibited_skill_ids": 208
+    "_character_id": 1557,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
     "_character_id": 1108,
-    "_prohibited_skill_ids": 53513
+    "_prohibited_skill_ids": [
+      563,
+      596,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 283904,
-    "_prohibited_skill_ids": 13764864
+    "_character_id": 1109,
+    "_prohibited_skill_ids": [
+      682,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 72744960,
-    "_prohibited_skill_ids": -754384896
+    "_character_id": 1110,
+    "_prohibited_skill_ids": [
+      507,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 419430400,
-    "_prohibited_skill_ids": 150994950
+    "_character_id": 1561,
+    "_prohibited_skill_ids": [
+      501,
+      573,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 3,
-    "_prohibited_skill_ids": 1562
+    "_character_id": 1562,
+    "_prohibited_skill_ids": [
+      651,
+      588,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 768,
-    "_prohibited_skill_ids": 284928
+    "_character_id": 1113,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 196608,
-    "_prohibited_skill_ids": 73072640
+    "_character_id": 1115,
+    "_prohibited_skill_ids": [
+      519,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 50331648,
-    "_prohibited_skill_ids": 1577058304
+    "_character_id": 1118,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 96,
-    "_prohibited_skill_ids": 3
+    "_character_id": 1119,
+    "_prohibited_skill_ids": [
+      594,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 24833,
-    "_prohibited_skill_ids": 768
+    "_character_id": 1120,
+    "_prohibited_skill_ids": [
+      640,
+      683,
+      501,
+      684,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 6422784,
-    "_prohibited_skill_ids": 196608
+    "_character_id": 1121,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 1661009920,
-    "_prohibited_skill_ids": 50331648
+    "_character_id": 1122,
+    "_prohibited_skill_ids": [
+      563,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 16777216,
-    "_prohibited_skill_ids": 100
+    "_character_id": 1124,
+    "_prohibited_skill_ids": [
+      627,
+      667,
+      668,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 221,
-    "_prohibited_skill_ids": 25857
+    "_character_id": 1127,
+    "_prohibited_skill_ids": [
+      519,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 56841,
-    "_prohibited_skill_ids": 6684928
+    "_character_id": 1566,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 14616832,
-    "_prohibited_skill_ids": 1728118784
+    "_character_id": 1128,
+    "_prohibited_skill_ids": [
+      653,
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": -536281088,
-    "_prohibited_skill_ids": 16777216
-  },
-  {
-    "_character_id": 150994950,
-    "_prohibited_skill_ids": 225
+    "_character_id": 1568,
+    "_prohibited_skill_ids": [
+      680,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
     "_character_id": 1569,
-    "_prohibited_skill_ids": 57865
+    "_prohibited_skill_ids": [
+      681,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 401920,
-    "_prohibited_skill_ids": 14878976
+    "_character_id": 1570,
+    "_prohibited_skill_ids": [
+      540,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 103088128,
-    "_prohibited_skill_ids": -469172224
+    "_character_id": 1573,
+    "_prohibited_skill_ids": [
+      501,
+      652,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 654311424,
-    "_prohibited_skill_ids": 150994950
+    "_character_id": 1575,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 3,
-    "_prohibited_skill_ids": 1577
+    "_character_id": 1577,
+    "_prohibited_skill_ids": [
+      610,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 768,
-    "_prohibited_skill_ids": 404480
+    "_character_id": 1580,
+    "_prohibited_skill_ids": [
+      1,
+      631,
+      663,
+      687,
+      501,
+      685,
+      686,
+      0
+    ]
   },
   {
-    "_character_id": 196608,
-    "_prohibited_skill_ids": 105447424
+    "_character_id": 1609,
+    "_prohibited_skill_ids": [
+      644,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 50331648,
-    "_prohibited_skill_ids": 1308622848
+    "_character_id": 1614,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 113,
-    "_prohibited_skill_ids": 3
+    "_character_id": 1615,
+    "_prohibited_skill_ids": [
+      742,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 29185,
-    "_prohibited_skill_ids": 768
+    "_character_id": 1616,
+    "_prohibited_skill_ids": [
+      501,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 7536896,
-    "_prohibited_skill_ids": 196608
+    "_character_id": 1617,
+    "_prohibited_skill_ids": [
+      0,
+      745,
+      746,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 1946222592,
-    "_prohibited_skill_ids": 50331648
+    "_character_id": 1618,
+    "_prohibited_skill_ids": [
+      747,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "_character_id": 16777216,
-    "_prohibited_skill_ids": 117
+    "_character_id": 1622,
+    "_prohibited_skill_ids": [
+      750,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_character_id": 1623,
+    "_prohibited_skill_ids": [
+      605,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_character_id": 1593,
+    "_prohibited_skill_ids": [
+      610,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_character_id": 1594,
+    "_prohibited_skill_ids": [
+      729,
+      733,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_character_id": 1595,
+    "_prohibited_skill_ids": [
+      732,
+      734,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_character_id": 1596,
+    "_prohibited_skill_ids": [
+      730,
+      735,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_character_id": 1597,
+    "_prohibited_skill_ids": [
+      731,
+      733,
+      734,
+      735,
+      0,
+      0,
+      0,
+      0
+    ]
   }
 ]

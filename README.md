@@ -11,4 +11,4 @@ No executable for now. Call the `parse.py` script from your console and add the 
 
 ##### Progress
 
-Currently, 49 of the 97 (50.5%) .tbl files still don't work with the parser. More details in `compatibility.json`.
+Currently, 33 of the 97 (34%) .tbl files still don't work with the parser. More details in `compatibility.json`.
