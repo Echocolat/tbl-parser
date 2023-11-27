@@ -1,0 +1,812 @@
+{
+  "0": [
+    "SerializedStreamHeader",
+    {
+      "RootId": 1,
+      "HeaderId": 4294967295,
+      "MajorVersion": 1,
+      "MinorVersion": 0
+    }
+  ],
+  "1": [
+    "BinaryLibrary",
+    {
+      "LibraryId": 2,
+      "LibraryName": "ExcelConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  ],
+  "2": [
+    "BinaryArray",
+    {
+      "ObjectId": 1,
+      "BinaryArrayTypeEnum": "Single",
+      "Rank": 1,
+      "Lengths": [
+        7
+      ],
+      "TypeEnum": "Class",
+      "AdditionalTypeInfo": {
+        "TypeName": "CharaNameData",
+        "LibraryId": 2
+      }
+    }
+  ],
+  "3": [
+    "MemberReference",
+    {
+      "IdRef": 3
+    }
+  ],
+  "4": [
+    "MemberReference",
+    {
+      "IdRef": 4
+    }
+  ],
+  "5": [
+    "MemberReference",
+    {
+      "IdRef": 5
+    }
+  ],
+  "6": [
+    "MemberReference",
+    {
+      "IdRef": 6
+    }
+  ],
+  "7": [
+    "MemberReference",
+    {
+      "IdRef": 7
+    }
+  ],
+  "8": [
+    "MemberReference",
+    {
+      "IdRef": 8
+    }
+  ],
+  "9": [
+    "MemberReference",
+    {
+      "IdRef": 9
+    }
+  ],
+  "10": [
+    "ClassWithMembersAndTypes",
+    {
+      "ClassInfo": {
+        "ObjectId": 3,
+        "Name": "CharaNameData",
+        "MemberCount": 12,
+        "MemberNames": [
+          "_id",
+          "_gender_jp",
+          "_disp_name_jp",
+          "_disp_name_en_at_menu",
+          "_disp_name_fr_at_menu",
+          "_disp_name_it_at_menu",
+          "_disp_name_de_at_menu",
+          "_disp_name_es_at_menu",
+          "_disp_name_cn_traditional",
+          "_disp_name_cn_Simplified",
+          "_disp_name_kr",
+          "_disp_name_kr_vowel_flag"
+        ]
+      },
+      "MemberTypeInfo": {
+        "BinaryTypeEnums": [
+          "Primitive",
+          "String",
+          "String",
+          "String",
+          "String",
+          "String",
+          "String",
+          "String",
+          "String",
+          "String",
+          "String",
+          "Primitive"
+        ],
+        "AdditionalInfos": [
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "String",
+            null
+          ],
+          [
+            "String",
+            null
+          ],
+          [
+            "String",
+            null
+          ],
+          [
+            "String",
+            null
+          ],
+          [
+            "String",
+            null
+          ],
+          [
+            "String",
+            null
+          ],
+          [
+            "String",
+            null
+          ],
+          [
+            "String",
+            null
+          ],
+          [
+            "String",
+            null
+          ],
+          [
+            "String",
+            null
+          ],
+          [
+            "Primitive",
+            "Boolean"
+          ]
+        ]
+      },
+      "LibraryId": 2,
+      "Values": [
+        [
+          "_id : Primitive",
+          0
+        ],
+        [
+          "_gender_jp : String",
+          [
+            "BinaryObjectString",
+            {
+              "ObjectId": 10,
+              "Value": "0"
+            }
+          ]
+        ],
+        [
+          "_disp_name_jp : String",
+          [
+            "BinaryObjectString",
+            {
+              "ObjectId": 11,
+              "Value": "0"
+            }
+          ]
+        ],
+        [
+          "_disp_name_en_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_fr_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_it_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_de_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_es_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_cn_traditional : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_cn_Simplified : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_kr : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_kr_vowel_flag : Primitive",
+          false
+        ]
+      ]
+    }
+  ],
+  "11": [
+    "ClassWithId",
+    {
+      "ObjectId": 4,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          1
+        ],
+        [
+          "_gender_jp : String",
+          [
+            "BinaryObjectString",
+            {
+              "ObjectId": 12,
+              "Value": "M"
+            }
+          ]
+        ],
+        [
+          "_disp_name_jp : String",
+          [
+            "BinaryObjectString",
+            {
+              "ObjectId": 13,
+              "Value": "\u30de\u30ea\u30aa"
+            }
+          ]
+        ],
+        [
+          "_disp_name_en_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_fr_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_it_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_de_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_es_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_cn_traditional : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_cn_Simplified : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_kr : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_kr_vowel_flag : Primitive",
+          false
+        ]
+      ]
+    }
+  ],
+  "12": [
+    "ClassWithId",
+    {
+      "ObjectId": 5,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          2
+        ],
+        [
+          "_gender_jp : String",
+          [
+            "MemberReference",
+            {
+              "IdRef": 12
+            }
+          ]
+        ],
+        [
+          "_disp_name_jp : String",
+          [
+            "BinaryObjectString",
+            {
+              "ObjectId": 15,
+              "Value": "\u30de\u30ed"
+            }
+          ]
+        ],
+        [
+          "_disp_name_en_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_fr_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_it_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_de_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_es_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_cn_traditional : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_cn_Simplified : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_kr : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_kr_vowel_flag : Primitive",
+          false
+        ]
+      ]
+    }
+  ],
+  "13": [
+    "ClassWithId",
+    {
+      "ObjectId": 6,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          3
+        ],
+        [
+          "_gender_jp : String",
+          [
+            "MemberReference",
+            {
+              "IdRef": 12
+            }
+          ]
+        ],
+        [
+          "_disp_name_jp : String",
+          [
+            "BinaryObjectString",
+            {
+              "ObjectId": 17,
+              "Value": "\u30b8\u30fc\u30ce"
+            }
+          ]
+        ],
+        [
+          "_disp_name_en_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_fr_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_it_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_de_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_es_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_cn_traditional : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_cn_Simplified : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_kr : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_kr_vowel_flag : Primitive",
+          false
+        ]
+      ]
+    }
+  ],
+  "14": [
+    "ClassWithId",
+    {
+      "ObjectId": 7,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          4
+        ],
+        [
+          "_gender_jp : String",
+          [
+            "MemberReference",
+            {
+              "IdRef": 12
+            }
+          ]
+        ],
+        [
+          "_disp_name_jp : String",
+          [
+            "BinaryObjectString",
+            {
+              "ObjectId": 19,
+              "Value": "\u30af\u30c3\u30d1"
+            }
+          ]
+        ],
+        [
+          "_disp_name_en_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_fr_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_it_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_de_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_es_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_cn_traditional : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_cn_Simplified : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_kr : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_kr_vowel_flag : Primitive",
+          false
+        ]
+      ]
+    }
+  ],
+  "15": [
+    "ClassWithId",
+    {
+      "ObjectId": 8,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          5
+        ],
+        [
+          "_gender_jp : String",
+          [
+            "BinaryObjectString",
+            {
+              "ObjectId": 20,
+              "Value": "F"
+            }
+          ]
+        ],
+        [
+          "_disp_name_jp : String",
+          [
+            "BinaryObjectString",
+            {
+              "ObjectId": 21,
+              "Value": "\u30d4\u30fc\u30c1"
+            }
+          ]
+        ],
+        [
+          "_disp_name_en_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_fr_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_it_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_de_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_es_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_cn_traditional : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_cn_Simplified : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_kr : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_kr_vowel_flag : Primitive",
+          false
+        ]
+      ]
+    }
+  ],
+  "16": [
+    "ClassWithId",
+    {
+      "ObjectId": 9,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          0
+        ],
+        [
+          "_gender_jp : String",
+          [
+            "BinaryObjectString",
+            {
+              "ObjectId": 22,
+              "Value": "0"
+            }
+          ]
+        ],
+        [
+          "_disp_name_jp : String",
+          [
+            "BinaryObjectString",
+            {
+              "ObjectId": 23,
+              "Value": "0"
+            }
+          ]
+        ],
+        [
+          "_disp_name_en_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_fr_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_it_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_de_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_es_at_menu : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_cn_traditional : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_cn_Simplified : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_kr : String",
+          [
+            "ObjectNull",
+            null
+          ]
+        ],
+        [
+          "_disp_name_kr_vowel_flag : Primitive",
+          false
+        ]
+      ]
+    }
+  ],
+  "17": [
+    "MessageEnd",
+    null
+  ]
+}

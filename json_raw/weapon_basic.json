@@ -1,0 +1,1159 @@
+{
+  "0": [
+    "SerializedStreamHeader",
+    {
+      "RootId": 1,
+      "HeaderId": 4294967295,
+      "MajorVersion": 1,
+      "MinorVersion": 0
+    }
+  ],
+  "1": [
+    "BinaryLibrary",
+    {
+      "LibraryId": 2,
+      "LibraryName": "ExcelConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  ],
+  "2": [
+    "BinaryArray",
+    {
+      "ObjectId": 1,
+      "BinaryArrayTypeEnum": "Single",
+      "Rank": 1,
+      "Lengths": [
+        35
+      ],
+      "TypeEnum": "Class",
+      "AdditionalTypeInfo": {
+        "TypeName": "WeaponBasicData",
+        "LibraryId": 2
+      }
+    }
+  ],
+  "3": [
+    "MemberReference",
+    {
+      "IdRef": 3
+    }
+  ],
+  "4": [
+    "MemberReference",
+    {
+      "IdRef": 4
+    }
+  ],
+  "5": [
+    "MemberReference",
+    {
+      "IdRef": 5
+    }
+  ],
+  "6": [
+    "MemberReference",
+    {
+      "IdRef": 6
+    }
+  ],
+  "7": [
+    "MemberReference",
+    {
+      "IdRef": 7
+    }
+  ],
+  "8": [
+    "MemberReference",
+    {
+      "IdRef": 8
+    }
+  ],
+  "9": [
+    "MemberReference",
+    {
+      "IdRef": 9
+    }
+  ],
+  "10": [
+    "MemberReference",
+    {
+      "IdRef": 10
+    }
+  ],
+  "11": [
+    "MemberReference",
+    {
+      "IdRef": 11
+    }
+  ],
+  "12": [
+    "MemberReference",
+    {
+      "IdRef": 12
+    }
+  ],
+  "13": [
+    "MemberReference",
+    {
+      "IdRef": 13
+    }
+  ],
+  "14": [
+    "MemberReference",
+    {
+      "IdRef": 14
+    }
+  ],
+  "15": [
+    "MemberReference",
+    {
+      "IdRef": 15
+    }
+  ],
+  "16": [
+    "MemberReference",
+    {
+      "IdRef": 16
+    }
+  ],
+  "17": [
+    "MemberReference",
+    {
+      "IdRef": 17
+    }
+  ],
+  "18": [
+    "MemberReference",
+    {
+      "IdRef": 18
+    }
+  ],
+  "19": [
+    "MemberReference",
+    {
+      "IdRef": 19
+    }
+  ],
+  "20": [
+    "MemberReference",
+    {
+      "IdRef": 20
+    }
+  ],
+  "21": [
+    "MemberReference",
+    {
+      "IdRef": 21
+    }
+  ],
+  "22": [
+    "MemberReference",
+    {
+      "IdRef": 22
+    }
+  ],
+  "23": [
+    "MemberReference",
+    {
+      "IdRef": 23
+    }
+  ],
+  "24": [
+    "MemberReference",
+    {
+      "IdRef": 24
+    }
+  ],
+  "25": [
+    "MemberReference",
+    {
+      "IdRef": 25
+    }
+  ],
+  "26": [
+    "MemberReference",
+    {
+      "IdRef": 26
+    }
+  ],
+  "27": [
+    "MemberReference",
+    {
+      "IdRef": 27
+    }
+  ],
+  "28": [
+    "MemberReference",
+    {
+      "IdRef": 28
+    }
+  ],
+  "29": [
+    "MemberReference",
+    {
+      "IdRef": 29
+    }
+  ],
+  "30": [
+    "MemberReference",
+    {
+      "IdRef": 30
+    }
+  ],
+  "31": [
+    "MemberReference",
+    {
+      "IdRef": 31
+    }
+  ],
+  "32": [
+    "MemberReference",
+    {
+      "IdRef": 32
+    }
+  ],
+  "33": [
+    "MemberReference",
+    {
+      "IdRef": 33
+    }
+  ],
+  "34": [
+    "MemberReference",
+    {
+      "IdRef": 34
+    }
+  ],
+  "35": [
+    "MemberReference",
+    {
+      "IdRef": 35
+    }
+  ],
+  "36": [
+    "MemberReference",
+    {
+      "IdRef": 36
+    }
+  ],
+  "37": [
+    "MemberReference",
+    {
+      "IdRef": 37
+    }
+  ],
+  "38": [
+    "ClassWithMembersAndTypes",
+    {
+      "ClassInfo": {
+        "ObjectId": 3,
+        "Name": "WeaponBasicData",
+        "MemberCount": 4,
+        "MemberNames": [
+          "_weapon_id",
+          "_item_id",
+          "_fluctuation",
+          "_action_command_kind"
+        ]
+      },
+      "MemberTypeInfo": {
+        "BinaryTypeEnums": [
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive"
+        ],
+        "AdditionalInfos": [
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ]
+        ]
+      },
+      "LibraryId": 2,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ],
+        [
+          "_fluctuation : Primitive",
+          0
+        ],
+        [
+          "_action_command_kind : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "39": [
+    "ClassWithId",
+    {
+      "ObjectId": 4,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          1
+        ],
+        [
+          "_item_id : Primitive",
+          1
+        ],
+        [
+          "_fluctuation : Primitive",
+          1
+        ],
+        [
+          "_action_command_kind : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "40": [
+    "ClassWithId",
+    {
+      "ObjectId": 5,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          2
+        ],
+        [
+          "_item_id : Primitive",
+          2
+        ],
+        [
+          "_fluctuation : Primitive",
+          4
+        ],
+        [
+          "_action_command_kind : Primitive",
+          2
+        ]
+      ]
+    }
+  ],
+  "41": [
+    "ClassWithId",
+    {
+      "ObjectId": 6,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          3
+        ],
+        [
+          "_item_id : Primitive",
+          3
+        ],
+        [
+          "_fluctuation : Primitive",
+          30
+        ],
+        [
+          "_action_command_kind : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "42": [
+    "ClassWithId",
+    {
+      "ObjectId": 7,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          4
+        ],
+        [
+          "_item_id : Primitive",
+          4
+        ],
+        [
+          "_fluctuation : Primitive",
+          0
+        ],
+        [
+          "_action_command_kind : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "43": [
+    "ClassWithId",
+    {
+      "ObjectId": 8,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          5
+        ],
+        [
+          "_item_id : Primitive",
+          5
+        ],
+        [
+          "_fluctuation : Primitive",
+          7
+        ],
+        [
+          "_action_command_kind : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "44": [
+    "ClassWithId",
+    {
+      "ObjectId": 9,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          6
+        ],
+        [
+          "_item_id : Primitive",
+          6
+        ],
+        [
+          "_fluctuation : Primitive",
+          2
+        ],
+        [
+          "_action_command_kind : Primitive",
+          3
+        ]
+      ]
+    }
+  ],
+  "45": [
+    "ClassWithId",
+    {
+      "ObjectId": 10,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          7
+        ],
+        [
+          "_item_id : Primitive",
+          7
+        ],
+        [
+          "_fluctuation : Primitive",
+          5
+        ],
+        [
+          "_action_command_kind : Primitive",
+          3
+        ]
+      ]
+    }
+  ],
+  "46": [
+    "ClassWithId",
+    {
+      "ObjectId": 11,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          8
+        ],
+        [
+          "_item_id : Primitive",
+          8
+        ],
+        [
+          "_fluctuation : Primitive",
+          40
+        ],
+        [
+          "_action_command_kind : Primitive",
+          3
+        ]
+      ]
+    }
+  ],
+  "47": [
+    "ClassWithId",
+    {
+      "ObjectId": 12,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          9
+        ],
+        [
+          "_item_id : Primitive",
+          9
+        ],
+        [
+          "_fluctuation : Primitive",
+          3
+        ],
+        [
+          "_action_command_kind : Primitive",
+          4
+        ]
+      ]
+    }
+  ],
+  "48": [
+    "ClassWithId",
+    {
+      "ObjectId": 13,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          10
+        ],
+        [
+          "_item_id : Primitive",
+          10
+        ],
+        [
+          "_fluctuation : Primitive",
+          6
+        ],
+        [
+          "_action_command_kind : Primitive",
+          4
+        ]
+      ]
+    }
+  ],
+  "49": [
+    "ClassWithId",
+    {
+      "ObjectId": 14,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          11
+        ],
+        [
+          "_item_id : Primitive",
+          11
+        ],
+        [
+          "_fluctuation : Primitive",
+          2
+        ],
+        [
+          "_action_command_kind : Primitive",
+          5
+        ]
+      ]
+    }
+  ],
+  "50": [
+    "ClassWithId",
+    {
+      "ObjectId": 15,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          12
+        ],
+        [
+          "_item_id : Primitive",
+          12
+        ],
+        [
+          "_fluctuation : Primitive",
+          5
+        ],
+        [
+          "_action_command_kind : Primitive",
+          5
+        ]
+      ]
+    }
+  ],
+  "51": [
+    "ClassWithId",
+    {
+      "ObjectId": 16,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          13
+        ],
+        [
+          "_item_id : Primitive",
+          13
+        ],
+        [
+          "_fluctuation : Primitive",
+          3
+        ],
+        [
+          "_action_command_kind : Primitive",
+          6
+        ]
+      ]
+    }
+  ],
+  "52": [
+    "ClassWithId",
+    {
+      "ObjectId": 17,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          14
+        ],
+        [
+          "_item_id : Primitive",
+          14
+        ],
+        [
+          "_fluctuation : Primitive",
+          7
+        ],
+        [
+          "_action_command_kind : Primitive",
+          6
+        ]
+      ]
+    }
+  ],
+  "53": [
+    "ClassWithId",
+    {
+      "ObjectId": 18,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          15
+        ],
+        [
+          "_item_id : Primitive",
+          15
+        ],
+        [
+          "_fluctuation : Primitive",
+          4
+        ],
+        [
+          "_action_command_kind : Primitive",
+          7
+        ]
+      ]
+    }
+  ],
+  "54": [
+    "ClassWithId",
+    {
+      "ObjectId": 19,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          16
+        ],
+        [
+          "_item_id : Primitive",
+          16
+        ],
+        [
+          "_fluctuation : Primitive",
+          6
+        ],
+        [
+          "_action_command_kind : Primitive",
+          8
+        ]
+      ]
+    }
+  ],
+  "55": [
+    "ClassWithId",
+    {
+      "ObjectId": 20,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          17
+        ],
+        [
+          "_item_id : Primitive",
+          17
+        ],
+        [
+          "_fluctuation : Primitive",
+          3
+        ],
+        [
+          "_action_command_kind : Primitive",
+          9
+        ]
+      ]
+    }
+  ],
+  "56": [
+    "ClassWithId",
+    {
+      "ObjectId": 21,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          18
+        ],
+        [
+          "_item_id : Primitive",
+          18
+        ],
+        [
+          "_fluctuation : Primitive",
+          4
+        ],
+        [
+          "_action_command_kind : Primitive",
+          10
+        ]
+      ]
+    }
+  ],
+  "57": [
+    "ClassWithId",
+    {
+      "ObjectId": 22,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          19
+        ],
+        [
+          "_item_id : Primitive",
+          19
+        ],
+        [
+          "_fluctuation : Primitive",
+          6
+        ],
+        [
+          "_action_command_kind : Primitive",
+          11
+        ]
+      ]
+    }
+  ],
+  "58": [
+    "ClassWithId",
+    {
+      "ObjectId": 23,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          20
+        ],
+        [
+          "_item_id : Primitive",
+          20
+        ],
+        [
+          "_fluctuation : Primitive",
+          7
+        ],
+        [
+          "_action_command_kind : Primitive",
+          12
+        ]
+      ]
+    }
+  ],
+  "59": [
+    "ClassWithId",
+    {
+      "ObjectId": 24,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          21
+        ],
+        [
+          "_item_id : Primitive",
+          21
+        ],
+        [
+          "_fluctuation : Primitive",
+          5
+        ],
+        [
+          "_action_command_kind : Primitive",
+          13
+        ]
+      ]
+    }
+  ],
+  "60": [
+    "ClassWithId",
+    {
+      "ObjectId": 25,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          22
+        ],
+        [
+          "_item_id : Primitive",
+          22
+        ],
+        [
+          "_fluctuation : Primitive",
+          3
+        ],
+        [
+          "_action_command_kind : Primitive",
+          14
+        ]
+      ]
+    }
+  ],
+  "61": [
+    "ClassWithId",
+    {
+      "ObjectId": 26,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          23
+        ],
+        [
+          "_item_id : Primitive",
+          23
+        ],
+        [
+          "_fluctuation : Primitive",
+          4
+        ],
+        [
+          "_action_command_kind : Primitive",
+          14
+        ]
+      ]
+    }
+  ],
+  "62": [
+    "ClassWithId",
+    {
+      "ObjectId": 27,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          24
+        ],
+        [
+          "_item_id : Primitive",
+          24
+        ],
+        [
+          "_fluctuation : Primitive",
+          6
+        ],
+        [
+          "_action_command_kind : Primitive",
+          14
+        ]
+      ]
+    }
+  ],
+  "63": [
+    "ClassWithId",
+    {
+      "ObjectId": 28,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          25
+        ],
+        [
+          "_item_id : Primitive",
+          25
+        ],
+        [
+          "_fluctuation : Primitive",
+          5
+        ],
+        [
+          "_action_command_kind : Primitive",
+          15
+        ]
+      ]
+    }
+  ],
+  "64": [
+    "ClassWithId",
+    {
+      "ObjectId": 29,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          26
+        ],
+        [
+          "_item_id : Primitive",
+          26
+        ],
+        [
+          "_fluctuation : Primitive",
+          7
+        ],
+        [
+          "_action_command_kind : Primitive",
+          16
+        ]
+      ]
+    }
+  ],
+  "65": [
+    "ClassWithId",
+    {
+      "ObjectId": 30,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          27
+        ],
+        [
+          "_item_id : Primitive",
+          27
+        ],
+        [
+          "_fluctuation : Primitive",
+          4
+        ],
+        [
+          "_action_command_kind : Primitive",
+          17
+        ]
+      ]
+    }
+  ],
+  "66": [
+    "ClassWithId",
+    {
+      "ObjectId": 31,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          28
+        ],
+        [
+          "_item_id : Primitive",
+          28
+        ],
+        [
+          "_fluctuation : Primitive",
+          7
+        ],
+        [
+          "_action_command_kind : Primitive",
+          17
+        ]
+      ]
+    }
+  ],
+  "67": [
+    "ClassWithId",
+    {
+      "ObjectId": 32,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          29
+        ],
+        [
+          "_item_id : Primitive",
+          29
+        ],
+        [
+          "_fluctuation : Primitive",
+          5
+        ],
+        [
+          "_action_command_kind : Primitive",
+          18
+        ]
+      ]
+    }
+  ],
+  "68": [
+    "ClassWithId",
+    {
+      "ObjectId": 33,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          30
+        ],
+        [
+          "_item_id : Primitive",
+          30
+        ],
+        [
+          "_fluctuation : Primitive",
+          6
+        ],
+        [
+          "_action_command_kind : Primitive",
+          19
+        ]
+      ]
+    }
+  ],
+  "69": [
+    "ClassWithId",
+    {
+      "ObjectId": 34,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          31
+        ],
+        [
+          "_item_id : Primitive",
+          31
+        ],
+        [
+          "_fluctuation : Primitive",
+          20
+        ],
+        [
+          "_action_command_kind : Primitive",
+          20
+        ]
+      ]
+    }
+  ],
+  "70": [
+    "ClassWithId",
+    {
+      "ObjectId": 35,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          158
+        ],
+        [
+          "_item_id : Primitive",
+          158
+        ],
+        [
+          "_fluctuation : Primitive",
+          10
+        ],
+        [
+          "_action_command_kind : Primitive",
+          5
+        ]
+      ]
+    }
+  ],
+  "71": [
+    "ClassWithId",
+    {
+      "ObjectId": 36,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          159
+        ],
+        [
+          "_item_id : Primitive",
+          159
+        ],
+        [
+          "_fluctuation : Primitive",
+          20
+        ],
+        [
+          "_action_command_kind : Primitive",
+          9
+        ]
+      ]
+    }
+  ],
+  "72": [
+    "ClassWithId",
+    {
+      "ObjectId": 37,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_weapon_id : Primitive",
+          160
+        ],
+        [
+          "_item_id : Primitive",
+          160
+        ],
+        [
+          "_fluctuation : Primitive",
+          45
+        ],
+        [
+          "_action_command_kind : Primitive",
+          14
+        ]
+      ]
+    }
+  ],
+  "73": [
+    "MessageEnd",
+    null
+  ]
+}

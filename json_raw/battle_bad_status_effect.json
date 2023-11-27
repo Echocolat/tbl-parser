@@ -1,0 +1,2063 @@
+{
+  "0": [
+    "SerializedStreamHeader",
+    {
+      "RootId": 1,
+      "HeaderId": 4294967295,
+      "MajorVersion": 1,
+      "MinorVersion": 0
+    }
+  ],
+  "1": [
+    "BinaryLibrary",
+    {
+      "LibraryId": 2,
+      "LibraryName": "ExcelConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  ],
+  "2": [
+    "BinaryArray",
+    {
+      "ObjectId": 1,
+      "BinaryArrayTypeEnum": "Single",
+      "Rank": 1,
+      "Lengths": [
+        87
+      ],
+      "TypeEnum": "Class",
+      "AdditionalTypeInfo": {
+        "TypeName": "BattleBadStatusEffectData",
+        "LibraryId": 2
+      }
+    }
+  ],
+  "3": [
+    "MemberReference",
+    {
+      "IdRef": 3
+    }
+  ],
+  "4": [
+    "MemberReference",
+    {
+      "IdRef": 4
+    }
+  ],
+  "5": [
+    "MemberReference",
+    {
+      "IdRef": 5
+    }
+  ],
+  "6": [
+    "MemberReference",
+    {
+      "IdRef": 6
+    }
+  ],
+  "7": [
+    "MemberReference",
+    {
+      "IdRef": 7
+    }
+  ],
+  "8": [
+    "MemberReference",
+    {
+      "IdRef": 8
+    }
+  ],
+  "9": [
+    "MemberReference",
+    {
+      "IdRef": 9
+    }
+  ],
+  "10": [
+    "MemberReference",
+    {
+      "IdRef": 10
+    }
+  ],
+  "11": [
+    "MemberReference",
+    {
+      "IdRef": 11
+    }
+  ],
+  "12": [
+    "MemberReference",
+    {
+      "IdRef": 12
+    }
+  ],
+  "13": [
+    "MemberReference",
+    {
+      "IdRef": 13
+    }
+  ],
+  "14": [
+    "MemberReference",
+    {
+      "IdRef": 14
+    }
+  ],
+  "15": [
+    "MemberReference",
+    {
+      "IdRef": 15
+    }
+  ],
+  "16": [
+    "MemberReference",
+    {
+      "IdRef": 16
+    }
+  ],
+  "17": [
+    "MemberReference",
+    {
+      "IdRef": 17
+    }
+  ],
+  "18": [
+    "MemberReference",
+    {
+      "IdRef": 18
+    }
+  ],
+  "19": [
+    "MemberReference",
+    {
+      "IdRef": 19
+    }
+  ],
+  "20": [
+    "MemberReference",
+    {
+      "IdRef": 20
+    }
+  ],
+  "21": [
+    "MemberReference",
+    {
+      "IdRef": 21
+    }
+  ],
+  "22": [
+    "MemberReference",
+    {
+      "IdRef": 22
+    }
+  ],
+  "23": [
+    "MemberReference",
+    {
+      "IdRef": 23
+    }
+  ],
+  "24": [
+    "MemberReference",
+    {
+      "IdRef": 24
+    }
+  ],
+  "25": [
+    "MemberReference",
+    {
+      "IdRef": 25
+    }
+  ],
+  "26": [
+    "MemberReference",
+    {
+      "IdRef": 26
+    }
+  ],
+  "27": [
+    "MemberReference",
+    {
+      "IdRef": 27
+    }
+  ],
+  "28": [
+    "MemberReference",
+    {
+      "IdRef": 28
+    }
+  ],
+  "29": [
+    "MemberReference",
+    {
+      "IdRef": 29
+    }
+  ],
+  "30": [
+    "MemberReference",
+    {
+      "IdRef": 30
+    }
+  ],
+  "31": [
+    "MemberReference",
+    {
+      "IdRef": 31
+    }
+  ],
+  "32": [
+    "MemberReference",
+    {
+      "IdRef": 32
+    }
+  ],
+  "33": [
+    "MemberReference",
+    {
+      "IdRef": 33
+    }
+  ],
+  "34": [
+    "MemberReference",
+    {
+      "IdRef": 34
+    }
+  ],
+  "35": [
+    "MemberReference",
+    {
+      "IdRef": 35
+    }
+  ],
+  "36": [
+    "MemberReference",
+    {
+      "IdRef": 36
+    }
+  ],
+  "37": [
+    "MemberReference",
+    {
+      "IdRef": 37
+    }
+  ],
+  "38": [
+    "MemberReference",
+    {
+      "IdRef": 38
+    }
+  ],
+  "39": [
+    "MemberReference",
+    {
+      "IdRef": 39
+    }
+  ],
+  "40": [
+    "MemberReference",
+    {
+      "IdRef": 40
+    }
+  ],
+  "41": [
+    "MemberReference",
+    {
+      "IdRef": 41
+    }
+  ],
+  "42": [
+    "MemberReference",
+    {
+      "IdRef": 42
+    }
+  ],
+  "43": [
+    "MemberReference",
+    {
+      "IdRef": 43
+    }
+  ],
+  "44": [
+    "MemberReference",
+    {
+      "IdRef": 44
+    }
+  ],
+  "45": [
+    "MemberReference",
+    {
+      "IdRef": 45
+    }
+  ],
+  "46": [
+    "MemberReference",
+    {
+      "IdRef": 46
+    }
+  ],
+  "47": [
+    "MemberReference",
+    {
+      "IdRef": 47
+    }
+  ],
+  "48": [
+    "MemberReference",
+    {
+      "IdRef": 48
+    }
+  ],
+  "49": [
+    "MemberReference",
+    {
+      "IdRef": 49
+    }
+  ],
+  "50": [
+    "MemberReference",
+    {
+      "IdRef": 50
+    }
+  ],
+  "51": [
+    "MemberReference",
+    {
+      "IdRef": 51
+    }
+  ],
+  "52": [
+    "MemberReference",
+    {
+      "IdRef": 52
+    }
+  ],
+  "53": [
+    "MemberReference",
+    {
+      "IdRef": 53
+    }
+  ],
+  "54": [
+    "MemberReference",
+    {
+      "IdRef": 54
+    }
+  ],
+  "55": [
+    "MemberReference",
+    {
+      "IdRef": 55
+    }
+  ],
+  "56": [
+    "MemberReference",
+    {
+      "IdRef": 56
+    }
+  ],
+  "57": [
+    "MemberReference",
+    {
+      "IdRef": 57
+    }
+  ],
+  "58": [
+    "MemberReference",
+    {
+      "IdRef": 58
+    }
+  ],
+  "59": [
+    "MemberReference",
+    {
+      "IdRef": 59
+    }
+  ],
+  "60": [
+    "MemberReference",
+    {
+      "IdRef": 60
+    }
+  ],
+  "61": [
+    "MemberReference",
+    {
+      "IdRef": 61
+    }
+  ],
+  "62": [
+    "MemberReference",
+    {
+      "IdRef": 62
+    }
+  ],
+  "63": [
+    "MemberReference",
+    {
+      "IdRef": 63
+    }
+  ],
+  "64": [
+    "MemberReference",
+    {
+      "IdRef": 64
+    }
+  ],
+  "65": [
+    "MemberReference",
+    {
+      "IdRef": 65
+    }
+  ],
+  "66": [
+    "MemberReference",
+    {
+      "IdRef": 66
+    }
+  ],
+  "67": [
+    "MemberReference",
+    {
+      "IdRef": 67
+    }
+  ],
+  "68": [
+    "MemberReference",
+    {
+      "IdRef": 68
+    }
+  ],
+  "69": [
+    "MemberReference",
+    {
+      "IdRef": 69
+    }
+  ],
+  "70": [
+    "MemberReference",
+    {
+      "IdRef": 70
+    }
+  ],
+  "71": [
+    "MemberReference",
+    {
+      "IdRef": 71
+    }
+  ],
+  "72": [
+    "MemberReference",
+    {
+      "IdRef": 72
+    }
+  ],
+  "73": [
+    "MemberReference",
+    {
+      "IdRef": 73
+    }
+  ],
+  "74": [
+    "MemberReference",
+    {
+      "IdRef": 74
+    }
+  ],
+  "75": [
+    "MemberReference",
+    {
+      "IdRef": 75
+    }
+  ],
+  "76": [
+    "MemberReference",
+    {
+      "IdRef": 76
+    }
+  ],
+  "77": [
+    "MemberReference",
+    {
+      "IdRef": 77
+    }
+  ],
+  "78": [
+    "MemberReference",
+    {
+      "IdRef": 78
+    }
+  ],
+  "79": [
+    "MemberReference",
+    {
+      "IdRef": 79
+    }
+  ],
+  "80": [
+    "MemberReference",
+    {
+      "IdRef": 80
+    }
+  ],
+  "81": [
+    "MemberReference",
+    {
+      "IdRef": 81
+    }
+  ],
+  "82": [
+    "MemberReference",
+    {
+      "IdRef": 82
+    }
+  ],
+  "83": [
+    "MemberReference",
+    {
+      "IdRef": 83
+    }
+  ],
+  "84": [
+    "MemberReference",
+    {
+      "IdRef": 84
+    }
+  ],
+  "85": [
+    "MemberReference",
+    {
+      "IdRef": 85
+    }
+  ],
+  "86": [
+    "MemberReference",
+    {
+      "IdRef": 86
+    }
+  ],
+  "87": [
+    "MemberReference",
+    {
+      "IdRef": 87
+    }
+  ],
+  "88": [
+    "MemberReference",
+    {
+      "IdRef": 88
+    }
+  ],
+  "89": [
+    "MemberReference",
+    {
+      "IdRef": 89
+    }
+  ],
+  "90": [
+    "ClassWithMembersAndTypes",
+    {
+      "ClassInfo": {
+        "ObjectId": 3,
+        "Name": "BattleBadStatusEffectData",
+        "MemberCount": 2,
+        "MemberNames": [
+          "_character_id",
+          "_fear_resident_effect_id"
+        ]
+      },
+      "MemberTypeInfo": {
+        "BinaryTypeEnums": [
+          "Primitive",
+          "Primitive"
+        ],
+        "AdditionalInfos": [
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ]
+        ]
+      },
+      "LibraryId": 2,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          4
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          573
+        ]
+      ]
+    }
+  ],
+  "91": [
+    "ClassWithId",
+    {
+      "ObjectId": 4,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          5
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          583
+        ]
+      ]
+    }
+  ],
+  "92": [
+    "ClassWithId",
+    {
+      "ObjectId": 5,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1030
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "93": [
+    "ClassWithId",
+    {
+      "ObjectId": 6,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1032
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "94": [
+    "ClassWithId",
+    {
+      "ObjectId": 7,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1038
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "95": [
+    "ClassWithId",
+    {
+      "ObjectId": 8,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1047
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "96": [
+    "ClassWithId",
+    {
+      "ObjectId": 9,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1049
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "97": [
+    "ClassWithId",
+    {
+      "ObjectId": 10,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1053
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "98": [
+    "ClassWithId",
+    {
+      "ObjectId": 11,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1054
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "99": [
+    "ClassWithId",
+    {
+      "ObjectId": 12,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1057
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "100": [
+    "ClassWithId",
+    {
+      "ObjectId": 13,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1074
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "101": [
+    "ClassWithId",
+    {
+      "ObjectId": 14,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1082
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "102": [
+    "ClassWithId",
+    {
+      "ObjectId": 15,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1101
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "103": [
+    "ClassWithId",
+    {
+      "ObjectId": 16,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1104
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "104": [
+    "ClassWithId",
+    {
+      "ObjectId": 17,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1507
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "105": [
+    "ClassWithId",
+    {
+      "ObjectId": 18,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1512
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "106": [
+    "ClassWithId",
+    {
+      "ObjectId": 19,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1514
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "107": [
+    "ClassWithId",
+    {
+      "ObjectId": 20,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1515
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "108": [
+    "ClassWithId",
+    {
+      "ObjectId": 21,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1526
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "109": [
+    "ClassWithId",
+    {
+      "ObjectId": 22,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1541
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "110": [
+    "ClassWithId",
+    {
+      "ObjectId": 23,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1543
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "111": [
+    "ClassWithId",
+    {
+      "ObjectId": 24,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1560
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "112": [
+    "ClassWithId",
+    {
+      "ObjectId": 25,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1571
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "113": [
+    "ClassWithId",
+    {
+      "ObjectId": 26,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1590
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "114": [
+    "ClassWithId",
+    {
+      "ObjectId": 27,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1609
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "115": [
+    "ClassWithId",
+    {
+      "ObjectId": 28,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1004
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "116": [
+    "ClassWithId",
+    {
+      "ObjectId": 29,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1005
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "117": [
+    "ClassWithId",
+    {
+      "ObjectId": 30,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1006
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "118": [
+    "ClassWithId",
+    {
+      "ObjectId": 31,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1007
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "119": [
+    "ClassWithId",
+    {
+      "ObjectId": 32,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1010
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "120": [
+    "ClassWithId",
+    {
+      "ObjectId": 33,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1011
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "121": [
+    "ClassWithId",
+    {
+      "ObjectId": 34,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1017
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "122": [
+    "ClassWithId",
+    {
+      "ObjectId": 35,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1018
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "123": [
+    "ClassWithId",
+    {
+      "ObjectId": 36,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1019
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "124": [
+    "ClassWithId",
+    {
+      "ObjectId": 37,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1020
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "125": [
+    "ClassWithId",
+    {
+      "ObjectId": 38,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1024
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "126": [
+    "ClassWithId",
+    {
+      "ObjectId": 39,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1027
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "127": [
+    "ClassWithId",
+    {
+      "ObjectId": 40,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1029
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "128": [
+    "ClassWithId",
+    {
+      "ObjectId": 41,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1031
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "129": [
+    "ClassWithId",
+    {
+      "ObjectId": 42,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1033
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "130": [
+    "ClassWithId",
+    {
+      "ObjectId": 43,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1034
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "131": [
+    "ClassWithId",
+    {
+      "ObjectId": 44,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1035
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "132": [
+    "ClassWithId",
+    {
+      "ObjectId": 45,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1039
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "133": [
+    "ClassWithId",
+    {
+      "ObjectId": 46,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1042
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "134": [
+    "ClassWithId",
+    {
+      "ObjectId": 47,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1043
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "135": [
+    "ClassWithId",
+    {
+      "ObjectId": 48,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1045
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "136": [
+    "ClassWithId",
+    {
+      "ObjectId": 49,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1048
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "137": [
+    "ClassWithId",
+    {
+      "ObjectId": 50,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1055
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "138": [
+    "ClassWithId",
+    {
+      "ObjectId": 51,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1056
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "139": [
+    "ClassWithId",
+    {
+      "ObjectId": 52,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1058
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "140": [
+    "ClassWithId",
+    {
+      "ObjectId": 53,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1060
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "141": [
+    "ClassWithId",
+    {
+      "ObjectId": 54,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1067
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "142": [
+    "ClassWithId",
+    {
+      "ObjectId": 55,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1071
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "143": [
+    "ClassWithId",
+    {
+      "ObjectId": 56,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1072
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "144": [
+    "ClassWithId",
+    {
+      "ObjectId": 57,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1075
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "145": [
+    "ClassWithId",
+    {
+      "ObjectId": 58,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1081
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "146": [
+    "ClassWithId",
+    {
+      "ObjectId": 59,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1083
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "147": [
+    "ClassWithId",
+    {
+      "ObjectId": 60,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1088
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "148": [
+    "ClassWithId",
+    {
+      "ObjectId": 61,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1089
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "149": [
+    "ClassWithId",
+    {
+      "ObjectId": 62,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1091
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "150": [
+    "ClassWithId",
+    {
+      "ObjectId": 63,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1092
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "151": [
+    "ClassWithId",
+    {
+      "ObjectId": 64,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1093
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "152": [
+    "ClassWithId",
+    {
+      "ObjectId": 65,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1099
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "153": [
+    "ClassWithId",
+    {
+      "ObjectId": 66,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1102
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "154": [
+    "ClassWithId",
+    {
+      "ObjectId": 67,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1105
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "155": [
+    "ClassWithId",
+    {
+      "ObjectId": 68,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1108
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "156": [
+    "ClassWithId",
+    {
+      "ObjectId": 69,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1118
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "157": [
+    "ClassWithId",
+    {
+      "ObjectId": 70,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1119
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "158": [
+    "ClassWithId",
+    {
+      "ObjectId": 71,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1121
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "159": [
+    "ClassWithId",
+    {
+      "ObjectId": 72,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1501
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "160": [
+    "ClassWithId",
+    {
+      "ObjectId": 73,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1502
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "161": [
+    "ClassWithId",
+    {
+      "ObjectId": 74,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1503
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "162": [
+    "ClassWithId",
+    {
+      "ObjectId": 75,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1504
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "163": [
+    "ClassWithId",
+    {
+      "ObjectId": 76,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1506
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "164": [
+    "ClassWithId",
+    {
+      "ObjectId": 77,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1509
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "165": [
+    "ClassWithId",
+    {
+      "ObjectId": 78,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1522
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "166": [
+    "ClassWithId",
+    {
+      "ObjectId": 79,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1523
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "167": [
+    "ClassWithId",
+    {
+      "ObjectId": 80,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1548
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "168": [
+    "ClassWithId",
+    {
+      "ObjectId": 81,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1552
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "169": [
+    "ClassWithId",
+    {
+      "ObjectId": 82,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1558
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "170": [
+    "ClassWithId",
+    {
+      "ObjectId": 83,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1559
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "171": [
+    "ClassWithId",
+    {
+      "ObjectId": 84,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1567
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "172": [
+    "ClassWithId",
+    {
+      "ObjectId": 85,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1568
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "173": [
+    "ClassWithId",
+    {
+      "ObjectId": 86,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1569
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "174": [
+    "ClassWithId",
+    {
+      "ObjectId": 87,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1570
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "175": [
+    "ClassWithId",
+    {
+      "ObjectId": 88,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1618
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "176": [
+    "ClassWithId",
+    {
+      "ObjectId": 89,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_character_id : Primitive",
+          1623
+        ],
+        [
+          "_fear_resident_effect_id : Primitive",
+          928
+        ]
+      ]
+    }
+  ],
+  "177": [
+    "MessageEnd",
+    null
+  ]
+}

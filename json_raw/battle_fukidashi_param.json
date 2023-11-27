@@ -1,0 +1,393 @@
+{
+  "0": [
+    "SerializedStreamHeader",
+    {
+      "RootId": 1,
+      "HeaderId": 4294967295,
+      "MajorVersion": 1,
+      "MinorVersion": 0
+    }
+  ],
+  "1": [
+    "BinaryLibrary",
+    {
+      "LibraryId": 2,
+      "LibraryName": "ExcelConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  ],
+  "2": [
+    "BinaryArray",
+    {
+      "ObjectId": 1,
+      "BinaryArrayTypeEnum": "Single",
+      "Rank": 1,
+      "Lengths": [
+        7
+      ],
+      "TypeEnum": "Class",
+      "AdditionalTypeInfo": {
+        "TypeName": "BattleFukidashiParamData",
+        "LibraryId": 2
+      }
+    }
+  ],
+  "3": [
+    "MemberReference",
+    {
+      "IdRef": 3
+    }
+  ],
+  "4": [
+    "MemberReference",
+    {
+      "IdRef": 4
+    }
+  ],
+  "5": [
+    "MemberReference",
+    {
+      "IdRef": 5
+    }
+  ],
+  "6": [
+    "MemberReference",
+    {
+      "IdRef": 6
+    }
+  ],
+  "7": [
+    "MemberReference",
+    {
+      "IdRef": 7
+    }
+  ],
+  "8": [
+    "MemberReference",
+    {
+      "IdRef": 8
+    }
+  ],
+  "9": [
+    "MemberReference",
+    {
+      "IdRef": 9
+    }
+  ],
+  "10": [
+    "ClassWithMembersAndTypes",
+    {
+      "ClassInfo": {
+        "ObjectId": 3,
+        "Name": "BattleFukidashiParamData",
+        "MemberCount": 7,
+        "MemberNames": [
+          "_skill_id",
+          "_message_id",
+          "_null_option",
+          "_window_pos",
+          "_is_follow",
+          "_offset_x",
+          "_offset_y"
+        ]
+      },
+      "MemberTypeInfo": {
+        "BinaryTypeEnums": [
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive"
+        ],
+        "AdditionalInfos": [
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ]
+        ]
+      },
+      "LibraryId": 2,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          2001002
+        ],
+        [
+          "_message_id : Primitive",
+          501025
+        ],
+        [
+          "_null_option : Primitive",
+          2
+        ],
+        [
+          "_window_pos : Primitive",
+          3
+        ],
+        [
+          "_is_follow : Primitive",
+          0
+        ],
+        [
+          "_offset_x : Primitive",
+          -30.0
+        ],
+        [
+          "_offset_y : Primitive",
+          20.0
+        ]
+      ]
+    }
+  ],
+  "11": [
+    "ClassWithId",
+    {
+      "ObjectId": 4,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          2011002
+        ],
+        [
+          "_message_id : Primitive",
+          501046
+        ],
+        [
+          "_null_option : Primitive",
+          1
+        ],
+        [
+          "_window_pos : Primitive",
+          0
+        ],
+        [
+          "_is_follow : Primitive",
+          0
+        ],
+        [
+          "_offset_x : Primitive",
+          -100.0
+        ],
+        [
+          "_offset_y : Primitive",
+          250.0
+        ]
+      ]
+    }
+  ],
+  "12": [
+    "ClassWithId",
+    {
+      "ObjectId": 5,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          2011002
+        ],
+        [
+          "_message_id : Primitive",
+          501047
+        ],
+        [
+          "_null_option : Primitive",
+          1
+        ],
+        [
+          "_window_pos : Primitive",
+          0
+        ],
+        [
+          "_is_follow : Primitive",
+          0
+        ],
+        [
+          "_offset_x : Primitive",
+          -100.0
+        ],
+        [
+          "_offset_y : Primitive",
+          140.0
+        ]
+      ]
+    }
+  ],
+  "13": [
+    "ClassWithId",
+    {
+      "ObjectId": 6,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          2011002
+        ],
+        [
+          "_message_id : Primitive",
+          501048
+        ],
+        [
+          "_null_option : Primitive",
+          1
+        ],
+        [
+          "_window_pos : Primitive",
+          0
+        ],
+        [
+          "_is_follow : Primitive",
+          0
+        ],
+        [
+          "_offset_x : Primitive",
+          -100.0
+        ],
+        [
+          "_offset_y : Primitive",
+          250.0
+        ]
+      ]
+    }
+  ],
+  "14": [
+    "ClassWithId",
+    {
+      "ObjectId": 7,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          2011002
+        ],
+        [
+          "_message_id : Primitive",
+          501049
+        ],
+        [
+          "_null_option : Primitive",
+          1
+        ],
+        [
+          "_window_pos : Primitive",
+          0
+        ],
+        [
+          "_is_follow : Primitive",
+          0
+        ],
+        [
+          "_offset_x : Primitive",
+          -100.0
+        ],
+        [
+          "_offset_y : Primitive",
+          250.0
+        ]
+      ]
+    }
+  ],
+  "15": [
+    "ClassWithId",
+    {
+      "ObjectId": 8,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          2011002
+        ],
+        [
+          "_message_id : Primitive",
+          501051
+        ],
+        [
+          "_null_option : Primitive",
+          1
+        ],
+        [
+          "_window_pos : Primitive",
+          0
+        ],
+        [
+          "_is_follow : Primitive",
+          0
+        ],
+        [
+          "_offset_x : Primitive",
+          -100.0
+        ],
+        [
+          "_offset_y : Primitive",
+          250.0
+        ]
+      ]
+    }
+  ],
+  "16": [
+    "ClassWithId",
+    {
+      "ObjectId": 9,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          2066009
+        ],
+        [
+          "_message_id : Primitive",
+          25003
+        ],
+        [
+          "_null_option : Primitive",
+          1
+        ],
+        [
+          "_window_pos : Primitive",
+          1
+        ],
+        [
+          "_is_follow : Primitive",
+          0
+        ],
+        [
+          "_offset_x : Primitive",
+          0.0
+        ],
+        [
+          "_offset_y : Primitive",
+          160.0
+        ]
+      ]
+    }
+  ],
+  "17": [
+    "MessageEnd",
+    null
+  ]
+}

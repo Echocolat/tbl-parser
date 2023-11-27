@@ -1,0 +1,177 @@
+{
+  "0": [
+    "SerializedStreamHeader",
+    {
+      "RootId": 1,
+      "HeaderId": 4294967295,
+      "MajorVersion": 1,
+      "MinorVersion": 0
+    }
+  ],
+  "1": [
+    "BinaryLibrary",
+    {
+      "LibraryId": 2,
+      "LibraryName": "ExcelConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  ],
+  "2": [
+    "BinaryArray",
+    {
+      "ObjectId": 1,
+      "BinaryArrayTypeEnum": "Single",
+      "Rank": 1,
+      "Lengths": [
+        5
+      ],
+      "TypeEnum": "Class",
+      "AdditionalTypeInfo": {
+        "TypeName": "BattleJumpOffsetData",
+        "LibraryId": 2
+      }
+    }
+  ],
+  "3": [
+    "MemberReference",
+    {
+      "IdRef": 3
+    }
+  ],
+  "4": [
+    "MemberReference",
+    {
+      "IdRef": 4
+    }
+  ],
+  "5": [
+    "MemberReference",
+    {
+      "IdRef": 5
+    }
+  ],
+  "6": [
+    "MemberReference",
+    {
+      "IdRef": 6
+    }
+  ],
+  "7": [
+    "MemberReference",
+    {
+      "IdRef": 7
+    }
+  ],
+  "8": [
+    "ClassWithMembersAndTypes",
+    {
+      "ClassInfo": {
+        "ObjectId": 3,
+        "Name": "BattleJumpOffsetData",
+        "MemberCount": 2,
+        "MemberNames": [
+          "_kajio_head_character_id",
+          "_offset_y"
+        ]
+      },
+      "MemberTypeInfo": {
+        "BinaryTypeEnums": [
+          "Primitive",
+          "Primitive"
+        ],
+        "AdditionalInfos": [
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ]
+        ]
+      },
+      "LibraryId": 2,
+      "Values": [
+        [
+          "_kajio_head_character_id : Primitive",
+          1575
+        ],
+        [
+          "_offset_y : Primitive",
+          2.200000047683716
+        ]
+      ]
+    }
+  ],
+  "9": [
+    "ClassWithId",
+    {
+      "ObjectId": 4,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_kajio_head_character_id : Primitive",
+          1576
+        ],
+        [
+          "_offset_y : Primitive",
+          1.2999999523162842
+        ]
+      ]
+    }
+  ],
+  "10": [
+    "ClassWithId",
+    {
+      "ObjectId": 5,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_kajio_head_character_id : Primitive",
+          1577
+        ],
+        [
+          "_offset_y : Primitive",
+          2.0
+        ]
+      ]
+    }
+  ],
+  "11": [
+    "ClassWithId",
+    {
+      "ObjectId": 6,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_kajio_head_character_id : Primitive",
+          1578
+        ],
+        [
+          "_offset_y : Primitive",
+          1.0
+        ]
+      ]
+    }
+  ],
+  "12": [
+    "ClassWithId",
+    {
+      "ObjectId": 7,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_kajio_head_character_id : Primitive",
+          1579
+        ],
+        [
+          "_offset_y : Primitive",
+          1.7999999523162842
+        ]
+      ]
+    }
+  ],
+  "13": [
+    "MessageEnd",
+    null
+  ]
+}

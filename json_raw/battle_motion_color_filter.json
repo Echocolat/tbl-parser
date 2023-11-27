@@ -1,0 +1,816 @@
+{
+  "0": [
+    "SerializedStreamHeader",
+    {
+      "RootId": 1,
+      "HeaderId": 4294967295,
+      "MajorVersion": 1,
+      "MinorVersion": 0
+    }
+  ],
+  "1": [
+    "BinaryLibrary",
+    {
+      "LibraryId": 2,
+      "LibraryName": "ExcelConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  ],
+  "2": [
+    "BinaryArray",
+    {
+      "ObjectId": 1,
+      "BinaryArrayTypeEnum": "Single",
+      "Rank": 1,
+      "Lengths": [
+        8
+      ],
+      "TypeEnum": "Class",
+      "AdditionalTypeInfo": {
+        "TypeName": "BattleMotionColorFilterData",
+        "LibraryId": 2
+      }
+    }
+  ],
+  "3": [
+    "MemberReference",
+    {
+      "IdRef": 3
+    }
+  ],
+  "4": [
+    "MemberReference",
+    {
+      "IdRef": 4
+    }
+  ],
+  "5": [
+    "MemberReference",
+    {
+      "IdRef": 5
+    }
+  ],
+  "6": [
+    "MemberReference",
+    {
+      "IdRef": 6
+    }
+  ],
+  "7": [
+    "MemberReference",
+    {
+      "IdRef": 7
+    }
+  ],
+  "8": [
+    "MemberReference",
+    {
+      "IdRef": 8
+    }
+  ],
+  "9": [
+    "MemberReference",
+    {
+      "IdRef": 9
+    }
+  ],
+  "10": [
+    "MemberReference",
+    {
+      "IdRef": 10
+    }
+  ],
+  "11": [
+    "ClassWithMembersAndTypes",
+    {
+      "ClassInfo": {
+        "ObjectId": 3,
+        "Name": "BattleMotionColorFilterData",
+        "MemberCount": 17,
+        "MemberNames": [
+          "_id",
+          "_left_top_r",
+          "_left_top_g",
+          "_left_top_b",
+          "_left_top_a",
+          "_right_top_r",
+          "_right_top_g",
+          "_right_top_b",
+          "_right_top_a",
+          "_left_bottom_r",
+          "_left_bottom_g",
+          "_left_bottom_b",
+          "_left_bottom_a",
+          "_right_bottom_r",
+          "_right_bottom_g",
+          "_right_bottom_b",
+          "_right_bottom_a"
+        ]
+      },
+      "MemberTypeInfo": {
+        "BinaryTypeEnums": [
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive"
+        ],
+        "AdditionalInfos": [
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ]
+        ]
+      },
+      "LibraryId": 2,
+      "Values": [
+        [
+          "_id : Primitive",
+          1
+        ],
+        [
+          "_left_top_r : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_g : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_b : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_a : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_r : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_g : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_b : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_a : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_r : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_g : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_b : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_a : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_r : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_g : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_b : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_a : Primitive",
+          0.0
+        ]
+      ]
+    }
+  ],
+  "12": [
+    "ClassWithId",
+    {
+      "ObjectId": 4,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          2
+        ],
+        [
+          "_left_top_r : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_g : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_b : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_a : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_r : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_g : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_b : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_a : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_r : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_g : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_b : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_a : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_r : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_g : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_b : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_a : Primitive",
+          0.0
+        ]
+      ]
+    }
+  ],
+  "13": [
+    "ClassWithId",
+    {
+      "ObjectId": 5,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          3
+        ],
+        [
+          "_left_top_r : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_g : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_b : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_a : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_r : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_g : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_b : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_a : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_r : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_g : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_b : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_a : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_r : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_g : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_b : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_a : Primitive",
+          0.0
+        ]
+      ]
+    }
+  ],
+  "14": [
+    "ClassWithId",
+    {
+      "ObjectId": 6,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          4
+        ],
+        [
+          "_left_top_r : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_g : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_b : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_a : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_r : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_g : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_b : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_a : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_r : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_g : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_b : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_a : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_r : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_g : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_b : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_a : Primitive",
+          0.0
+        ]
+      ]
+    }
+  ],
+  "15": [
+    "ClassWithId",
+    {
+      "ObjectId": 7,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          5
+        ],
+        [
+          "_left_top_r : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_g : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_b : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_a : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_r : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_g : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_b : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_a : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_r : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_g : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_b : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_a : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_r : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_g : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_b : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_a : Primitive",
+          0.0
+        ]
+      ]
+    }
+  ],
+  "16": [
+    "ClassWithId",
+    {
+      "ObjectId": 8,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          6
+        ],
+        [
+          "_left_top_r : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_g : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_b : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_a : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_r : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_g : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_b : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_a : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_r : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_g : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_b : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_a : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_r : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_g : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_b : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_a : Primitive",
+          0.0
+        ]
+      ]
+    }
+  ],
+  "17": [
+    "ClassWithId",
+    {
+      "ObjectId": 9,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          7
+        ],
+        [
+          "_left_top_r : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_g : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_b : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_a : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_r : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_g : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_b : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_a : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_r : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_g : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_b : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_a : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_r : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_g : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_b : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_a : Primitive",
+          0.0
+        ]
+      ]
+    }
+  ],
+  "18": [
+    "ClassWithId",
+    {
+      "ObjectId": 10,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          8
+        ],
+        [
+          "_left_top_r : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_g : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_b : Primitive",
+          0.0
+        ],
+        [
+          "_left_top_a : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_r : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_g : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_b : Primitive",
+          0.0
+        ],
+        [
+          "_right_top_a : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_r : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_g : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_b : Primitive",
+          0.0
+        ],
+        [
+          "_left_bottom_a : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_r : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_g : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_b : Primitive",
+          0.0
+        ],
+        [
+          "_right_bottom_a : Primitive",
+          0.0
+        ]
+      ]
+    }
+  ],
+  "19": [
+    "MessageEnd",
+    null
+  ]
+}

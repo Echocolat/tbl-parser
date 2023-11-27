@@ -1,0 +1,632 @@
+{
+  "0": [
+    "SerializedStreamHeader",
+    {
+      "RootId": 1,
+      "HeaderId": 4294967295,
+      "MajorVersion": 1,
+      "MinorVersion": 0
+    }
+  ],
+  "1": [
+    "BinaryLibrary",
+    {
+      "LibraryId": 2,
+      "LibraryName": "ExcelConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  ],
+  "2": [
+    "BinaryArray",
+    {
+      "ObjectId": 1,
+      "BinaryArrayTypeEnum": "Single",
+      "Rank": 1,
+      "Lengths": [
+        6
+      ],
+      "TypeEnum": "Class",
+      "AdditionalTypeInfo": {
+        "TypeName": "PlayerInitializeData",
+        "LibraryId": 2
+      }
+    }
+  ],
+  "3": [
+    "MemberReference",
+    {
+      "IdRef": 3
+    }
+  ],
+  "4": [
+    "MemberReference",
+    {
+      "IdRef": 4
+    }
+  ],
+  "5": [
+    "MemberReference",
+    {
+      "IdRef": 5
+    }
+  ],
+  "6": [
+    "MemberReference",
+    {
+      "IdRef": 6
+    }
+  ],
+  "7": [
+    "MemberReference",
+    {
+      "IdRef": 7
+    }
+  ],
+  "8": [
+    "MemberReference",
+    {
+      "IdRef": 8
+    }
+  ],
+  "9": [
+    "ClassWithMembersAndTypes",
+    {
+      "ClassInfo": {
+        "ObjectId": 3,
+        "Name": "PlayerInitializeData",
+        "MemberCount": 13,
+        "MemberNames": [
+          "_chara_id",
+          "_level",
+          "_hp",
+          "_attack",
+          "_defence",
+          "_magic_attack",
+          "_magic_defence",
+          "_speeed",
+          "_learned_skill_id",
+          "_weapon",
+          "_armor",
+          "_accessory",
+          "_exp"
+        ]
+      },
+      "MemberTypeInfo": {
+        "BinaryTypeEnums": [
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "PrimitiveArray",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive"
+        ],
+        "AdditionalInfos": [
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "PrimitiveArray",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ]
+        ]
+      },
+      "LibraryId": 2,
+      "Values": [
+        [
+          "_chara_id : Primitive",
+          0
+        ],
+        [
+          "_level : Primitive",
+          0
+        ],
+        [
+          "_hp : Primitive",
+          0
+        ],
+        [
+          "_attack : Primitive",
+          0
+        ],
+        [
+          "_defence : Primitive",
+          0
+        ],
+        [
+          "_magic_attack : Primitive",
+          0
+        ],
+        [
+          "_magic_defence : Primitive",
+          0
+        ],
+        [
+          "_speeed : Primitive",
+          0
+        ],
+        [
+          "_learned_skill_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 9
+            }
+          ]
+        ],
+        [
+          "_weapon : Primitive",
+          0
+        ],
+        [
+          "_armor : Primitive",
+          0
+        ],
+        [
+          "_accessory : Primitive",
+          0
+        ],
+        [
+          "_exp : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "10": [
+    "ClassWithId",
+    {
+      "ObjectId": 4,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_chara_id : Primitive",
+          1
+        ],
+        [
+          "_level : Primitive",
+          1
+        ],
+        [
+          "_hp : Primitive",
+          20
+        ],
+        [
+          "_attack : Primitive",
+          20
+        ],
+        [
+          "_defence : Primitive",
+          0
+        ],
+        [
+          "_magic_attack : Primitive",
+          10
+        ],
+        [
+          "_magic_defence : Primitive",
+          2
+        ],
+        [
+          "_speeed : Primitive",
+          20
+        ],
+        [
+          "_learned_skill_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 10
+            }
+          ]
+        ],
+        [
+          "_weapon : Primitive",
+          0
+        ],
+        [
+          "_armor : Primitive",
+          0
+        ],
+        [
+          "_accessory : Primitive",
+          0
+        ],
+        [
+          "_exp : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "11": [
+    "ClassWithId",
+    {
+      "ObjectId": 5,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_chara_id : Primitive",
+          2
+        ],
+        [
+          "_level : Primitive",
+          2
+        ],
+        [
+          "_hp : Primitive",
+          20
+        ],
+        [
+          "_attack : Primitive",
+          22
+        ],
+        [
+          "_defence : Primitive",
+          3
+        ],
+        [
+          "_magic_attack : Primitive",
+          15
+        ],
+        [
+          "_magic_defence : Primitive",
+          10
+        ],
+        [
+          "_speeed : Primitive",
+          18
+        ],
+        [
+          "_learned_skill_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 11
+            }
+          ]
+        ],
+        [
+          "_weapon : Primitive",
+          0
+        ],
+        [
+          "_armor : Primitive",
+          0
+        ],
+        [
+          "_accessory : Primitive",
+          0
+        ],
+        [
+          "_exp : Primitive",
+          30
+        ]
+      ]
+    }
+  ],
+  "12": [
+    "ClassWithId",
+    {
+      "ObjectId": 6,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_chara_id : Primitive",
+          3
+        ],
+        [
+          "_level : Primitive",
+          6
+        ],
+        [
+          "_hp : Primitive",
+          45
+        ],
+        [
+          "_attack : Primitive",
+          60
+        ],
+        [
+          "_defence : Primitive",
+          23
+        ],
+        [
+          "_magic_attack : Primitive",
+          25
+        ],
+        [
+          "_magic_defence : Primitive",
+          17
+        ],
+        [
+          "_speeed : Primitive",
+          30
+        ],
+        [
+          "_learned_skill_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 12
+            }
+          ]
+        ],
+        [
+          "_weapon : Primitive",
+          0
+        ],
+        [
+          "_armor : Primitive",
+          0
+        ],
+        [
+          "_accessory : Primitive",
+          0
+        ],
+        [
+          "_exp : Primitive",
+          234
+        ]
+      ]
+    }
+  ],
+  "13": [
+    "ClassWithId",
+    {
+      "ObjectId": 7,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_chara_id : Primitive",
+          4
+        ],
+        [
+          "_level : Primitive",
+          8
+        ],
+        [
+          "_hp : Primitive",
+          80
+        ],
+        [
+          "_attack : Primitive",
+          85
+        ],
+        [
+          "_defence : Primitive",
+          52
+        ],
+        [
+          "_magic_attack : Primitive",
+          20
+        ],
+        [
+          "_magic_defence : Primitive",
+          30
+        ],
+        [
+          "_speeed : Primitive",
+          15
+        ],
+        [
+          "_learned_skill_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 13
+            }
+          ]
+        ],
+        [
+          "_weapon : Primitive",
+          0
+        ],
+        [
+          "_armor : Primitive",
+          0
+        ],
+        [
+          "_accessory : Primitive",
+          0
+        ],
+        [
+          "_exp : Primitive",
+          470
+        ]
+      ]
+    }
+  ],
+  "14": [
+    "ClassWithId",
+    {
+      "ObjectId": 8,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_chara_id : Primitive",
+          5
+        ],
+        [
+          "_level : Primitive",
+          9
+        ],
+        [
+          "_hp : Primitive",
+          50
+        ],
+        [
+          "_attack : Primitive",
+          40
+        ],
+        [
+          "_defence : Primitive",
+          24
+        ],
+        [
+          "_magic_attack : Primitive",
+          40
+        ],
+        [
+          "_magic_defence : Primitive",
+          28
+        ],
+        [
+          "_speeed : Primitive",
+          24
+        ],
+        [
+          "_learned_skill_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 14
+            }
+          ]
+        ],
+        [
+          "_weapon : Primitive",
+          27
+        ],
+        [
+          "_armor : Primitive",
+          59
+        ],
+        [
+          "_accessory : Primitive",
+          0
+        ],
+        [
+          "_exp : Primitive",
+          600
+        ]
+      ]
+    }
+  ],
+  "15": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 9,
+      "Length": 2,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        0,
+        0
+      ]
+    }
+  ],
+  "16": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 10,
+      "Length": 2,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        103,
+        0
+      ]
+    }
+  ],
+  "17": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 11,
+      "Length": 2,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        109,
+        111
+      ]
+    }
+  ],
+  "18": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 12,
+      "Length": 2,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        115,
+        0
+      ]
+    }
+  ],
+  "19": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 13,
+      "Length": 2,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        120,
+        0
+      ]
+    }
+  ],
+  "20": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 14,
+      "Length": 2,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        124,
+        125
+      ]
+    }
+  ],
+  "21": [
+    "MessageEnd",
+    null
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "0": [
+    "SerializedStreamHeader",
+    {
+      "RootId": 1,
+      "HeaderId": 4294967295,
+      "MajorVersion": 1,
+      "MinorVersion": 0
+    }
+  ],
+  "1": [
+    "BinaryLibrary",
+    {
+      "LibraryId": 2,
+      "LibraryName": "ExcelConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  ],
+  "2": [
+    "BinaryArray",
+    {
+      "ObjectId": 1,
+      "BinaryArrayTypeEnum": "Single",
+      "Rank": 1,
+      "Lengths": [
+        7
+      ],
+      "TypeEnum": "Class",
+      "AdditionalTypeInfo": {
+        "TypeName": "BattleCameraData",
+        "LibraryId": 2
+      }
+    }
+  ],
+  "3": [
+    "MemberReference",
+    {
+      "IdRef": 3
+    }
+  ],
+  "4": [
+    "MemberReference",
+    {
+      "IdRef": 4
+    }
+  ],
+  "5": [
+    "MemberReference",
+    {
+      "IdRef": 5
+    }
+  ],
+  "6": [
+    "MemberReference",
+    {
+      "IdRef": 6
+    }
+  ],
+  "7": [
+    "MemberReference",
+    {
+      "IdRef": 7
+    }
+  ],
+  "8": [
+    "MemberReference",
+    {
+      "IdRef": 8
+    }
+  ],
+  "9": [
+    "MemberReference",
+    {
+      "IdRef": 9
+    }
+  ],
+  "10": [
+    "ClassWithMembersAndTypes",
+    {
+      "ClassInfo": {
+        "ObjectId": 3,
+        "Name": "BattleCameraData",
+        "MemberCount": 8,
+        "MemberNames": [
+          "_id",
+          "_pos_x",
+          "_pos_y",
+          "_pos_z",
+          "_angle_x",
+          "_angle_y",
+          "_angle_z",
+          "_distance"
+        ]
+      },
+      "MemberTypeInfo": {
+        "BinaryTypeEnums": [
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive"
+        ],
+        "AdditionalInfos": [
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ]
+        ]
+      },
+      "LibraryId": 2,
+      "Values": [
+        [
+          "_id : Primitive",
+          1
+        ],
+        [
+          "_pos_x : Primitive",
+          1.0
+        ],
+        [
+          "_pos_y : Primitive",
+          0.6600000262260437
+        ],
+        [
+          "_pos_z : Primitive",
+          -0.4000000059604645
+        ],
+        [
+          "_angle_x : Primitive",
+          27.5
+        ],
+        [
+          "_angle_y : Primitive",
+          135.0
+        ],
+        [
+          "_angle_z : Primitive",
+          0.0
+        ],
+        [
+          "_distance : Primitive",
+          53.599998474121094
+        ]
+      ]
+    }
+  ],
+  "11": [
+    "ClassWithId",
+    {
+      "ObjectId": 4,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          2
+        ],
+        [
+          "_pos_x : Primitive",
+          1.0
+        ],
+        [
+          "_pos_y : Primitive",
+          0.6600000262260437
+        ],
+        [
+          "_pos_z : Primitive",
+          -0.4000000059604645
+        ],
+        [
+          "_angle_x : Primitive",
+          27.5
+        ],
+        [
+          "_angle_y : Primitive",
+          135.0
+        ],
+        [
+          "_angle_z : Primitive",
+          0.0
+        ],
+        [
+          "_distance : Primitive",
+          53.599998474121094
+        ]
+      ]
+    }
+  ],
+  "12": [
+    "ClassWithId",
+    {
+      "ObjectId": 5,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          3
+        ],
+        [
+          "_pos_x : Primitive",
+          0.5
+        ],
+        [
+          "_pos_y : Primitive",
+          0.6600000262260437
+        ],
+        [
+          "_pos_z : Primitive",
+          -5.0
+        ],
+        [
+          "_angle_x : Primitive",
+          27.5
+        ],
+        [
+          "_angle_y : Primitive",
+          135.0
+        ],
+        [
+          "_angle_z : Primitive",
+          0.0
+        ],
+        [
+          "_distance : Primitive",
+          53.599998474121094
+        ]
+      ]
+    }
+  ],
+  "13": [
+    "ClassWithId",
+    {
+      "ObjectId": 6,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          4
+        ],
+        [
+          "_pos_x : Primitive",
+          1.0
+        ],
+        [
+          "_pos_y : Primitive",
+          0.6600000262260437
+        ],
+        [
+          "_pos_z : Primitive",
+          -16.5
+        ],
+        [
+          "_angle_x : Primitive",
+          27.5
+        ],
+        [
+          "_angle_y : Primitive",
+          135.0
+        ],
+        [
+          "_angle_z : Primitive",
+          0.0
+        ],
+        [
+          "_distance : Primitive",
+          53.599998474121094
+        ]
+      ]
+    }
+  ],
+  "14": [
+    "ClassWithId",
+    {
+      "ObjectId": 7,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          5
+        ],
+        [
+          "_pos_x : Primitive",
+          1.0
+        ],
+        [
+          "_pos_y : Primitive",
+          0.6600000262260437
+        ],
+        [
+          "_pos_z : Primitive",
+          -12.600000381469727
+        ],
+        [
+          "_angle_x : Primitive",
+          27.5
+        ],
+        [
+          "_angle_y : Primitive",
+          135.0
+        ],
+        [
+          "_angle_z : Primitive",
+          0.0
+        ],
+        [
+          "_distance : Primitive",
+          53.599998474121094
+        ]
+      ]
+    }
+  ],
+  "15": [
+    "ClassWithId",
+    {
+      "ObjectId": 8,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          6
+        ],
+        [
+          "_pos_x : Primitive",
+          -1.0
+        ],
+        [
+          "_pos_y : Primitive",
+          -1.0
+        ],
+        [
+          "_pos_z : Primitive",
+          -1.0
+        ],
+        [
+          "_angle_x : Primitive",
+          -1.0
+        ],
+        [
+          "_angle_y : Primitive",
+          -1.0
+        ],
+        [
+          "_angle_z : Primitive",
+          -1.0
+        ],
+        [
+          "_distance : Primitive",
+          -1.0
+        ]
+      ]
+    }
+  ],
+  "16": [
+    "ClassWithId",
+    {
+      "ObjectId": 9,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          7
+        ],
+        [
+          "_pos_x : Primitive",
+          1.0
+        ],
+        [
+          "_pos_y : Primitive",
+          0.6600000262260437
+        ],
+        [
+          "_pos_z : Primitive",
+          -0.4000000059604645
+        ],
+        [
+          "_angle_x : Primitive",
+          27.5
+        ],
+        [
+          "_angle_y : Primitive",
+          135.0
+        ],
+        [
+          "_angle_z : Primitive",
+          0.0
+        ],
+        [
+          "_distance : Primitive",
+          64.5
+        ]
+      ]
+    }
+  ],
+  "17": [
+    "MessageEnd",
+    null
+  ]
+}

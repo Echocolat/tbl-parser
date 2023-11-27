@@ -1,0 +1,425 @@
+{
+  "0": [
+    "SerializedStreamHeader",
+    {
+      "RootId": 1,
+      "HeaderId": 4294967295,
+      "MajorVersion": 1,
+      "MinorVersion": 0
+    }
+  ],
+  "1": [
+    "BinaryLibrary",
+    {
+      "LibraryId": 2,
+      "LibraryName": "ExcelConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  ],
+  "2": [
+    "BinaryArray",
+    {
+      "ObjectId": 1,
+      "BinaryArrayTypeEnum": "Single",
+      "Rank": 1,
+      "Lengths": [
+        3
+      ],
+      "TypeEnum": "Class",
+      "AdditionalTypeInfo": {
+        "TypeName": "BattleActionCommandLoopData",
+        "LibraryId": 2
+      }
+    }
+  ],
+  "3": [
+    "MemberReference",
+    {
+      "IdRef": 3
+    }
+  ],
+  "4": [
+    "MemberReference",
+    {
+      "IdRef": 4
+    }
+  ],
+  "5": [
+    "MemberReference",
+    {
+      "IdRef": 5
+    }
+  ],
+  "6": [
+    "ClassWithMembersAndTypes",
+    {
+      "ClassInfo": {
+        "ObjectId": 3,
+        "Name": "BattleActionCommandLoopData",
+        "MemberCount": 5,
+        "MemberNames": [
+          "_action_id",
+          "_max_num",
+          "_hit_count_disp_thresholds",
+          "_succeed_start_frames",
+          "_succeed_frames"
+        ]
+      },
+      "MemberTypeInfo": {
+        "BinaryTypeEnums": [
+          "Primitive",
+          "Primitive",
+          "PrimitiveArray",
+          "PrimitiveArray",
+          "PrimitiveArray"
+        ],
+        "AdditionalInfos": [
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "PrimitiveArray",
+            "Int32"
+          ],
+          [
+            "PrimitiveArray",
+            "Int32"
+          ],
+          [
+            "PrimitiveArray",
+            "Int32"
+          ]
+        ]
+      },
+      "LibraryId": 2,
+      "Values": [
+        [
+          "_action_id : Primitive",
+          105
+        ],
+        [
+          "_max_num : Primitive",
+          100
+        ],
+        [
+          "_hit_count_disp_thresholds : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 6
+            }
+          ]
+        ],
+        [
+          "_succeed_start_frames : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 7
+            }
+          ]
+        ],
+        [
+          "_succeed_frames : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 8
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "7": [
+    "ClassWithId",
+    {
+      "ObjectId": 4,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_action_id : Primitive",
+          107
+        ],
+        [
+          "_max_num : Primitive",
+          100
+        ],
+        [
+          "_hit_count_disp_thresholds : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 9
+            }
+          ]
+        ],
+        [
+          "_succeed_start_frames : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 10
+            }
+          ]
+        ],
+        [
+          "_succeed_frames : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 11
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "8": [
+    "ClassWithId",
+    {
+      "ObjectId": 5,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_action_id : Primitive",
+          114
+        ],
+        [
+          "_max_num : Primitive",
+          17
+        ],
+        [
+          "_hit_count_disp_thresholds : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 12
+            }
+          ]
+        ],
+        [
+          "_succeed_start_frames : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 13
+            }
+          ]
+        ],
+        [
+          "_succeed_frames : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 14
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "9": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 6,
+      "Length": 5,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        0,
+        10,
+        20,
+        50,
+        100
+      ]
+    }
+  ],
+  "10": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 7,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        0,
+        10,
+        19,
+        25,
+        29,
+        33,
+        37,
+        41,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ]
+    }
+  ],
+  "11": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 8,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        0,
+        61,
+        31,
+        27,
+        23,
+        19,
+        15,
+        11,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3
+      ]
+    }
+  ],
+  "12": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 9,
+      "Length": 5,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        0,
+        10,
+        20,
+        50,
+        100
+      ]
+    }
+  ],
+  "13": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 10,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        0,
+        10,
+        19,
+        25,
+        29,
+        33,
+        37,
+        41,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ]
+    }
+  ],
+  "14": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 11,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        0,
+        61,
+        31,
+        27,
+        23,
+        19,
+        15,
+        11,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3
+      ]
+    }
+  ],
+  "15": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 12,
+      "Length": 5,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        0,
+        5,
+        9,
+        13,
+        17
+      ]
+    }
+  ],
+  "16": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 13,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        0,
+        69,
+        12,
+        16,
+        20,
+        24,
+        28,
+        32,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ]
+    }
+  ],
+  "17": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 14,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        0,
+        62,
+        32,
+        28,
+        24,
+        20,
+        16,
+        12,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4
+      ]
+    }
+  ],
+  "18": [
+    "MessageEnd",
+    null
+  ]
+}

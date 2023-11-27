@@ -1,0 +1,851 @@
+{
+  "0": [
+    "SerializedStreamHeader",
+    {
+      "RootId": 1,
+      "HeaderId": 4294967295,
+      "MajorVersion": 1,
+      "MinorVersion": 0
+    }
+  ],
+  "1": [
+    "BinaryLibrary",
+    {
+      "LibraryId": 2,
+      "LibraryName": "ExcelConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  ],
+  "2": [
+    "BinaryArray",
+    {
+      "ObjectId": 1,
+      "BinaryArrayTypeEnum": "Single",
+      "Rank": 1,
+      "Lengths": [
+        29
+      ],
+      "TypeEnum": "Class",
+      "AdditionalTypeInfo": {
+        "TypeName": "BattleEventSettingData",
+        "LibraryId": 2
+      }
+    }
+  ],
+  "3": [
+    "MemberReference",
+    {
+      "IdRef": 3
+    }
+  ],
+  "4": [
+    "MemberReference",
+    {
+      "IdRef": 4
+    }
+  ],
+  "5": [
+    "MemberReference",
+    {
+      "IdRef": 5
+    }
+  ],
+  "6": [
+    "MemberReference",
+    {
+      "IdRef": 6
+    }
+  ],
+  "7": [
+    "MemberReference",
+    {
+      "IdRef": 7
+    }
+  ],
+  "8": [
+    "MemberReference",
+    {
+      "IdRef": 8
+    }
+  ],
+  "9": [
+    "MemberReference",
+    {
+      "IdRef": 9
+    }
+  ],
+  "10": [
+    "MemberReference",
+    {
+      "IdRef": 10
+    }
+  ],
+  "11": [
+    "MemberReference",
+    {
+      "IdRef": 11
+    }
+  ],
+  "12": [
+    "MemberReference",
+    {
+      "IdRef": 12
+    }
+  ],
+  "13": [
+    "MemberReference",
+    {
+      "IdRef": 13
+    }
+  ],
+  "14": [
+    "MemberReference",
+    {
+      "IdRef": 14
+    }
+  ],
+  "15": [
+    "MemberReference",
+    {
+      "IdRef": 15
+    }
+  ],
+  "16": [
+    "MemberReference",
+    {
+      "IdRef": 16
+    }
+  ],
+  "17": [
+    "MemberReference",
+    {
+      "IdRef": 17
+    }
+  ],
+  "18": [
+    "MemberReference",
+    {
+      "IdRef": 18
+    }
+  ],
+  "19": [
+    "MemberReference",
+    {
+      "IdRef": 19
+    }
+  ],
+  "20": [
+    "MemberReference",
+    {
+      "IdRef": 20
+    }
+  ],
+  "21": [
+    "MemberReference",
+    {
+      "IdRef": 21
+    }
+  ],
+  "22": [
+    "MemberReference",
+    {
+      "IdRef": 22
+    }
+  ],
+  "23": [
+    "MemberReference",
+    {
+      "IdRef": 23
+    }
+  ],
+  "24": [
+    "MemberReference",
+    {
+      "IdRef": 24
+    }
+  ],
+  "25": [
+    "MemberReference",
+    {
+      "IdRef": 25
+    }
+  ],
+  "26": [
+    "MemberReference",
+    {
+      "IdRef": 26
+    }
+  ],
+  "27": [
+    "MemberReference",
+    {
+      "IdRef": 27
+    }
+  ],
+  "28": [
+    "MemberReference",
+    {
+      "IdRef": 28
+    }
+  ],
+  "29": [
+    "MemberReference",
+    {
+      "IdRef": 29
+    }
+  ],
+  "30": [
+    "MemberReference",
+    {
+      "IdRef": 30
+    }
+  ],
+  "31": [
+    "MemberReference",
+    {
+      "IdRef": 31
+    }
+  ],
+  "32": [
+    "ClassWithMembersAndTypes",
+    {
+      "ClassInfo": {
+        "ObjectId": 3,
+        "Name": "BattleEventSettingData",
+        "MemberCount": 3,
+        "MemberNames": [
+          "_encounter_id",
+          "_appear_anim",
+          "_battle_start_fade_in"
+        ]
+      },
+      "MemberTypeInfo": {
+        "BinaryTypeEnums": [
+          "Primitive",
+          "Primitive",
+          "Primitive"
+        ],
+        "AdditionalInfos": [
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ]
+        ]
+      },
+      "LibraryId": 2,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2006
+        ],
+        [
+          "_appear_anim : Primitive",
+          2
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "33": [
+    "ClassWithId",
+    {
+      "ObjectId": 4,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2007
+        ],
+        [
+          "_appear_anim : Primitive",
+          2
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "34": [
+    "ClassWithId",
+    {
+      "ObjectId": 5,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2008
+        ],
+        [
+          "_appear_anim : Primitive",
+          2
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "35": [
+    "ClassWithId",
+    {
+      "ObjectId": 6,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2010
+        ],
+        [
+          "_appear_anim : Primitive",
+          2
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "36": [
+    "ClassWithId",
+    {
+      "ObjectId": 7,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2011
+        ],
+        [
+          "_appear_anim : Primitive",
+          2
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "37": [
+    "ClassWithId",
+    {
+      "ObjectId": 8,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2012
+        ],
+        [
+          "_appear_anim : Primitive",
+          0
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "38": [
+    "ClassWithId",
+    {
+      "ObjectId": 9,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2021
+        ],
+        [
+          "_appear_anim : Primitive",
+          2
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "39": [
+    "ClassWithId",
+    {
+      "ObjectId": 10,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2026
+        ],
+        [
+          "_appear_anim : Primitive",
+          2
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "40": [
+    "ClassWithId",
+    {
+      "ObjectId": 11,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2027
+        ],
+        [
+          "_appear_anim : Primitive",
+          2
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "41": [
+    "ClassWithId",
+    {
+      "ObjectId": 12,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2029
+        ],
+        [
+          "_appear_anim : Primitive",
+          2
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "42": [
+    "ClassWithId",
+    {
+      "ObjectId": 13,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2031
+        ],
+        [
+          "_appear_anim : Primitive",
+          0
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "43": [
+    "ClassWithId",
+    {
+      "ObjectId": 14,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2037
+        ],
+        [
+          "_appear_anim : Primitive",
+          2
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "44": [
+    "ClassWithId",
+    {
+      "ObjectId": 15,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2038
+        ],
+        [
+          "_appear_anim : Primitive",
+          2
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "45": [
+    "ClassWithId",
+    {
+      "ObjectId": 16,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2039
+        ],
+        [
+          "_appear_anim : Primitive",
+          0
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "46": [
+    "ClassWithId",
+    {
+      "ObjectId": 17,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2041
+        ],
+        [
+          "_appear_anim : Primitive",
+          2
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "47": [
+    "ClassWithId",
+    {
+      "ObjectId": 18,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2042
+        ],
+        [
+          "_appear_anim : Primitive",
+          0
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "48": [
+    "ClassWithId",
+    {
+      "ObjectId": 19,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2043
+        ],
+        [
+          "_appear_anim : Primitive",
+          0
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "49": [
+    "ClassWithId",
+    {
+      "ObjectId": 20,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2048
+        ],
+        [
+          "_appear_anim : Primitive",
+          2
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "50": [
+    "ClassWithId",
+    {
+      "ObjectId": 21,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2050
+        ],
+        [
+          "_appear_anim : Primitive",
+          0
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "51": [
+    "ClassWithId",
+    {
+      "ObjectId": 22,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2052
+        ],
+        [
+          "_appear_anim : Primitive",
+          2
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "52": [
+    "ClassWithId",
+    {
+      "ObjectId": 23,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2053
+        ],
+        [
+          "_appear_anim : Primitive",
+          2
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "53": [
+    "ClassWithId",
+    {
+      "ObjectId": 24,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2054
+        ],
+        [
+          "_appear_anim : Primitive",
+          2
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "54": [
+    "ClassWithId",
+    {
+      "ObjectId": 25,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2056
+        ],
+        [
+          "_appear_anim : Primitive",
+          2
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "55": [
+    "ClassWithId",
+    {
+      "ObjectId": 26,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2057
+        ],
+        [
+          "_appear_anim : Primitive",
+          2
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "56": [
+    "ClassWithId",
+    {
+      "ObjectId": 27,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2059
+        ],
+        [
+          "_appear_anim : Primitive",
+          2
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "57": [
+    "ClassWithId",
+    {
+      "ObjectId": 28,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2066
+        ],
+        [
+          "_appear_anim : Primitive",
+          2
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "58": [
+    "ClassWithId",
+    {
+      "ObjectId": 29,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2068
+        ],
+        [
+          "_appear_anim : Primitive",
+          2
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "59": [
+    "ClassWithId",
+    {
+      "ObjectId": 30,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2072
+        ],
+        [
+          "_appear_anim : Primitive",
+          0
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "60": [
+    "ClassWithId",
+    {
+      "ObjectId": 31,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_encounter_id : Primitive",
+          2075
+        ],
+        [
+          "_appear_anim : Primitive",
+          2
+        ],
+        [
+          "_battle_start_fade_in : Primitive",
+          1
+        ]
+      ]
+    }
+  ],
+  "61": [
+    "MessageEnd",
+    null
+  ]
+}

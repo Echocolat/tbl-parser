@@ -1,0 +1,647 @@
+{
+  "0": [
+    "SerializedStreamHeader",
+    {
+      "RootId": 1,
+      "HeaderId": 4294967295,
+      "MajorVersion": 1,
+      "MinorVersion": 0
+    }
+  ],
+  "1": [
+    "BinaryLibrary",
+    {
+      "LibraryId": 2,
+      "LibraryName": "ExcelConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  ],
+  "2": [
+    "BinaryArray",
+    {
+      "ObjectId": 1,
+      "BinaryArrayTypeEnum": "Single",
+      "Rank": 1,
+      "Lengths": [
+        9
+      ],
+      "TypeEnum": "Class",
+      "AdditionalTypeInfo": {
+        "TypeName": "WorldMenuDetailData",
+        "LibraryId": 2
+      }
+    }
+  ],
+  "3": [
+    "MemberReference",
+    {
+      "IdRef": 3
+    }
+  ],
+  "4": [
+    "MemberReference",
+    {
+      "IdRef": 4
+    }
+  ],
+  "5": [
+    "MemberReference",
+    {
+      "IdRef": 5
+    }
+  ],
+  "6": [
+    "MemberReference",
+    {
+      "IdRef": 6
+    }
+  ],
+  "7": [
+    "MemberReference",
+    {
+      "IdRef": 7
+    }
+  ],
+  "8": [
+    "MemberReference",
+    {
+      "IdRef": 8
+    }
+  ],
+  "9": [
+    "MemberReference",
+    {
+      "IdRef": 9
+    }
+  ],
+  "10": [
+    "MemberReference",
+    {
+      "IdRef": 10
+    }
+  ],
+  "11": [
+    "MemberReference",
+    {
+      "IdRef": 11
+    }
+  ],
+  "12": [
+    "ClassWithMembersAndTypes",
+    {
+      "ClassInfo": {
+        "ObjectId": 3,
+        "Name": "WorldMenuDetailData",
+        "MemberCount": 11,
+        "MemberNames": [
+          "_detail_id",
+          "_name_id",
+          "_open_flag_id",
+          "_name_id_2",
+          "_name_id_3",
+          "_name_id_4",
+          "_name_id_5",
+          "_name_id_6",
+          "_name_id_7",
+          "_name_id_8",
+          "_name_id_9"
+        ]
+      },
+      "MemberTypeInfo": {
+        "BinaryTypeEnums": [
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive"
+        ],
+        "AdditionalInfos": [
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ]
+        ]
+      },
+      "LibraryId": 2,
+      "Values": [
+        [
+          "_detail_id : Primitive",
+          0
+        ],
+        [
+          "_name_id : Primitive",
+          0
+        ],
+        [
+          "_open_flag_id : Primitive",
+          0
+        ],
+        [
+          "_name_id_2 : Primitive",
+          0
+        ],
+        [
+          "_name_id_3 : Primitive",
+          0
+        ],
+        [
+          "_name_id_4 : Primitive",
+          0
+        ],
+        [
+          "_name_id_5 : Primitive",
+          0
+        ],
+        [
+          "_name_id_6 : Primitive",
+          0
+        ],
+        [
+          "_name_id_7 : Primitive",
+          0
+        ],
+        [
+          "_name_id_8 : Primitive",
+          0
+        ],
+        [
+          "_name_id_9 : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "13": [
+    "ClassWithId",
+    {
+      "ObjectId": 4,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_detail_id : Primitive",
+          1
+        ],
+        [
+          "_name_id : Primitive",
+          1
+        ],
+        [
+          "_open_flag_id : Primitive",
+          225
+        ],
+        [
+          "_name_id_2 : Primitive",
+          701
+        ],
+        [
+          "_name_id_3 : Primitive",
+          502
+        ],
+        [
+          "_name_id_4 : Primitive",
+          601
+        ],
+        [
+          "_name_id_5 : Primitive",
+          0
+        ],
+        [
+          "_name_id_6 : Primitive",
+          0
+        ],
+        [
+          "_name_id_7 : Primitive",
+          0
+        ],
+        [
+          "_name_id_8 : Primitive",
+          0
+        ],
+        [
+          "_name_id_9 : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "14": [
+    "ClassWithId",
+    {
+      "ObjectId": 5,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_detail_id : Primitive",
+          2
+        ],
+        [
+          "_name_id : Primitive",
+          103
+        ],
+        [
+          "_open_flag_id : Primitive",
+          506
+        ],
+        [
+          "_name_id_2 : Primitive",
+          702
+        ],
+        [
+          "_name_id_3 : Primitive",
+          625
+        ],
+        [
+          "_name_id_4 : Primitive",
+          602
+        ],
+        [
+          "_name_id_5 : Primitive",
+          0
+        ],
+        [
+          "_name_id_6 : Primitive",
+          0
+        ],
+        [
+          "_name_id_7 : Primitive",
+          0
+        ],
+        [
+          "_name_id_8 : Primitive",
+          0
+        ],
+        [
+          "_name_id_9 : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "15": [
+    "ClassWithId",
+    {
+      "ObjectId": 6,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_detail_id : Primitive",
+          3
+        ],
+        [
+          "_name_id : Primitive",
+          2
+        ],
+        [
+          "_open_flag_id : Primitive",
+          515
+        ],
+        [
+          "_name_id_2 : Primitive",
+          703
+        ],
+        [
+          "_name_id_3 : Primitive",
+          504
+        ],
+        [
+          "_name_id_4 : Primitive",
+          606
+        ],
+        [
+          "_name_id_5 : Primitive",
+          0
+        ],
+        [
+          "_name_id_6 : Primitive",
+          0
+        ],
+        [
+          "_name_id_7 : Primitive",
+          0
+        ],
+        [
+          "_name_id_8 : Primitive",
+          0
+        ],
+        [
+          "_name_id_9 : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "16": [
+    "ClassWithId",
+    {
+      "ObjectId": 7,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_detail_id : Primitive",
+          4
+        ],
+        [
+          "_name_id : Primitive",
+          3
+        ],
+        [
+          "_open_flag_id : Primitive",
+          534
+        ],
+        [
+          "_name_id_2 : Primitive",
+          704
+        ],
+        [
+          "_name_id_3 : Primitive",
+          505
+        ],
+        [
+          "_name_id_4 : Primitive",
+          608
+        ],
+        [
+          "_name_id_5 : Primitive",
+          628
+        ],
+        [
+          "_name_id_6 : Primitive",
+          627
+        ],
+        [
+          "_name_id_7 : Primitive",
+          0
+        ],
+        [
+          "_name_id_8 : Primitive",
+          0
+        ],
+        [
+          "_name_id_9 : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "17": [
+    "ClassWithId",
+    {
+      "ObjectId": 8,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_detail_id : Primitive",
+          5
+        ],
+        [
+          "_name_id : Primitive",
+          4
+        ],
+        [
+          "_open_flag_id : Primitive",
+          1150
+        ],
+        [
+          "_name_id_2 : Primitive",
+          705
+        ],
+        [
+          "_name_id_3 : Primitive",
+          609
+        ],
+        [
+          "_name_id_4 : Primitive",
+          0
+        ],
+        [
+          "_name_id_5 : Primitive",
+          0
+        ],
+        [
+          "_name_id_6 : Primitive",
+          0
+        ],
+        [
+          "_name_id_7 : Primitive",
+          0
+        ],
+        [
+          "_name_id_8 : Primitive",
+          0
+        ],
+        [
+          "_name_id_9 : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "18": [
+    "ClassWithId",
+    {
+      "ObjectId": 9,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_detail_id : Primitive",
+          6
+        ],
+        [
+          "_name_id : Primitive",
+          5
+        ],
+        [
+          "_open_flag_id : Primitive",
+          1702
+        ],
+        [
+          "_name_id_2 : Primitive",
+          706
+        ],
+        [
+          "_name_id_3 : Primitive",
+          508
+        ],
+        [
+          "_name_id_4 : Primitive",
+          513
+        ],
+        [
+          "_name_id_5 : Primitive",
+          509
+        ],
+        [
+          "_name_id_6 : Primitive",
+          511
+        ],
+        [
+          "_name_id_7 : Primitive",
+          510
+        ],
+        [
+          "_name_id_8 : Primitive",
+          512
+        ],
+        [
+          "_name_id_9 : Primitive",
+          626
+        ]
+      ]
+    }
+  ],
+  "19": [
+    "ClassWithId",
+    {
+      "ObjectId": 10,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_detail_id : Primitive",
+          7
+        ],
+        [
+          "_name_id : Primitive",
+          6
+        ],
+        [
+          "_open_flag_id : Primitive",
+          63
+        ],
+        [
+          "_name_id_2 : Primitive",
+          707
+        ],
+        [
+          "_name_id_3 : Primitive",
+          514
+        ],
+        [
+          "_name_id_4 : Primitive",
+          0
+        ],
+        [
+          "_name_id_5 : Primitive",
+          0
+        ],
+        [
+          "_name_id_6 : Primitive",
+          0
+        ],
+        [
+          "_name_id_7 : Primitive",
+          0
+        ],
+        [
+          "_name_id_8 : Primitive",
+          0
+        ],
+        [
+          "_name_id_9 : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "20": [
+    "ClassWithId",
+    {
+      "ObjectId": 11,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_detail_id : Primitive",
+          8
+        ],
+        [
+          "_name_id : Primitive",
+          7
+        ],
+        [
+          "_open_flag_id : Primitive",
+          28
+        ],
+        [
+          "_name_id_2 : Primitive",
+          708
+        ],
+        [
+          "_name_id_3 : Primitive",
+          502
+        ],
+        [
+          "_name_id_4 : Primitive",
+          619
+        ],
+        [
+          "_name_id_5 : Primitive",
+          0
+        ],
+        [
+          "_name_id_6 : Primitive",
+          0
+        ],
+        [
+          "_name_id_7 : Primitive",
+          0
+        ],
+        [
+          "_name_id_8 : Primitive",
+          0
+        ],
+        [
+          "_name_id_9 : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "21": [
+    "MessageEnd",
+    null
+  ]
+}

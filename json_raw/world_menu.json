@@ -1,0 +1,8216 @@
+{
+  "0": [
+    "SerializedStreamHeader",
+    {
+      "RootId": 1,
+      "HeaderId": 4294967295,
+      "MajorVersion": 1,
+      "MinorVersion": 0
+    }
+  ],
+  "1": [
+    "BinaryLibrary",
+    {
+      "LibraryId": 2,
+      "LibraryName": "ExcelConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  ],
+  "2": [
+    "BinaryArray",
+    {
+      "ObjectId": 1,
+      "BinaryArrayTypeEnum": "Single",
+      "Rank": 1,
+      "Lengths": [
+        50
+      ],
+      "TypeEnum": "Class",
+      "AdditionalTypeInfo": {
+        "TypeName": "WorldMenuData",
+        "LibraryId": 2
+      }
+    }
+  ],
+  "3": [
+    "MemberReference",
+    {
+      "IdRef": 3
+    }
+  ],
+  "4": [
+    "MemberReference",
+    {
+      "IdRef": 4
+    }
+  ],
+  "5": [
+    "MemberReference",
+    {
+      "IdRef": 5
+    }
+  ],
+  "6": [
+    "MemberReference",
+    {
+      "IdRef": 6
+    }
+  ],
+  "7": [
+    "MemberReference",
+    {
+      "IdRef": 7
+    }
+  ],
+  "8": [
+    "MemberReference",
+    {
+      "IdRef": 8
+    }
+  ],
+  "9": [
+    "MemberReference",
+    {
+      "IdRef": 9
+    }
+  ],
+  "10": [
+    "MemberReference",
+    {
+      "IdRef": 10
+    }
+  ],
+  "11": [
+    "MemberReference",
+    {
+      "IdRef": 11
+    }
+  ],
+  "12": [
+    "MemberReference",
+    {
+      "IdRef": 12
+    }
+  ],
+  "13": [
+    "MemberReference",
+    {
+      "IdRef": 13
+    }
+  ],
+  "14": [
+    "MemberReference",
+    {
+      "IdRef": 14
+    }
+  ],
+  "15": [
+    "MemberReference",
+    {
+      "IdRef": 15
+    }
+  ],
+  "16": [
+    "MemberReference",
+    {
+      "IdRef": 16
+    }
+  ],
+  "17": [
+    "MemberReference",
+    {
+      "IdRef": 17
+    }
+  ],
+  "18": [
+    "MemberReference",
+    {
+      "IdRef": 18
+    }
+  ],
+  "19": [
+    "MemberReference",
+    {
+      "IdRef": 19
+    }
+  ],
+  "20": [
+    "MemberReference",
+    {
+      "IdRef": 20
+    }
+  ],
+  "21": [
+    "MemberReference",
+    {
+      "IdRef": 21
+    }
+  ],
+  "22": [
+    "MemberReference",
+    {
+      "IdRef": 22
+    }
+  ],
+  "23": [
+    "MemberReference",
+    {
+      "IdRef": 23
+    }
+  ],
+  "24": [
+    "MemberReference",
+    {
+      "IdRef": 24
+    }
+  ],
+  "25": [
+    "MemberReference",
+    {
+      "IdRef": 25
+    }
+  ],
+  "26": [
+    "MemberReference",
+    {
+      "IdRef": 26
+    }
+  ],
+  "27": [
+    "MemberReference",
+    {
+      "IdRef": 27
+    }
+  ],
+  "28": [
+    "MemberReference",
+    {
+      "IdRef": 28
+    }
+  ],
+  "29": [
+    "MemberReference",
+    {
+      "IdRef": 29
+    }
+  ],
+  "30": [
+    "MemberReference",
+    {
+      "IdRef": 30
+    }
+  ],
+  "31": [
+    "MemberReference",
+    {
+      "IdRef": 31
+    }
+  ],
+  "32": [
+    "MemberReference",
+    {
+      "IdRef": 32
+    }
+  ],
+  "33": [
+    "MemberReference",
+    {
+      "IdRef": 33
+    }
+  ],
+  "34": [
+    "MemberReference",
+    {
+      "IdRef": 34
+    }
+  ],
+  "35": [
+    "MemberReference",
+    {
+      "IdRef": 35
+    }
+  ],
+  "36": [
+    "MemberReference",
+    {
+      "IdRef": 36
+    }
+  ],
+  "37": [
+    "MemberReference",
+    {
+      "IdRef": 37
+    }
+  ],
+  "38": [
+    "MemberReference",
+    {
+      "IdRef": 38
+    }
+  ],
+  "39": [
+    "MemberReference",
+    {
+      "IdRef": 39
+    }
+  ],
+  "40": [
+    "MemberReference",
+    {
+      "IdRef": 40
+    }
+  ],
+  "41": [
+    "MemberReference",
+    {
+      "IdRef": 41
+    }
+  ],
+  "42": [
+    "MemberReference",
+    {
+      "IdRef": 42
+    }
+  ],
+  "43": [
+    "MemberReference",
+    {
+      "IdRef": 43
+    }
+  ],
+  "44": [
+    "MemberReference",
+    {
+      "IdRef": 44
+    }
+  ],
+  "45": [
+    "MemberReference",
+    {
+      "IdRef": 45
+    }
+  ],
+  "46": [
+    "MemberReference",
+    {
+      "IdRef": 46
+    }
+  ],
+  "47": [
+    "MemberReference",
+    {
+      "IdRef": 47
+    }
+  ],
+  "48": [
+    "MemberReference",
+    {
+      "IdRef": 48
+    }
+  ],
+  "49": [
+    "MemberReference",
+    {
+      "IdRef": 49
+    }
+  ],
+  "50": [
+    "MemberReference",
+    {
+      "IdRef": 50
+    }
+  ],
+  "51": [
+    "MemberReference",
+    {
+      "IdRef": 51
+    }
+  ],
+  "52": [
+    "MemberReference",
+    {
+      "IdRef": 52
+    }
+  ],
+  "53": [
+    "ClassWithMembersAndTypes",
+    {
+      "ClassInfo": {
+        "ObjectId": 3,
+        "Name": "WorldMenuData",
+        "MemberCount": 36,
+        "MemberNames": [
+          "_place_id",
+          "_name_id",
+          "_open_flag_id",
+          "_name_id_2",
+          "_next_flag_1",
+          "_next_flag_2",
+          "_next_flag_3",
+          "_go_flag_1",
+          "_transition_floor_flag_1",
+          "_transition_floor_id_1",
+          "_transition_mapjump_id_1",
+          "_transition_pc_dir_1",
+          "_transition_floor_flag_2",
+          "_transition_floor_id_2",
+          "_transition_mapjump_id_2",
+          "_transition_pc_dir_2",
+          "_special_transition_source_area_id_1",
+          "_special_transition_source_area_id_2",
+          "_special_transition_source_area_id_3",
+          "_special_transition_source_area_id_4",
+          "_special_transition_source_area_id_5",
+          "_special_transition_source_area_id_6",
+          "_special_transition_source_area_id_7",
+          "_special_transition_source_area_id_8",
+          "_special_transition_source_area_id_9",
+          "_special_transition_source_area_id_10",
+          "_special_transition_source_area_id_11",
+          "_special_transition_source_area_id_12",
+          "_special_transition_source_area_id_13",
+          "_special_transition_source_area_id_14",
+          "_special_transition_source_area_id_15",
+          "_special_transition_source_area_id_16",
+          "_special_transition_floor_id",
+          "_special_transitionn_mapjump_id",
+          "_special_transition_pc_dir",
+          "_destination_local_place_display_id"
+        ]
+      },
+      "MemberTypeInfo": {
+        "BinaryTypeEnums": [
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive"
+        ],
+        "AdditionalInfos": [
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ]
+        ]
+      },
+      "LibraryId": 2,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          0
+        ],
+        [
+          "_name_id : Primitive",
+          0
+        ],
+        [
+          "_open_flag_id : Primitive",
+          0
+        ],
+        [
+          "_name_id_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "54": [
+    "ClassWithId",
+    {
+      "ObjectId": 4,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          1
+        ],
+        [
+          "_name_id : Primitive",
+          100
+        ],
+        [
+          "_open_flag_id : Primitive",
+          231
+        ],
+        [
+          "_name_id_2 : Primitive",
+          150
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          201
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          204
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          225
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          901
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          401
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          1
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "55": [
+    "ClassWithId",
+    {
+      "ObjectId": 5,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          2
+        ],
+        [
+          "_name_id : Primitive",
+          101
+        ],
+        [
+          "_open_flag_id : Primitive",
+          231
+        ],
+        [
+          "_name_id_2 : Primitive",
+          150
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          225
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          3
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          915
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          411
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "56": [
+    "ClassWithId",
+    {
+      "ObjectId": 6,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          3
+        ],
+        [
+          "_name_id : Primitive",
+          51
+        ],
+        [
+          "_open_flag_id : Primitive",
+          231
+        ],
+        [
+          "_name_id_2 : Primitive",
+          150
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          206
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          225
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          4
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          320
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          403
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          3
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          1
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          52
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          53
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          102
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          103
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          54
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          2
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          55
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          56
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          104
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          3
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          57
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          58
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          59
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          204
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          4
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          322
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          461
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "57": [
+    "ClassWithId",
+    {
+      "ObjectId": 7,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          4
+        ],
+        [
+          "_name_id : Primitive",
+          1
+        ],
+        [
+          "_open_flag_id : Primitive",
+          231
+        ],
+        [
+          "_name_id_2 : Primitive",
+          150
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          213
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          244
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          1166
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          225
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          5
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          1
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          404
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          52
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          53
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          102
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          103
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          54
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          2
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          55
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          56
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          104
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          3
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          57
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          58
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          59
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          204
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          4
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          1
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          460
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          1
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "58": [
+    "ClassWithId",
+    {
+      "ObjectId": 8,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          5
+        ],
+        [
+          "_name_id : Primitive",
+          52
+        ],
+        [
+          "_open_flag_id : Primitive",
+          231
+        ],
+        [
+          "_name_id_2 : Primitive",
+          150
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          231
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          232
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          6
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          335
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          405
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          3
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "59": [
+    "ClassWithId",
+    {
+      "ObjectId": 9,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          6
+        ],
+        [
+          "_name_id : Primitive",
+          53
+        ],
+        [
+          "_open_flag_id : Primitive",
+          271
+        ],
+        [
+          "_name_id_2 : Primitive",
+          152
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          500
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          503
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          7
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          350
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          415
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "60": [
+    "ClassWithId",
+    {
+      "ObjectId": 10,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          7
+        ],
+        [
+          "_name_id : Primitive",
+          102
+        ],
+        [
+          "_open_flag_id : Primitive",
+          506
+        ],
+        [
+          "_name_id_2 : Primitive",
+          152
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          506
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          8
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          925
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          416
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          1
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "61": [
+    "ClassWithId",
+    {
+      "ObjectId": 11,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          8
+        ],
+        [
+          "_name_id : Primitive",
+          103
+        ],
+        [
+          "_open_flag_id : Primitive",
+          506
+        ],
+        [
+          "_name_id_2 : Primitive",
+          152
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          506
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          1181
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          3101
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          8
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          935
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          417
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "62": [
+    "ClassWithId",
+    {
+      "ObjectId": 12,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          9
+        ],
+        [
+          "_name_id : Primitive",
+          54
+        ],
+        [
+          "_open_flag_id : Primitive",
+          515
+        ],
+        [
+          "_name_id_2 : Primitive",
+          152
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          515
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          3102
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          10
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          370
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          418
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          2
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          55
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          56
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          104
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          3
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          57
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          58
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          59
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          204
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          4
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          60
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          5
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          61
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          62
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          374
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          462
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "63": [
+    "ClassWithId",
+    {
+      "ObjectId": 13,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          10
+        ],
+        [
+          "_name_id : Primitive",
+          2
+        ],
+        [
+          "_open_flag_id : Primitive",
+          515
+        ],
+        [
+          "_name_id_2 : Primitive",
+          152
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          53
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          518
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          11
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          30
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          419
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "64": [
+    "ClassWithId",
+    {
+      "ObjectId": 14,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          11
+        ],
+        [
+          "_name_id : Primitive",
+          55
+        ],
+        [
+          "_open_flag_id : Primitive",
+          527
+        ],
+        [
+          "_name_id_2 : Primitive",
+          152
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          527
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          3103
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          12
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          385
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          420
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          1
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "65": [
+    "ClassWithId",
+    {
+      "ObjectId": 15,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          12
+        ],
+        [
+          "_name_id : Primitive",
+          56
+        ],
+        [
+          "_open_flag_id : Primitive",
+          534
+        ],
+        [
+          "_name_id_2 : Primitive",
+          152
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          3104
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          13
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          415
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          421
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          1
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          3
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          57
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          58
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          59
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          204
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          4
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          60
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          5
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          61
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          62
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          63
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          6
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          64
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          65
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          105
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          106
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          415
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          464
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          3
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "66": [
+    "ClassWithId",
+    {
+      "ObjectId": 16,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          13
+        ],
+        [
+          "_name_id : Primitive",
+          104
+        ],
+        [
+          "_open_flag_id : Primitive",
+          55
+        ],
+        [
+          "_name_id_2 : Primitive",
+          153
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          55
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          15
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          946
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          425
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "67": [
+    "ClassWithId",
+    {
+      "ObjectId": 17,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          14
+        ],
+        [
+          "_name_id : Primitive",
+          3
+        ],
+        [
+          "_open_flag_id : Primitive",
+          534
+        ],
+        [
+          "_name_id_2 : Primitive",
+          154
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          534
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          3105
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          14
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          55
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          427
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          1101
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          61
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          427
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          2
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "68": [
+    "ClassWithId",
+    {
+      "ObjectId": 18,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          15
+        ],
+        [
+          "_name_id : Primitive",
+          58
+        ],
+        [
+          "_open_flag_id : Primitive",
+          1102
+        ],
+        [
+          "_name_id_2 : Primitive",
+          154
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          1102
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          3106
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          16
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          465
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          428
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          1134
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          467
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          428
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          2
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          59
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          204
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          4
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          60
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          5
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          61
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          62
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          63
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          6
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          64
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          65
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          105
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          106
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          7
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          8
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          66
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          466
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          465
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "69": [
+    "ClassWithId",
+    {
+      "ObjectId": 19,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          16
+        ],
+        [
+          "_name_id : Primitive",
+          59
+        ],
+        [
+          "_open_flag_id : Primitive",
+          1102
+        ],
+        [
+          "_name_id_2 : Primitive",
+          154
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          57
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          1126
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          17
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          480
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          429
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "70": [
+    "ClassWithId",
+    {
+      "ObjectId": 20,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          17
+        ],
+        [
+          "_name_id : Primitive",
+          330
+        ],
+        [
+          "_open_flag_id : Primitive",
+          1150
+        ],
+        [
+          "_name_id_2 : Primitive",
+          154
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          1150
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          18
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          1105
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          430
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          1
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          1710
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          1141
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          430
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "71": [
+    "ClassWithId",
+    {
+      "ObjectId": 21,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          18
+        ],
+        [
+          "_name_id : Primitive",
+          4
+        ],
+        [
+          "_open_flag_id : Primitive",
+          1150
+        ],
+        [
+          "_name_id_2 : Primitive",
+          154
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          1150
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          1150
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          19
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          75
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          431
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          1
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "72": [
+    "ClassWithId",
+    {
+      "ObjectId": 22,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          19
+        ],
+        [
+          "_name_id : Primitive",
+          60
+        ],
+        [
+          "_open_flag_id : Primitive",
+          1183
+        ],
+        [
+          "_name_id_2 : Primitive",
+          155
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          1183
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          3107
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          20
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          515
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          434
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          1
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "73": [
+    "ClassWithId",
+    {
+      "ObjectId": 23,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          20
+        ],
+        [
+          "_name_id : Primitive",
+          5
+        ],
+        [
+          "_open_flag_id : Primitive",
+          1188
+        ],
+        [
+          "_name_id_2 : Primitive",
+          155
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          1188
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          1441
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          3108
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          21
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          90
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          435
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "74": [
+    "ClassWithId",
+    {
+      "ObjectId": 24,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          21
+        ],
+        [
+          "_name_id : Primitive",
+          61
+        ],
+        [
+          "_open_flag_id : Primitive",
+          1400
+        ],
+        [
+          "_name_id_2 : Primitive",
+          155
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          1400
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          3109
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          22
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          530
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          436
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          7
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "75": [
+    "ClassWithId",
+    {
+      "ObjectId": 25,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          22
+        ],
+        [
+          "_name_id : Primitive",
+          62
+        ],
+        [
+          "_open_flag_id : Primitive",
+          60
+        ],
+        [
+          "_name_id_2 : Primitive",
+          155
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          60
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          60
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          23
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          550
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          104
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          7
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "76": [
+    "ClassWithId",
+    {
+      "ObjectId": 26,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          23
+        ],
+        [
+          "_name_id : Primitive",
+          63
+        ],
+        [
+          "_open_flag_id : Primitive",
+          1706
+        ],
+        [
+          "_name_id_2 : Primitive",
+          156
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          1706
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          1755
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          3110
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          24
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          595
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          440
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          65
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          105
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          106
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          7
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          8
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          66
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          50
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          68
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          608
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          469
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "77": [
+    "ClassWithId",
+    {
+      "ObjectId": 27,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          24
+        ],
+        [
+          "_name_id : Primitive",
+          6
+        ],
+        [
+          "_open_flag_id : Primitive",
+          63
+        ],
+        [
+          "_name_id_2 : Primitive",
+          156
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          63
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          63
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          25
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          122
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          441
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "78": [
+    "ClassWithId",
+    {
+      "ObjectId": 28,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          25
+        ],
+        [
+          "_name_id : Primitive",
+          65
+        ],
+        [
+          "_open_flag_id : Primitive",
+          26
+        ],
+        [
+          "_name_id_2 : Primitive",
+          156
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          26
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          3111
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          26
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          645
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          442
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "79": [
+    "ClassWithId",
+    {
+      "ObjectId": 29,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          26
+        ],
+        [
+          "_name_id : Primitive",
+          105
+        ],
+        [
+          "_open_flag_id : Primitive",
+          27
+        ],
+        [
+          "_name_id_2 : Primitive",
+          156
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          3112
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          27
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          955
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          443
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "80": [
+    "ClassWithId",
+    {
+      "ObjectId": 30,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          27
+        ],
+        [
+          "_name_id : Primitive",
+          7
+        ],
+        [
+          "_open_flag_id : Primitive",
+          28
+        ],
+        [
+          "_name_id_2 : Primitive",
+          157
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          28
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          1897
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          1810
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          28
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          135
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          1
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "81": [
+    "ClassWithId",
+    {
+      "ObjectId": 31,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          28
+        ],
+        [
+          "_name_id : Primitive",
+          66
+        ],
+        [
+          "_open_flag_id : Primitive",
+          29
+        ],
+        [
+          "_name_id_2 : Primitive",
+          157
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          29
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          29
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          29
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          665
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          1
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          7
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "82": [
+    "ClassWithId",
+    {
+      "ObjectId": 32,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          29
+        ],
+        [
+          "_name_id : Primitive",
+          50
+        ],
+        [
+          "_open_flag_id : Primitive",
+          1
+        ],
+        [
+          "_name_id_2 : Primitive",
+          151
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          203
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          1
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          2003
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          2003
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          705
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          410
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "83": [
+    "ClassWithId",
+    {
+      "ObjectId": 33,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          30
+        ],
+        [
+          "_name_id : Primitive",
+          801
+        ],
+        [
+          "_open_flag_id : Primitive",
+          2009
+        ],
+        [
+          "_name_id_2 : Primitive",
+          151
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          2009
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          2009
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          30
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          755
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          1
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          7
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "84": [
+    "ClassWithId",
+    {
+      "ObjectId": 34,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          31
+        ],
+        [
+          "_name_id : Primitive",
+          409
+        ],
+        [
+          "_open_flag_id : Primitive",
+          0
+        ],
+        [
+          "_name_id_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          54
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          385
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          420
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          1
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          11
+        ]
+      ]
+    }
+  ],
+  "85": [
+    "ClassWithId",
+    {
+      "ObjectId": 35,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          32
+        ],
+        [
+          "_name_id : Primitive",
+          410
+        ],
+        [
+          "_open_flag_id : Primitive",
+          0
+        ],
+        [
+          "_name_id_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          54
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          401
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          15
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          7
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          11
+        ]
+      ]
+    }
+  ],
+  "86": [
+    "ClassWithId",
+    {
+      "ObjectId": 36,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          33
+        ],
+        [
+          "_name_id : Primitive",
+          411
+        ],
+        [
+          "_open_flag_id : Primitive",
+          0
+        ],
+        [
+          "_name_id_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          3115
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          415
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          421
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          1
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          12
+        ]
+      ]
+    }
+  ],
+  "87": [
+    "ClassWithId",
+    {
+      "ObjectId": 37,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          34
+        ],
+        [
+          "_name_id : Primitive",
+          412
+        ],
+        [
+          "_open_flag_id : Primitive",
+          0
+        ],
+        [
+          "_name_id_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          3115
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          420
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          6
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          12
+        ]
+      ]
+    }
+  ],
+  "88": [
+    "ClassWithId",
+    {
+      "ObjectId": 38,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          35
+        ],
+        [
+          "_name_id : Primitive",
+          413
+        ],
+        [
+          "_open_flag_id : Primitive",
+          0
+        ],
+        [
+          "_name_id_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          1149
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          480
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          429
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          16
+        ]
+      ]
+    }
+  ],
+  "89": [
+    "ClassWithId",
+    {
+      "ObjectId": 39,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          36
+        ],
+        [
+          "_name_id : Primitive",
+          414
+        ],
+        [
+          "_open_flag_id : Primitive",
+          0
+        ],
+        [
+          "_name_id_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          1171
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          489
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          10
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          1
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          16
+        ]
+      ]
+    }
+  ],
+  "90": [
+    "ClassWithId",
+    {
+      "ObjectId": 40,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          37
+        ],
+        [
+          "_name_id : Primitive",
+          415
+        ],
+        [
+          "_open_flag_id : Primitive",
+          0
+        ],
+        [
+          "_name_id_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          1149
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          501
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          22
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          16
+        ]
+      ]
+    }
+  ],
+  "91": [
+    "ClassWithId",
+    {
+      "ObjectId": 41,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          38
+        ],
+        [
+          "_name_id : Primitive",
+          416
+        ],
+        [
+          "_open_flag_id : Primitive",
+          0
+        ],
+        [
+          "_name_id_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          1440
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          550
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          104
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          7
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          22
+        ]
+      ]
+    }
+  ],
+  "92": [
+    "ClassWithId",
+    {
+      "ObjectId": 42,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          39
+        ],
+        [
+          "_name_id : Primitive",
+          417
+        ],
+        [
+          "_open_flag_id : Primitive",
+          0
+        ],
+        [
+          "_name_id_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          1440
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          580
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          32
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          22
+        ]
+      ]
+    }
+  ],
+  "93": [
+    "ClassWithId",
+    {
+      "ObjectId": 43,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          40
+        ],
+        [
+          "_name_id : Primitive",
+          418
+        ],
+        [
+          "_open_flag_id : Primitive",
+          0
+        ],
+        [
+          "_name_id_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          63
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          595
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          440
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          23
+        ]
+      ]
+    }
+  ],
+  "94": [
+    "ClassWithId",
+    {
+      "ObjectId": 44,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          41
+        ],
+        [
+          "_name_id : Primitive",
+          419
+        ],
+        [
+          "_open_flag_id : Primitive",
+          0
+        ],
+        [
+          "_name_id_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          62
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          608
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          11
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          23
+        ]
+      ]
+    }
+  ],
+  "95": [
+    "ClassWithId",
+    {
+      "ObjectId": 45,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          42
+        ],
+        [
+          "_name_id : Primitive",
+          420
+        ],
+        [
+          "_open_flag_id : Primitive",
+          0
+        ],
+        [
+          "_name_id_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          63
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          625
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          106
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          23
+        ]
+      ]
+    }
+  ],
+  "96": [
+    "ClassWithId",
+    {
+      "ObjectId": 46,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          43
+        ],
+        [
+          "_name_id : Primitive",
+          421
+        ],
+        [
+          "_open_flag_id : Primitive",
+          0
+        ],
+        [
+          "_name_id_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          64
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          645
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          442
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          25
+        ]
+      ]
+    }
+  ],
+  "97": [
+    "ClassWithId",
+    {
+      "ObjectId": 47,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          44
+        ],
+        [
+          "_name_id : Primitive",
+          422
+        ],
+        [
+          "_open_flag_id : Primitive",
+          0
+        ],
+        [
+          "_name_id_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          64
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          653
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          19
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          7
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          25
+        ]
+      ]
+    }
+  ],
+  "98": [
+    "ClassWithId",
+    {
+      "ObjectId": 48,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          45
+        ],
+        [
+          "_name_id : Primitive",
+          423
+        ],
+        [
+          "_open_flag_id : Primitive",
+          0
+        ],
+        [
+          "_name_id_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          68
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          705
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          410
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          29
+        ]
+      ]
+    }
+  ],
+  "99": [
+    "ClassWithId",
+    {
+      "ObjectId": 49,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          46
+        ],
+        [
+          "_name_id : Primitive",
+          424
+        ],
+        [
+          "_open_flag_id : Primitive",
+          0
+        ],
+        [
+          "_name_id_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          68
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          712
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          16
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          29
+        ]
+      ]
+    }
+  ],
+  "100": [
+    "ClassWithId",
+    {
+      "ObjectId": 50,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          47
+        ],
+        [
+          "_name_id : Primitive",
+          425
+        ],
+        [
+          "_open_flag_id : Primitive",
+          0
+        ],
+        [
+          "_name_id_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          3113
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          755
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          1
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          7
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          30
+        ]
+      ]
+    }
+  ],
+  "101": [
+    "ClassWithId",
+    {
+      "ObjectId": 51,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          48
+        ],
+        [
+          "_name_id : Primitive",
+          426
+        ],
+        [
+          "_open_flag_id : Primitive",
+          0
+        ],
+        [
+          "_name_id_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          3113
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          776
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          23
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          1
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          30
+        ]
+      ]
+    }
+  ],
+  "102": [
+    "ClassWithId",
+    {
+      "ObjectId": 52,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_place_id : Primitive",
+          49
+        ],
+        [
+          "_name_id : Primitive",
+          427
+        ],
+        [
+          "_open_flag_id : Primitive",
+          0
+        ],
+        [
+          "_name_id_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_next_flag_3 : Primitive",
+          0
+        ],
+        [
+          "_go_flag_1 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_flag_1 : Primitive",
+          68
+        ],
+        [
+          "_transition_floor_id_1 : Primitive",
+          738
+        ],
+        [
+          "_transition_mapjump_id_1 : Primitive",
+          51
+        ],
+        [
+          "_transition_pc_dir_1 : Primitive",
+          2
+        ],
+        [
+          "_transition_floor_flag_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_floor_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_mapjump_id_2 : Primitive",
+          0
+        ],
+        [
+          "_transition_pc_dir_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_1 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_2 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_3 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_4 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_5 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_6 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_7 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_8 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_9 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_10 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_11 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_12 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_13 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_14 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_15 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_source_area_id_16 : Primitive",
+          0
+        ],
+        [
+          "_special_transition_floor_id : Primitive",
+          0
+        ],
+        [
+          "_special_transitionn_mapjump_id : Primitive",
+          0
+        ],
+        [
+          "_special_transition_pc_dir : Primitive",
+          0
+        ],
+        [
+          "_destination_local_place_display_id : Primitive",
+          29
+        ]
+      ]
+    }
+  ],
+  "103": [
+    "MessageEnd",
+    null
+  ]
+}

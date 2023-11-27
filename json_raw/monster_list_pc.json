@@ -1,0 +1,608 @@
+{
+  "0": [
+    "SerializedStreamHeader",
+    {
+      "RootId": 1,
+      "HeaderId": 4294967295,
+      "MajorVersion": 1,
+      "MinorVersion": 0
+    }
+  ],
+  "1": [
+    "BinaryLibrary",
+    {
+      "LibraryId": 2,
+      "LibraryName": "ExcelConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  ],
+  "2": [
+    "BinaryArray",
+    {
+      "ObjectId": 1,
+      "BinaryArrayTypeEnum": "Single",
+      "Rank": 1,
+      "Lengths": [
+        12
+      ],
+      "TypeEnum": "Class",
+      "AdditionalTypeInfo": {
+        "TypeName": "MonsterListPCData",
+        "LibraryId": 2
+      }
+    }
+  ],
+  "3": [
+    "MemberReference",
+    {
+      "IdRef": 3
+    }
+  ],
+  "4": [
+    "MemberReference",
+    {
+      "IdRef": 4
+    }
+  ],
+  "5": [
+    "MemberReference",
+    {
+      "IdRef": 5
+    }
+  ],
+  "6": [
+    "MemberReference",
+    {
+      "IdRef": 6
+    }
+  ],
+  "7": [
+    "MemberReference",
+    {
+      "IdRef": 7
+    }
+  ],
+  "8": [
+    "MemberReference",
+    {
+      "IdRef": 8
+    }
+  ],
+  "9": [
+    "MemberReference",
+    {
+      "IdRef": 9
+    }
+  ],
+  "10": [
+    "MemberReference",
+    {
+      "IdRef": 10
+    }
+  ],
+  "11": [
+    "MemberReference",
+    {
+      "IdRef": 11
+    }
+  ],
+  "12": [
+    "MemberReference",
+    {
+      "IdRef": 12
+    }
+  ],
+  "13": [
+    "MemberReference",
+    {
+      "IdRef": 13
+    }
+  ],
+  "14": [
+    "MemberReference",
+    {
+      "IdRef": 14
+    }
+  ],
+  "15": [
+    "ClassWithMembersAndTypes",
+    {
+      "ClassInfo": {
+        "ObjectId": 3,
+        "Name": "MonsterListPCData",
+        "MemberCount": 7,
+        "MemberNames": [
+          "_camera_pattern",
+          "_pos_x",
+          "_pos_y",
+          "_pos_z",
+          "_cam_pos_x",
+          "_cam_pos_y",
+          "_cam_pos_z"
+        ]
+      },
+      "MemberTypeInfo": {
+        "BinaryTypeEnums": [
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive"
+        ],
+        "AdditionalInfos": [
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ]
+        ]
+      },
+      "LibraryId": 2,
+      "Values": [
+        [
+          "_camera_pattern : Primitive",
+          1
+        ],
+        [
+          "_pos_x : Primitive",
+          -0.8199999928474426
+        ],
+        [
+          "_pos_y : Primitive",
+          0.0
+        ],
+        [
+          "_pos_z : Primitive",
+          0.5099999904632568
+        ],
+        [
+          "_cam_pos_x : Primitive",
+          -32.619998931884766
+        ],
+        [
+          "_cam_pos_y : Primitive",
+          25.40999984741211
+        ],
+        [
+          "_cam_pos_z : Primitive",
+          33.220001220703125
+        ]
+      ]
+    }
+  ],
+  "16": [
+    "ClassWithId",
+    {
+      "ObjectId": 4,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_camera_pattern : Primitive",
+          2
+        ],
+        [
+          "_pos_x : Primitive",
+          0.0
+        ],
+        [
+          "_pos_y : Primitive",
+          0.0
+        ],
+        [
+          "_pos_z : Primitive",
+          3.200000047683716
+        ],
+        [
+          "_cam_pos_x : Primitive",
+          -31.81999969482422
+        ],
+        [
+          "_cam_pos_y : Primitive",
+          25.649999618530273
+        ],
+        [
+          "_cam_pos_z : Primitive",
+          34.66999816894531
+        ]
+      ]
+    }
+  ],
+  "17": [
+    "ClassWithId",
+    {
+      "ObjectId": 5,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_camera_pattern : Primitive",
+          3
+        ],
+        [
+          "_pos_x : Primitive",
+          0.0
+        ],
+        [
+          "_pos_y : Primitive",
+          0.0
+        ],
+        [
+          "_pos_z : Primitive",
+          2.5
+        ],
+        [
+          "_cam_pos_x : Primitive",
+          -30.0
+        ],
+        [
+          "_cam_pos_y : Primitive",
+          25.40999984741211
+        ],
+        [
+          "_cam_pos_z : Primitive",
+          33.220001220703125
+        ]
+      ]
+    }
+  ],
+  "18": [
+    "ClassWithId",
+    {
+      "ObjectId": 6,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_camera_pattern : Primitive",
+          4
+        ],
+        [
+          "_pos_x : Primitive",
+          0.0
+        ],
+        [
+          "_pos_y : Primitive",
+          0.0
+        ],
+        [
+          "_pos_z : Primitive",
+          -12.529999732971191
+        ],
+        [
+          "_cam_pos_x : Primitive",
+          -30.639999389648438
+        ],
+        [
+          "_cam_pos_y : Primitive",
+          25.409719467163086
+        ],
+        [
+          "_cam_pos_z : Primitive",
+          18.399999618530273
+        ]
+      ]
+    }
+  ],
+  "19": [
+    "ClassWithId",
+    {
+      "ObjectId": 7,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_camera_pattern : Primitive",
+          5
+        ],
+        [
+          "_pos_x : Primitive",
+          -0.6000000238418579
+        ],
+        [
+          "_pos_y : Primitive",
+          0.0
+        ],
+        [
+          "_pos_z : Primitive",
+          2.0
+        ],
+        [
+          "_cam_pos_x : Primitive",
+          -32.20000076293945
+        ],
+        [
+          "_cam_pos_y : Primitive",
+          25.700000762939453
+        ],
+        [
+          "_cam_pos_z : Primitive",
+          33.220001220703125
+        ]
+      ]
+    }
+  ],
+  "20": [
+    "ClassWithId",
+    {
+      "ObjectId": 8,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_camera_pattern : Primitive",
+          6
+        ],
+        [
+          "_pos_x : Primitive",
+          0.0
+        ],
+        [
+          "_pos_y : Primitive",
+          0.0
+        ],
+        [
+          "_pos_z : Primitive",
+          2.0
+        ],
+        [
+          "_cam_pos_x : Primitive",
+          -32.0
+        ],
+        [
+          "_cam_pos_y : Primitive",
+          25.40999984741211
+        ],
+        [
+          "_cam_pos_z : Primitive",
+          33.65999984741211
+        ]
+      ]
+    }
+  ],
+  "21": [
+    "ClassWithId",
+    {
+      "ObjectId": 9,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_camera_pattern : Primitive",
+          7
+        ],
+        [
+          "_pos_x : Primitive",
+          0.0
+        ],
+        [
+          "_pos_y : Primitive",
+          0.0
+        ],
+        [
+          "_pos_z : Primitive",
+          2.0
+        ],
+        [
+          "_cam_pos_x : Primitive",
+          -30.799999237060547
+        ],
+        [
+          "_cam_pos_y : Primitive",
+          25.34000015258789
+        ],
+        [
+          "_cam_pos_z : Primitive",
+          34.380001068115234
+        ]
+      ]
+    }
+  ],
+  "22": [
+    "ClassWithId",
+    {
+      "ObjectId": 10,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_camera_pattern : Primitive",
+          8
+        ],
+        [
+          "_pos_x : Primitive",
+          -0.6000000238418579
+        ],
+        [
+          "_pos_y : Primitive",
+          0.0
+        ],
+        [
+          "_pos_z : Primitive",
+          2.0
+        ],
+        [
+          "_cam_pos_x : Primitive",
+          -32.619998931884766
+        ],
+        [
+          "_cam_pos_y : Primitive",
+          25.40999984741211
+        ],
+        [
+          "_cam_pos_z : Primitive",
+          33.220001220703125
+        ]
+      ]
+    }
+  ],
+  "23": [
+    "ClassWithId",
+    {
+      "ObjectId": 11,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_camera_pattern : Primitive",
+          9
+        ],
+        [
+          "_pos_x : Primitive",
+          -0.6000000238418579
+        ],
+        [
+          "_pos_y : Primitive",
+          -1.0
+        ],
+        [
+          "_pos_z : Primitive",
+          2.0
+        ],
+        [
+          "_cam_pos_x : Primitive",
+          -32.20000076293945
+        ],
+        [
+          "_cam_pos_y : Primitive",
+          25.700000762939453
+        ],
+        [
+          "_cam_pos_z : Primitive",
+          33.220001220703125
+        ]
+      ]
+    }
+  ],
+  "24": [
+    "ClassWithId",
+    {
+      "ObjectId": 12,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_camera_pattern : Primitive",
+          10
+        ],
+        [
+          "_pos_x : Primitive",
+          -0.6000000238418579
+        ],
+        [
+          "_pos_y : Primitive",
+          -1.0
+        ],
+        [
+          "_pos_z : Primitive",
+          2.0
+        ],
+        [
+          "_cam_pos_x : Primitive",
+          -32.20000076293945
+        ],
+        [
+          "_cam_pos_y : Primitive",
+          25.389999389648438
+        ],
+        [
+          "_cam_pos_z : Primitive",
+          33.220001220703125
+        ]
+      ]
+    }
+  ],
+  "25": [
+    "ClassWithId",
+    {
+      "ObjectId": 13,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_camera_pattern : Primitive",
+          11
+        ],
+        [
+          "_pos_x : Primitive",
+          -0.8199999928474426
+        ],
+        [
+          "_pos_y : Primitive",
+          0.0
+        ],
+        [
+          "_pos_z : Primitive",
+          1.0
+        ],
+        [
+          "_cam_pos_x : Primitive",
+          -32.619998931884766
+        ],
+        [
+          "_cam_pos_y : Primitive",
+          26.200000762939453
+        ],
+        [
+          "_cam_pos_z : Primitive",
+          33.220001220703125
+        ]
+      ]
+    }
+  ],
+  "26": [
+    "ClassWithId",
+    {
+      "ObjectId": 14,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_camera_pattern : Primitive",
+          12
+        ],
+        [
+          "_pos_x : Primitive",
+          0.0
+        ],
+        [
+          "_pos_y : Primitive",
+          0.0
+        ],
+        [
+          "_pos_z : Primitive",
+          1.7999999523162842
+        ],
+        [
+          "_cam_pos_x : Primitive",
+          -32.619998931884766
+        ],
+        [
+          "_cam_pos_y : Primitive",
+          25.40999984741211
+        ],
+        [
+          "_cam_pos_z : Primitive",
+          33.65999984741211
+        ]
+      ]
+    }
+  ],
+  "27": [
+    "MessageEnd",
+    null
+  ]
+}

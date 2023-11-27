@@ -1,0 +1,2294 @@
+{
+  "0": [
+    "SerializedStreamHeader",
+    {
+      "RootId": 1,
+      "HeaderId": 4294967295,
+      "MajorVersion": 1,
+      "MinorVersion": 0
+    }
+  ],
+  "1": [
+    "BinaryLibrary",
+    {
+      "LibraryId": 2,
+      "LibraryName": "ExcelConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  ],
+  "2": [
+    "BinaryArray",
+    {
+      "ObjectId": 1,
+      "BinaryArrayTypeEnum": "Single",
+      "Rank": 1,
+      "Lengths": [
+        32
+      ],
+      "TypeEnum": "Class",
+      "AdditionalTypeInfo": {
+        "TypeName": "ShopData",
+        "LibraryId": 2
+      }
+    }
+  ],
+  "3": [
+    "MemberReference",
+    {
+      "IdRef": 3
+    }
+  ],
+  "4": [
+    "MemberReference",
+    {
+      "IdRef": 4
+    }
+  ],
+  "5": [
+    "MemberReference",
+    {
+      "IdRef": 5
+    }
+  ],
+  "6": [
+    "MemberReference",
+    {
+      "IdRef": 6
+    }
+  ],
+  "7": [
+    "MemberReference",
+    {
+      "IdRef": 7
+    }
+  ],
+  "8": [
+    "MemberReference",
+    {
+      "IdRef": 8
+    }
+  ],
+  "9": [
+    "MemberReference",
+    {
+      "IdRef": 9
+    }
+  ],
+  "10": [
+    "MemberReference",
+    {
+      "IdRef": 10
+    }
+  ],
+  "11": [
+    "MemberReference",
+    {
+      "IdRef": 11
+    }
+  ],
+  "12": [
+    "MemberReference",
+    {
+      "IdRef": 12
+    }
+  ],
+  "13": [
+    "MemberReference",
+    {
+      "IdRef": 13
+    }
+  ],
+  "14": [
+    "MemberReference",
+    {
+      "IdRef": 14
+    }
+  ],
+  "15": [
+    "MemberReference",
+    {
+      "IdRef": 15
+    }
+  ],
+  "16": [
+    "MemberReference",
+    {
+      "IdRef": 16
+    }
+  ],
+  "17": [
+    "MemberReference",
+    {
+      "IdRef": 17
+    }
+  ],
+  "18": [
+    "MemberReference",
+    {
+      "IdRef": 18
+    }
+  ],
+  "19": [
+    "MemberReference",
+    {
+      "IdRef": 19
+    }
+  ],
+  "20": [
+    "MemberReference",
+    {
+      "IdRef": 20
+    }
+  ],
+  "21": [
+    "MemberReference",
+    {
+      "IdRef": 21
+    }
+  ],
+  "22": [
+    "MemberReference",
+    {
+      "IdRef": 22
+    }
+  ],
+  "23": [
+    "MemberReference",
+    {
+      "IdRef": 23
+    }
+  ],
+  "24": [
+    "MemberReference",
+    {
+      "IdRef": 24
+    }
+  ],
+  "25": [
+    "MemberReference",
+    {
+      "IdRef": 25
+    }
+  ],
+  "26": [
+    "MemberReference",
+    {
+      "IdRef": 26
+    }
+  ],
+  "27": [
+    "MemberReference",
+    {
+      "IdRef": 27
+    }
+  ],
+  "28": [
+    "MemberReference",
+    {
+      "IdRef": 28
+    }
+  ],
+  "29": [
+    "MemberReference",
+    {
+      "IdRef": 29
+    }
+  ],
+  "30": [
+    "MemberReference",
+    {
+      "IdRef": 30
+    }
+  ],
+  "31": [
+    "MemberReference",
+    {
+      "IdRef": 31
+    }
+  ],
+  "32": [
+    "MemberReference",
+    {
+      "IdRef": 32
+    }
+  ],
+  "33": [
+    "MemberReference",
+    {
+      "IdRef": 33
+    }
+  ],
+  "34": [
+    "MemberReference",
+    {
+      "IdRef": 34
+    }
+  ],
+  "35": [
+    "ClassWithMembersAndTypes",
+    {
+      "ClassInfo": {
+        "ObjectId": 3,
+        "Name": "ShopData",
+        "MemberCount": 6,
+        "MemberNames": [
+          "_shop_id",
+          "_is_kino_shop",
+          "_is_drink_shop",
+          "_area_id",
+          "_item_id",
+          "_shop_name_id"
+        ]
+      },
+      "MemberTypeInfo": {
+        "BinaryTypeEnums": [
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "PrimitiveArray",
+          "Primitive"
+        ],
+        "AdditionalInfos": [
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Boolean"
+          ],
+          [
+            "Primitive",
+            "Boolean"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "PrimitiveArray",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ]
+        ]
+      },
+      "LibraryId": 2,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          0
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 35
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "36": [
+    "ClassWithId",
+    {
+      "ObjectId": 4,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          1
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          1
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 36
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          601
+        ]
+      ]
+    }
+  ],
+  "37": [
+    "ClassWithId",
+    {
+      "ObjectId": 5,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          2
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          true
+        ],
+        [
+          "_area_id : Primitive",
+          103
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 37
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          602
+        ]
+      ]
+    }
+  ],
+  "38": [
+    "ClassWithId",
+    {
+      "ObjectId": 6,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          3
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          true
+        ],
+        [
+          "_area_id : Primitive",
+          103
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 38
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          603
+        ]
+      ]
+    }
+  ],
+  "39": [
+    "ClassWithId",
+    {
+      "ObjectId": 7,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          4
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          true
+        ],
+        [
+          "_area_id : Primitive",
+          103
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 39
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          604
+        ]
+      ]
+    }
+  ],
+  "40": [
+    "ClassWithId",
+    {
+      "ObjectId": 8,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          5
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          true
+        ],
+        [
+          "_area_id : Primitive",
+          103
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 40
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          605
+        ]
+      ]
+    }
+  ],
+  "41": [
+    "ClassWithId",
+    {
+      "ObjectId": 9,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          6
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          2
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 41
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          606
+        ]
+      ]
+    }
+  ],
+  "42": [
+    "ClassWithId",
+    {
+      "ObjectId": 10,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          7
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          2
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 42
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          607
+        ]
+      ]
+    }
+  ],
+  "43": [
+    "ClassWithId",
+    {
+      "ObjectId": 11,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          8
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          3
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 43
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          608
+        ]
+      ]
+    }
+  ],
+  "44": [
+    "ClassWithId",
+    {
+      "ObjectId": 12,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          9
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          4
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 44
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          609
+        ]
+      ]
+    }
+  ],
+  "45": [
+    "ClassWithId",
+    {
+      "ObjectId": 13,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          10
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          5
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 45
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          610
+        ]
+      ]
+    }
+  ],
+  "46": [
+    "ClassWithId",
+    {
+      "ObjectId": 14,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          11
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          61
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 46
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          611
+        ]
+      ]
+    }
+  ],
+  "47": [
+    "ClassWithId",
+    {
+      "ObjectId": 15,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          12
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          62
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 47
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          612
+        ]
+      ]
+    }
+  ],
+  "48": [
+    "ClassWithId",
+    {
+      "ObjectId": 16,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          13
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          5
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 48
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          613
+        ]
+      ]
+    }
+  ],
+  "49": [
+    "ClassWithId",
+    {
+      "ObjectId": 17,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          14
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          5
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 49
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          614
+        ]
+      ]
+    }
+  ],
+  "50": [
+    "ClassWithId",
+    {
+      "ObjectId": 18,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          15
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          5
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 50
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          615
+        ]
+      ]
+    }
+  ],
+  "51": [
+    "ClassWithId",
+    {
+      "ObjectId": 19,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          16
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          5
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 51
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          616
+        ]
+      ]
+    }
+  ],
+  "52": [
+    "ClassWithId",
+    {
+      "ObjectId": 20,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          17
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          6
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 52
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          617
+        ]
+      ]
+    }
+  ],
+  "53": [
+    "ClassWithId",
+    {
+      "ObjectId": 21,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          18
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          6
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 53
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          618
+        ]
+      ]
+    }
+  ],
+  "54": [
+    "ClassWithId",
+    {
+      "ObjectId": 22,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          19
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          7
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 54
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          619
+        ]
+      ]
+    }
+  ],
+  "55": [
+    "ClassWithId",
+    {
+      "ObjectId": 23,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          20
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          66
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 55
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          620
+        ]
+      ]
+    }
+  ],
+  "56": [
+    "ClassWithId",
+    {
+      "ObjectId": 24,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          21
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          66
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 56
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          621
+        ]
+      ]
+    }
+  ],
+  "57": [
+    "ClassWithId",
+    {
+      "ObjectId": 25,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          22
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          67
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 57
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          622
+        ]
+      ]
+    }
+  ],
+  "58": [
+    "ClassWithId",
+    {
+      "ObjectId": 26,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          23
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          67
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 58
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          623
+        ]
+      ]
+    }
+  ],
+  "59": [
+    "ClassWithId",
+    {
+      "ObjectId": 27,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          24
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          true
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          true
+        ],
+        [
+          "_area_id : Primitive",
+          68
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 59
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          624
+        ]
+      ]
+    }
+  ],
+  "60": [
+    "ClassWithId",
+    {
+      "ObjectId": 28,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          25
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          1
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 60
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          601
+        ]
+      ]
+    }
+  ],
+  "61": [
+    "ClassWithId",
+    {
+      "ObjectId": 29,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          26
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 61
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "62": [
+    "ClassWithId",
+    {
+      "ObjectId": 30,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          27
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 62
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "63": [
+    "ClassWithId",
+    {
+      "ObjectId": 31,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          28
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 63
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "64": [
+    "ClassWithId",
+    {
+      "ObjectId": 32,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          29
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 64
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "65": [
+    "ClassWithId",
+    {
+      "ObjectId": 33,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          30
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 65
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "66": [
+    "ClassWithId",
+    {
+      "ObjectId": 34,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          0
+        ],
+        [
+          "_is_kino_shop : Primitive",
+          false
+        ],
+        [
+          "_is_drink_shop : Primitive",
+          false
+        ],
+        [
+          "_area_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 66
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "67": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 35,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "68": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 36,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        87,
+        96,
+        102,
+        103,
+        32,
+        40,
+        66,
+        68,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "69": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 37,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        91,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "70": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 38,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        91,
+        92,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "71": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 39,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        91,
+        92,
+        93,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "72": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 40,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        91,
+        92,
+        93,
+        94,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "73": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 41,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        87,
+        96,
+        102,
+        103,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "74": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 42,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        33,
+        41,
+        66,
+        68,
+        69,
+        70,
+        71,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "75": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 43,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        88,
+        97,
+        9,
+        13,
+        17,
+        34,
+        42,
+        43,
+        49,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "76": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 44,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        88,
+        97,
+        2,
+        15,
+        18,
+        22,
+        35,
+        44,
+        50,
+        55,
+        73,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "77": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 45,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        95,
+        112,
+        114,
+        115,
+        116,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "78": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 46,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        88,
+        97,
+        102,
+        103,
+        104,
+        2,
+        15,
+        18,
+        25,
+        36,
+        45,
+        51,
+        60,
+        0,
+        0
+      ]
+    }
+  ],
+  "79": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 47,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        88,
+        97,
+        102,
+        103,
+        104,
+        2,
+        15,
+        18,
+        25,
+        36,
+        45,
+        51,
+        60,
+        0,
+        0
+      ]
+    }
+  ],
+  "80": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 48,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        87,
+        88,
+        96,
+        97,
+        102,
+        103,
+        104,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "81": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 49,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        6,
+        9,
+        2,
+        7,
+        4,
+        13,
+        15,
+        12,
+        17,
+        18,
+        21,
+        22,
+        25,
+        27,
+        29
+      ]
+    }
+  ],
+  "82": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 50,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        40,
+        41,
+        42,
+        44,
+        45,
+        49,
+        50,
+        51,
+        55,
+        60
+      ]
+    }
+  ],
+  "83": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 51,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "84": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 52,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        88,
+        97,
+        102,
+        103,
+        104,
+        24,
+        56,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "85": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 53,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        130,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "86": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 54,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        88,
+        97,
+        102,
+        103,
+        104,
+        10,
+        16,
+        19,
+        30,
+        37,
+        46,
+        52,
+        61,
+        0,
+        0
+      ]
+    }
+  ],
+  "87": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 55,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        88,
+        97,
+        102,
+        103,
+        104,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "88": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 56,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        38,
+        47,
+        53,
+        57,
+        62,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "89": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 57,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        88,
+        97,
+        102,
+        104,
+        38,
+        47,
+        53,
+        57,
+        62,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "90": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 58,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        88,
+        97,
+        102,
+        104,
+        39,
+        48,
+        54,
+        58,
+        63,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "91": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 59,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        88,
+        89,
+        91,
+        97,
+        102,
+        103,
+        104,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "92": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 60,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        87,
+        96,
+        102,
+        103,
+        32,
+        40,
+        66,
+        68,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "93": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 61,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "94": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 62,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "95": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 63,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "96": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 64,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "97": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 65,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "98": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 66,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "99": [
+    "MessageEnd",
+    null
+  ]
+}

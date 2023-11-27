@@ -1,0 +1,392 @@
+{
+  "0": [
+    "SerializedStreamHeader",
+    {
+      "RootId": 1,
+      "HeaderId": 4294967295,
+      "MajorVersion": 1,
+      "MinorVersion": 0
+    }
+  ],
+  "1": [
+    "BinaryLibrary",
+    {
+      "LibraryId": 2,
+      "LibraryName": "ExcelConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  ],
+  "2": [
+    "BinaryArray",
+    {
+      "ObjectId": 1,
+      "BinaryArrayTypeEnum": "Single",
+      "Rank": 1,
+      "Lengths": [
+        12
+      ],
+      "TypeEnum": "Class",
+      "AdditionalTypeInfo": {
+        "TypeName": "InnData",
+        "LibraryId": 2
+      }
+    }
+  ],
+  "3": [
+    "MemberReference",
+    {
+      "IdRef": 3
+    }
+  ],
+  "4": [
+    "MemberReference",
+    {
+      "IdRef": 4
+    }
+  ],
+  "5": [
+    "MemberReference",
+    {
+      "IdRef": 5
+    }
+  ],
+  "6": [
+    "MemberReference",
+    {
+      "IdRef": 6
+    }
+  ],
+  "7": [
+    "MemberReference",
+    {
+      "IdRef": 7
+    }
+  ],
+  "8": [
+    "MemberReference",
+    {
+      "IdRef": 8
+    }
+  ],
+  "9": [
+    "MemberReference",
+    {
+      "IdRef": 9
+    }
+  ],
+  "10": [
+    "MemberReference",
+    {
+      "IdRef": 10
+    }
+  ],
+  "11": [
+    "MemberReference",
+    {
+      "IdRef": 11
+    }
+  ],
+  "12": [
+    "MemberReference",
+    {
+      "IdRef": 12
+    }
+  ],
+  "13": [
+    "MemberReference",
+    {
+      "IdRef": 13
+    }
+  ],
+  "14": [
+    "MemberReference",
+    {
+      "IdRef": 14
+    }
+  ],
+  "15": [
+    "ClassWithMembersAndTypes",
+    {
+      "ClassInfo": {
+        "ObjectId": 3,
+        "Name": "InnData",
+        "MemberCount": 3,
+        "MemberNames": [
+          "_inn_id",
+          "_area_id",
+          "_price"
+        ]
+      },
+      "MemberTypeInfo": {
+        "BinaryTypeEnums": [
+          "Primitive",
+          "Primitive",
+          "Primitive"
+        ],
+        "AdditionalInfos": [
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ]
+        ]
+      },
+      "LibraryId": 2,
+      "Values": [
+        [
+          "_inn_id : Primitive",
+          0
+        ],
+        [
+          "_area_id : Primitive",
+          0
+        ],
+        [
+          "_price : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "16": [
+    "ClassWithId",
+    {
+      "ObjectId": 4,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_inn_id : Primitive",
+          1
+        ],
+        [
+          "_area_id : Primitive",
+          1
+        ],
+        [
+          "_price : Primitive",
+          3
+        ]
+      ]
+    }
+  ],
+  "17": [
+    "ClassWithId",
+    {
+      "ObjectId": 5,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_inn_id : Primitive",
+          2
+        ],
+        [
+          "_area_id : Primitive",
+          2
+        ],
+        [
+          "_price : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "18": [
+    "ClassWithId",
+    {
+      "ObjectId": 6,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_inn_id : Primitive",
+          3
+        ],
+        [
+          "_area_id : Primitive",
+          3
+        ],
+        [
+          "_price : Primitive",
+          10
+        ]
+      ]
+    }
+  ],
+  "19": [
+    "ClassWithId",
+    {
+      "ObjectId": 7,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_inn_id : Primitive",
+          4
+        ],
+        [
+          "_area_id : Primitive",
+          4
+        ],
+        [
+          "_price : Primitive",
+          10
+        ]
+      ]
+    }
+  ],
+  "20": [
+    "ClassWithId",
+    {
+      "ObjectId": 8,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_inn_id : Primitive",
+          5
+        ],
+        [
+          "_area_id : Primitive",
+          4
+        ],
+        [
+          "_price : Primitive",
+          200
+        ]
+      ]
+    }
+  ],
+  "21": [
+    "ClassWithId",
+    {
+      "ObjectId": 9,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_inn_id : Primitive",
+          6
+        ],
+        [
+          "_area_id : Primitive",
+          5
+        ],
+        [
+          "_price : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "22": [
+    "ClassWithId",
+    {
+      "ObjectId": 10,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_inn_id : Primitive",
+          7
+        ],
+        [
+          "_area_id : Primitive",
+          5
+        ],
+        [
+          "_price : Primitive",
+          15
+        ]
+      ]
+    }
+  ],
+  "23": [
+    "ClassWithId",
+    {
+      "ObjectId": 11,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_inn_id : Primitive",
+          8
+        ],
+        [
+          "_area_id : Primitive",
+          7
+        ],
+        [
+          "_price : Primitive",
+          30
+        ]
+      ]
+    }
+  ],
+  "24": [
+    "ClassWithId",
+    {
+      "ObjectId": 12,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_inn_id : Primitive",
+          9
+        ],
+        [
+          "_area_id : Primitive",
+          66
+        ],
+        [
+          "_price : Primitive",
+          30
+        ]
+      ]
+    }
+  ],
+  "25": [
+    "ClassWithId",
+    {
+      "ObjectId": 13,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_inn_id : Primitive",
+          10
+        ],
+        [
+          "_area_id : Primitive",
+          0
+        ],
+        [
+          "_price : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "26": [
+    "ClassWithId",
+    {
+      "ObjectId": 14,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_inn_id : Primitive",
+          0
+        ],
+        [
+          "_area_id : Primitive",
+          0
+        ],
+        [
+          "_price : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "27": [
+    "MessageEnd",
+    null
+  ]
+}

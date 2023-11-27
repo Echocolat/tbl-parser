@@ -1,0 +1,515 @@
+{
+  "0": [
+    "SerializedStreamHeader",
+    {
+      "RootId": 1,
+      "HeaderId": 4294967295,
+      "MajorVersion": 1,
+      "MinorVersion": 0
+    }
+  ],
+  "1": [
+    "BinaryLibrary",
+    {
+      "LibraryId": 2,
+      "LibraryName": "ExcelConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  ],
+  "2": [
+    "BinaryArray",
+    {
+      "ObjectId": 1,
+      "BinaryArrayTypeEnum": "Single",
+      "Rank": 1,
+      "Lengths": [
+        11
+      ],
+      "TypeEnum": "Class",
+      "AdditionalTypeInfo": {
+        "TypeName": "BattleMotionAfterimageData",
+        "LibraryId": 2
+      }
+    }
+  ],
+  "3": [
+    "MemberReference",
+    {
+      "IdRef": 3
+    }
+  ],
+  "4": [
+    "MemberReference",
+    {
+      "IdRef": 4
+    }
+  ],
+  "5": [
+    "MemberReference",
+    {
+      "IdRef": 5
+    }
+  ],
+  "6": [
+    "MemberReference",
+    {
+      "IdRef": 6
+    }
+  ],
+  "7": [
+    "MemberReference",
+    {
+      "IdRef": 7
+    }
+  ],
+  "8": [
+    "MemberReference",
+    {
+      "IdRef": 8
+    }
+  ],
+  "9": [
+    "MemberReference",
+    {
+      "IdRef": 9
+    }
+  ],
+  "10": [
+    "MemberReference",
+    {
+      "IdRef": 10
+    }
+  ],
+  "11": [
+    "MemberReference",
+    {
+      "IdRef": 11
+    }
+  ],
+  "12": [
+    "MemberReference",
+    {
+      "IdRef": 12
+    }
+  ],
+  "13": [
+    "MemberReference",
+    {
+      "IdRef": 13
+    }
+  ],
+  "14": [
+    "ClassWithMembersAndTypes",
+    {
+      "ClassInfo": {
+        "ObjectId": 3,
+        "Name": "BattleMotionAfterimageData",
+        "MemberCount": 6,
+        "MemberNames": [
+          "_index",
+          "_num",
+          "_is_move",
+          "_delay",
+          "_alpha",
+          "_alpha_attenuation"
+        ]
+      },
+      "MemberTypeInfo": {
+        "BinaryTypeEnums": [
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive"
+        ],
+        "AdditionalInfos": [
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ],
+          [
+            "Primitive",
+            "Single"
+          ]
+        ]
+      },
+      "LibraryId": 2,
+      "Values": [
+        [
+          "_index : Primitive",
+          0
+        ],
+        [
+          "_num : Primitive",
+          0
+        ],
+        [
+          "_is_move : Primitive",
+          0
+        ],
+        [
+          "_delay : Primitive",
+          0
+        ],
+        [
+          "_alpha : Primitive",
+          0.0
+        ],
+        [
+          "_alpha_attenuation : Primitive",
+          0.0
+        ]
+      ]
+    }
+  ],
+  "15": [
+    "ClassWithId",
+    {
+      "ObjectId": 4,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_index : Primitive",
+          1
+        ],
+        [
+          "_num : Primitive",
+          3
+        ],
+        [
+          "_is_move : Primitive",
+          1
+        ],
+        [
+          "_delay : Primitive",
+          3
+        ],
+        [
+          "_alpha : Primitive",
+          0.800000011920929
+        ],
+        [
+          "_alpha_attenuation : Primitive",
+          0.20000000298023224
+        ]
+      ]
+    }
+  ],
+  "16": [
+    "ClassWithId",
+    {
+      "ObjectId": 5,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_index : Primitive",
+          2
+        ],
+        [
+          "_num : Primitive",
+          3
+        ],
+        [
+          "_is_move : Primitive",
+          1
+        ],
+        [
+          "_delay : Primitive",
+          3
+        ],
+        [
+          "_alpha : Primitive",
+          0.800000011920929
+        ],
+        [
+          "_alpha_attenuation : Primitive",
+          0.10000000149011612
+        ]
+      ]
+    }
+  ],
+  "17": [
+    "ClassWithId",
+    {
+      "ObjectId": 6,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_index : Primitive",
+          3
+        ],
+        [
+          "_num : Primitive",
+          1
+        ],
+        [
+          "_is_move : Primitive",
+          2
+        ],
+        [
+          "_delay : Primitive",
+          0
+        ],
+        [
+          "_alpha : Primitive",
+          0.800000011920929
+        ],
+        [
+          "_alpha_attenuation : Primitive",
+          0.0
+        ]
+      ]
+    }
+  ],
+  "18": [
+    "ClassWithId",
+    {
+      "ObjectId": 7,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_index : Primitive",
+          4
+        ],
+        [
+          "_num : Primitive",
+          6
+        ],
+        [
+          "_is_move : Primitive",
+          1
+        ],
+        [
+          "_delay : Primitive",
+          1
+        ],
+        [
+          "_alpha : Primitive",
+          0.800000011920929
+        ],
+        [
+          "_alpha_attenuation : Primitive",
+          0.0
+        ]
+      ]
+    }
+  ],
+  "19": [
+    "ClassWithId",
+    {
+      "ObjectId": 8,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_index : Primitive",
+          5
+        ],
+        [
+          "_num : Primitive",
+          1
+        ],
+        [
+          "_is_move : Primitive",
+          2
+        ],
+        [
+          "_delay : Primitive",
+          0
+        ],
+        [
+          "_alpha : Primitive",
+          1.0
+        ],
+        [
+          "_alpha_attenuation : Primitive",
+          0.0
+        ]
+      ]
+    }
+  ],
+  "20": [
+    "ClassWithId",
+    {
+      "ObjectId": 9,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_index : Primitive",
+          6
+        ],
+        [
+          "_num : Primitive",
+          3
+        ],
+        [
+          "_is_move : Primitive",
+          1
+        ],
+        [
+          "_delay : Primitive",
+          2
+        ],
+        [
+          "_alpha : Primitive",
+          0.800000011920929
+        ],
+        [
+          "_alpha_attenuation : Primitive",
+          0.20000000298023224
+        ]
+      ]
+    }
+  ],
+  "21": [
+    "ClassWithId",
+    {
+      "ObjectId": 10,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_index : Primitive",
+          7
+        ],
+        [
+          "_num : Primitive",
+          1
+        ],
+        [
+          "_is_move : Primitive",
+          2
+        ],
+        [
+          "_delay : Primitive",
+          0
+        ],
+        [
+          "_alpha : Primitive",
+          0.5
+        ],
+        [
+          "_alpha_attenuation : Primitive",
+          0.0
+        ]
+      ]
+    }
+  ],
+  "22": [
+    "ClassWithId",
+    {
+      "ObjectId": 11,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_index : Primitive",
+          8
+        ],
+        [
+          "_num : Primitive",
+          3
+        ],
+        [
+          "_is_move : Primitive",
+          1
+        ],
+        [
+          "_delay : Primitive",
+          2
+        ],
+        [
+          "_alpha : Primitive",
+          0.6000000238418579
+        ],
+        [
+          "_alpha_attenuation : Primitive",
+          0.20000000298023224
+        ]
+      ]
+    }
+  ],
+  "23": [
+    "ClassWithId",
+    {
+      "ObjectId": 12,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_index : Primitive",
+          9
+        ],
+        [
+          "_num : Primitive",
+          3
+        ],
+        [
+          "_is_move : Primitive",
+          1
+        ],
+        [
+          "_delay : Primitive",
+          1
+        ],
+        [
+          "_alpha : Primitive",
+          0.800000011920929
+        ],
+        [
+          "_alpha_attenuation : Primitive",
+          0.20000000298023224
+        ]
+      ]
+    }
+  ],
+  "24": [
+    "ClassWithId",
+    {
+      "ObjectId": 13,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_index : Primitive",
+          10
+        ],
+        [
+          "_num : Primitive",
+          0
+        ],
+        [
+          "_is_move : Primitive",
+          0
+        ],
+        [
+          "_delay : Primitive",
+          0
+        ],
+        [
+          "_alpha : Primitive",
+          0.0
+        ],
+        [
+          "_alpha_attenuation : Primitive",
+          0.0
+        ]
+      ]
+    }
+  ],
+  "25": [
+    "MessageEnd",
+    null
+  ]
+}

@@ -1,0 +1,6045 @@
+{
+  "0": [
+    "SerializedStreamHeader",
+    {
+      "RootId": 1,
+      "HeaderId": 4294967295,
+      "MajorVersion": 1,
+      "MinorVersion": 0
+    }
+  ],
+  "1": [
+    "BinaryLibrary",
+    {
+      "LibraryId": 2,
+      "LibraryName": "ExcelConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  ],
+  "2": [
+    "BinaryArray",
+    {
+      "ObjectId": 1,
+      "BinaryArrayTypeEnum": "Single",
+      "Rank": 1,
+      "Lengths": [
+        71
+      ],
+      "TypeEnum": "Class",
+      "AdditionalTypeInfo": {
+        "TypeName": "SkillDataPlayer",
+        "LibraryId": 2
+      }
+    }
+  ],
+  "3": [
+    "MemberReference",
+    {
+      "IdRef": 3
+    }
+  ],
+  "4": [
+    "MemberReference",
+    {
+      "IdRef": 4
+    }
+  ],
+  "5": [
+    "MemberReference",
+    {
+      "IdRef": 5
+    }
+  ],
+  "6": [
+    "MemberReference",
+    {
+      "IdRef": 6
+    }
+  ],
+  "7": [
+    "MemberReference",
+    {
+      "IdRef": 7
+    }
+  ],
+  "8": [
+    "MemberReference",
+    {
+      "IdRef": 8
+    }
+  ],
+  "9": [
+    "MemberReference",
+    {
+      "IdRef": 9
+    }
+  ],
+  "10": [
+    "MemberReference",
+    {
+      "IdRef": 10
+    }
+  ],
+  "11": [
+    "MemberReference",
+    {
+      "IdRef": 11
+    }
+  ],
+  "12": [
+    "MemberReference",
+    {
+      "IdRef": 12
+    }
+  ],
+  "13": [
+    "MemberReference",
+    {
+      "IdRef": 13
+    }
+  ],
+  "14": [
+    "MemberReference",
+    {
+      "IdRef": 14
+    }
+  ],
+  "15": [
+    "MemberReference",
+    {
+      "IdRef": 15
+    }
+  ],
+  "16": [
+    "MemberReference",
+    {
+      "IdRef": 16
+    }
+  ],
+  "17": [
+    "MemberReference",
+    {
+      "IdRef": 17
+    }
+  ],
+  "18": [
+    "MemberReference",
+    {
+      "IdRef": 18
+    }
+  ],
+  "19": [
+    "MemberReference",
+    {
+      "IdRef": 19
+    }
+  ],
+  "20": [
+    "MemberReference",
+    {
+      "IdRef": 20
+    }
+  ],
+  "21": [
+    "MemberReference",
+    {
+      "IdRef": 21
+    }
+  ],
+  "22": [
+    "MemberReference",
+    {
+      "IdRef": 22
+    }
+  ],
+  "23": [
+    "MemberReference",
+    {
+      "IdRef": 23
+    }
+  ],
+  "24": [
+    "MemberReference",
+    {
+      "IdRef": 24
+    }
+  ],
+  "25": [
+    "MemberReference",
+    {
+      "IdRef": 25
+    }
+  ],
+  "26": [
+    "MemberReference",
+    {
+      "IdRef": 26
+    }
+  ],
+  "27": [
+    "MemberReference",
+    {
+      "IdRef": 27
+    }
+  ],
+  "28": [
+    "MemberReference",
+    {
+      "IdRef": 28
+    }
+  ],
+  "29": [
+    "MemberReference",
+    {
+      "IdRef": 29
+    }
+  ],
+  "30": [
+    "MemberReference",
+    {
+      "IdRef": 30
+    }
+  ],
+  "31": [
+    "MemberReference",
+    {
+      "IdRef": 31
+    }
+  ],
+  "32": [
+    "MemberReference",
+    {
+      "IdRef": 32
+    }
+  ],
+  "33": [
+    "MemberReference",
+    {
+      "IdRef": 33
+    }
+  ],
+  "34": [
+    "MemberReference",
+    {
+      "IdRef": 34
+    }
+  ],
+  "35": [
+    "MemberReference",
+    {
+      "IdRef": 35
+    }
+  ],
+  "36": [
+    "MemberReference",
+    {
+      "IdRef": 36
+    }
+  ],
+  "37": [
+    "MemberReference",
+    {
+      "IdRef": 37
+    }
+  ],
+  "38": [
+    "MemberReference",
+    {
+      "IdRef": 38
+    }
+  ],
+  "39": [
+    "MemberReference",
+    {
+      "IdRef": 39
+    }
+  ],
+  "40": [
+    "MemberReference",
+    {
+      "IdRef": 40
+    }
+  ],
+  "41": [
+    "MemberReference",
+    {
+      "IdRef": 41
+    }
+  ],
+  "42": [
+    "MemberReference",
+    {
+      "IdRef": 42
+    }
+  ],
+  "43": [
+    "MemberReference",
+    {
+      "IdRef": 43
+    }
+  ],
+  "44": [
+    "MemberReference",
+    {
+      "IdRef": 44
+    }
+  ],
+  "45": [
+    "MemberReference",
+    {
+      "IdRef": 45
+    }
+  ],
+  "46": [
+    "MemberReference",
+    {
+      "IdRef": 46
+    }
+  ],
+  "47": [
+    "MemberReference",
+    {
+      "IdRef": 47
+    }
+  ],
+  "48": [
+    "MemberReference",
+    {
+      "IdRef": 48
+    }
+  ],
+  "49": [
+    "MemberReference",
+    {
+      "IdRef": 49
+    }
+  ],
+  "50": [
+    "MemberReference",
+    {
+      "IdRef": 50
+    }
+  ],
+  "51": [
+    "MemberReference",
+    {
+      "IdRef": 51
+    }
+  ],
+  "52": [
+    "MemberReference",
+    {
+      "IdRef": 52
+    }
+  ],
+  "53": [
+    "MemberReference",
+    {
+      "IdRef": 53
+    }
+  ],
+  "54": [
+    "MemberReference",
+    {
+      "IdRef": 54
+    }
+  ],
+  "55": [
+    "MemberReference",
+    {
+      "IdRef": 55
+    }
+  ],
+  "56": [
+    "MemberReference",
+    {
+      "IdRef": 56
+    }
+  ],
+  "57": [
+    "MemberReference",
+    {
+      "IdRef": 57
+    }
+  ],
+  "58": [
+    "MemberReference",
+    {
+      "IdRef": 58
+    }
+  ],
+  "59": [
+    "MemberReference",
+    {
+      "IdRef": 59
+    }
+  ],
+  "60": [
+    "MemberReference",
+    {
+      "IdRef": 60
+    }
+  ],
+  "61": [
+    "MemberReference",
+    {
+      "IdRef": 61
+    }
+  ],
+  "62": [
+    "MemberReference",
+    {
+      "IdRef": 62
+    }
+  ],
+  "63": [
+    "MemberReference",
+    {
+      "IdRef": 63
+    }
+  ],
+  "64": [
+    "MemberReference",
+    {
+      "IdRef": 64
+    }
+  ],
+  "65": [
+    "MemberReference",
+    {
+      "IdRef": 65
+    }
+  ],
+  "66": [
+    "MemberReference",
+    {
+      "IdRef": 66
+    }
+  ],
+  "67": [
+    "MemberReference",
+    {
+      "IdRef": 67
+    }
+  ],
+  "68": [
+    "MemberReference",
+    {
+      "IdRef": 68
+    }
+  ],
+  "69": [
+    "MemberReference",
+    {
+      "IdRef": 69
+    }
+  ],
+  "70": [
+    "MemberReference",
+    {
+      "IdRef": 70
+    }
+  ],
+  "71": [
+    "MemberReference",
+    {
+      "IdRef": 71
+    }
+  ],
+  "72": [
+    "MemberReference",
+    {
+      "IdRef": 72
+    }
+  ],
+  "73": [
+    "MemberReference",
+    {
+      "IdRef": 73
+    }
+  ],
+  "74": [
+    "ClassWithMembersAndTypes",
+    {
+      "ClassInfo": {
+        "ObjectId": 3,
+        "Name": "SkillDataPlayer",
+        "MemberCount": 17,
+        "MemberNames": [
+          "_skill_id",
+          "_can_use_menu",
+          "_can_use_battle",
+          "_kind_id",
+          "_calc_id",
+          "_koudou_kouka_id",
+          "_is_must_live_judge",
+          "_use_point",
+          "_hit_percent",
+          "_is_lose_item",
+          "_element",
+          "_effect_value",
+          "_bst_kind",
+          "_status_change",
+          "_target_ptn_id",
+          "_action_command_type_id",
+          "_item_id"
+        ]
+      },
+      "MemberTypeInfo": {
+        "BinaryTypeEnums": [
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive"
+        ],
+        "AdditionalInfos": [
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Boolean"
+          ],
+          [
+            "Primitive",
+            "Boolean"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Boolean"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Boolean"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ]
+        ]
+      },
+      "LibraryId": 2,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          1
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          1
+        ],
+        [
+          "_calc_id : Primitive",
+          1
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          1
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          95
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          1
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          1
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "75": [
+    "ClassWithId",
+    {
+      "ObjectId": 4,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          2
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          4
+        ],
+        [
+          "_calc_id : Primitive",
+          0
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          2
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          4
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "76": [
+    "ClassWithId",
+    {
+      "ObjectId": 5,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          3
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          5
+        ],
+        [
+          "_calc_id : Primitive",
+          2
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          3
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          5
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "77": [
+    "ClassWithId",
+    {
+      "ObjectId": 6,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          4
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          3
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          1
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          3
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          1
+        ],
+        [
+          "_effect_value : Primitive",
+          25
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          1
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          19
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "78": [
+    "ClassWithId",
+    {
+      "ObjectId": 7,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          5
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          3
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          1
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          5
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          2
+        ],
+        [
+          "_effect_value : Primitive",
+          20
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          1
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          2
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "79": [
+    "ClassWithId",
+    {
+      "ObjectId": 8,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          6
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          3
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          1
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          7
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          1
+        ],
+        [
+          "_effect_value : Primitive",
+          45
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          1
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          3
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "80": [
+    "ClassWithId",
+    {
+      "ObjectId": 9,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          7
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          3
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          1
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          9
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          2
+        ],
+        [
+          "_effect_value : Primitive",
+          40
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          1
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          4
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "81": [
+    "ClassWithId",
+    {
+      "ObjectId": 10,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          8
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          3
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          1
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          11
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          1
+        ],
+        [
+          "_effect_value : Primitive",
+          65
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          1
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          5
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "82": [
+    "ClassWithId",
+    {
+      "ObjectId": 11,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          9
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          3
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          1
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          14
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          2
+        ],
+        [
+          "_effect_value : Primitive",
+          60
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          1
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          6
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "83": [
+    "ClassWithId",
+    {
+      "ObjectId": 12,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          10
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          3
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          1
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          2
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          3
+        ],
+        [
+          "_effect_value : Primitive",
+          15
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          2
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          7
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "84": [
+    "ClassWithId",
+    {
+      "ObjectId": 13,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          11
+        ],
+        [
+          "_can_use_menu : Primitive",
+          true
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          4
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          4
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          2
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          10
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          3
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          8
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "85": [
+    "ClassWithId",
+    {
+      "ObjectId": 14,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          12
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          0
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          6
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          1
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          1
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          9
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "86": [
+    "ClassWithId",
+    {
+      "ObjectId": 15,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          13
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          3
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          1
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          8
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          3
+        ],
+        [
+          "_effect_value : Primitive",
+          60
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          1
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          7
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "87": [
+    "ClassWithId",
+    {
+      "ObjectId": 16,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          14
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          3
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          1
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          12
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          4
+        ],
+        [
+          "_effect_value : Primitive",
+          40
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          2
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          20
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "88": [
+    "ClassWithId",
+    {
+      "ObjectId": 17,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          15
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          3
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          1
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          14
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          55
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          2
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          11
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "89": [
+    "ClassWithId",
+    {
+      "ObjectId": 18,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          16
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          3
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          1
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          3
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          40
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          1
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          12
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "90": [
+    "ClassWithId",
+    {
+      "ObjectId": 19,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          17
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          0
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          9
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          4
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          3
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          3
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          13
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "91": [
+    "ClassWithId",
+    {
+      "ObjectId": 20,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          18
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          3
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          19
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          8
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          45
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          1
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          14
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "92": [
+    "ClassWithId",
+    {
+      "ObjectId": 21,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          19
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          3
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          1
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          12
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          50
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          2
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          12
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "93": [
+    "ClassWithId",
+    {
+      "ObjectId": 22,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          20
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          3
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          1
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          16
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          60
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          2
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          12
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "94": [
+    "ClassWithId",
+    {
+      "ObjectId": 23,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          21
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          3
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          26
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          6
+        ],
+        [
+          "_hit_percent : Primitive",
+          90
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          10
+        ],
+        [
+          "_bst_kind : Primitive",
+          1
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          2
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          10
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "95": [
+    "ClassWithId",
+    {
+      "ObjectId": 24,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          22
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          3
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          27
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          10
+        ],
+        [
+          "_hit_percent : Primitive",
+          90
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          20
+        ],
+        [
+          "_bst_kind : Primitive",
+          2
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          2
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          10
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "96": [
+    "ClassWithId",
+    {
+      "ObjectId": 25,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          23
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          3
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          1
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          12
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          60
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          1
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          7
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "97": [
+    "ClassWithId",
+    {
+      "ObjectId": 26,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          24
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          3
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          1
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          16
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          58
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          2
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          15
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "98": [
+    "ClassWithId",
+    {
+      "ObjectId": 27,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          25
+        ],
+        [
+          "_can_use_menu : Primitive",
+          true
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          4
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          25
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          2
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          40
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          1
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          3
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          8
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "99": [
+    "ClassWithId",
+    {
+      "ObjectId": 28,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          26
+        ],
+        [
+          "_can_use_menu : Primitive",
+          true
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          4
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          25
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          4
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          30
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          1
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          4
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          8
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "100": [
+    "ClassWithId",
+    {
+      "ObjectId": 29,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          27
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          3
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          12
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          4
+        ],
+        [
+          "_hit_percent : Primitive",
+          99
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          3
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          1
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          16
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "101": [
+    "ClassWithId",
+    {
+      "ObjectId": 30,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          28
+        ],
+        [
+          "_can_use_menu : Primitive",
+          true
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          0
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          5
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          true
+        ],
+        [
+          "_use_point : Primitive",
+          2
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          2
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          3
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          17
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "102": [
+    "ClassWithId",
+    {
+      "ObjectId": 31,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          29
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          3
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          12
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          3
+        ],
+        [
+          "_hit_percent : Primitive",
+          99
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          4
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          1
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          16
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "103": [
+    "ClassWithId",
+    {
+      "ObjectId": 32,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          30
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          2
+        ],
+        [
+          "_calc_id : Primitive",
+          3
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          1
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          15
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          60
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          2
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          15
+        ],
+        [
+          "_item_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "104": [
+    "ClassWithId",
+    {
+      "ObjectId": 33,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          31
+        ],
+        [
+          "_can_use_menu : Primitive",
+          true
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          5
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          4
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          30
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          3
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          87
+        ]
+      ]
+    }
+  ],
+  "105": [
+    "ClassWithId",
+    {
+      "ObjectId": 34,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          32
+        ],
+        [
+          "_can_use_menu : Primitive",
+          true
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          5
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          4
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          80
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          3
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          88
+        ]
+      ]
+    }
+  ],
+  "106": [
+    "ClassWithId",
+    {
+      "ObjectId": 35,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          33
+        ],
+        [
+          "_can_use_menu : Primitive",
+          true
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          5
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          4
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          255
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          3
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          89
+        ]
+      ]
+    }
+  ],
+  "107": [
+    "ClassWithId",
+    {
+      "ObjectId": 36,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          34
+        ],
+        [
+          "_can_use_menu : Primitive",
+          true
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          6
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          20
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          10
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          4
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          96
+        ]
+      ]
+    }
+  ],
+  "108": [
+    "ClassWithId",
+    {
+      "ObjectId": 37,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          35
+        ],
+        [
+          "_can_use_menu : Primitive",
+          true
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          6
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          20
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          40
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          4
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          97
+        ]
+      ]
+    }
+  ],
+  "109": [
+    "ClassWithId",
+    {
+      "ObjectId": 38,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          36
+        ],
+        [
+          "_can_use_menu : Primitive",
+          true
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          6
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          20
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          99
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          4
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          98
+        ]
+      ]
+    }
+  ],
+  "110": [
+    "ClassWithId",
+    {
+      "ObjectId": 39,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          37
+        ],
+        [
+          "_can_use_menu : Primitive",
+          true
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          0
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          5
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          true
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          2
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          3
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          102
+        ]
+      ]
+    }
+  ],
+  "111": [
+    "ClassWithId",
+    {
+      "ObjectId": 40,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          38
+        ],
+        [
+          "_can_use_menu : Primitive",
+          true
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          0
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          21
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          1
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          3
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          103
+        ]
+      ]
+    }
+  ],
+  "112": [
+    "ClassWithId",
+    {
+      "ObjectId": 41,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          39
+        ],
+        [
+          "_can_use_menu : Primitive",
+          true
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          0
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          21
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          1
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          4
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          104
+        ]
+      ]
+    }
+  ],
+  "113": [
+    "ClassWithId",
+    {
+      "ObjectId": 42,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          40
+        ],
+        [
+          "_can_use_menu : Primitive",
+          true
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          5
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          4
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          30
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          4
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          91
+        ]
+      ]
+    }
+  ],
+  "114": [
+    "ClassWithId",
+    {
+      "ObjectId": 43,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          41
+        ],
+        [
+          "_can_use_menu : Primitive",
+          true
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          5
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          4
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          80
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          4
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          92
+        ]
+      ]
+    }
+  ],
+  "115": [
+    "ClassWithId",
+    {
+      "ObjectId": 44,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          42
+        ],
+        [
+          "_can_use_menu : Primitive",
+          true
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          5
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          4
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          150
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          4
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          93
+        ]
+      ]
+    }
+  ],
+  "116": [
+    "ClassWithId",
+    {
+      "ObjectId": 45,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          43
+        ],
+        [
+          "_can_use_menu : Primitive",
+          true
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          5
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          22
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          255
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          9
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          4
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          94
+        ]
+      ]
+    }
+  ],
+  "117": [
+    "ClassWithId",
+    {
+      "ObjectId": 46,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          44
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          0
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          8
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          4
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          3
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          105
+        ]
+      ]
+    }
+  ],
+  "118": [
+    "ClassWithId",
+    {
+      "ObjectId": 47,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          45
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          0
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          7
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          3
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          3
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          106
+        ]
+      ]
+    }
+  ],
+  "119": [
+    "ClassWithId",
+    {
+      "ObjectId": 48,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          46
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          0
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          8
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          4
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          4
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          107
+        ]
+      ]
+    }
+  ],
+  "120": [
+    "ClassWithId",
+    {
+      "ObjectId": 49,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          47
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          0
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          7
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          3
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          4
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          108
+        ]
+      ]
+    }
+  ],
+  "121": [
+    "ClassWithId",
+    {
+      "ObjectId": 50,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          48
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          0
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          23
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          10
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          3
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          109
+        ]
+      ]
+    }
+  ],
+  "122": [
+    "ClassWithId",
+    {
+      "ObjectId": 51,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          49
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          0
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          18
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          5
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          3
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          110
+        ]
+      ]
+    }
+  ],
+  "123": [
+    "ClassWithId",
+    {
+      "ObjectId": 52,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          50
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          0
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          24
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          13
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          1
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          124
+        ]
+      ]
+    }
+  ],
+  "124": [
+    "ClassWithId",
+    {
+      "ObjectId": 53,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          51
+        ],
+        [
+          "_can_use_menu : Primitive",
+          true
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          5
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          4
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          100
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          3
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          90
+        ]
+      ]
+    }
+  ],
+  "125": [
+    "ClassWithId",
+    {
+      "ObjectId": 54,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          52
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          5
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          25
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          69
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          1
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          4
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          95
+        ]
+      ]
+    }
+  ],
+  "126": [
+    "ClassWithId",
+    {
+      "ObjectId": 55,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          53
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          0
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          28
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          14
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          1
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          111
+        ]
+      ]
+    }
+  ],
+  "127": [
+    "ClassWithId",
+    {
+      "ObjectId": 56,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          54
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          0
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          12
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          3
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          2
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          113
+        ]
+      ]
+    }
+  ],
+  "128": [
+    "ClassWithId",
+    {
+      "ObjectId": 57,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          55
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          7
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          27
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          50
+        ],
+        [
+          "_bst_kind : Primitive",
+          2
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          1
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          112
+        ]
+      ]
+    }
+  ],
+  "129": [
+    "ClassWithId",
+    {
+      "ObjectId": 58,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          56
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          7
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          26
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          100
+        ],
+        [
+          "_bst_kind : Primitive",
+          1
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          1
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          114
+        ]
+      ]
+    }
+  ],
+  "130": [
+    "ClassWithId",
+    {
+      "ObjectId": 59,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          57
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          7
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          1
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          2
+        ],
+        [
+          "_effect_value : Primitive",
+          120
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          2
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          115
+        ]
+      ]
+    }
+  ],
+  "131": [
+    "ClassWithId",
+    {
+      "ObjectId": 60,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          58
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          7
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          1
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          4
+        ],
+        [
+          "_effect_value : Primitive",
+          140
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          2
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          116
+        ]
+      ]
+    }
+  ],
+  "132": [
+    "ClassWithId",
+    {
+      "ObjectId": 61,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          59
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          7
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          1
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          200
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          2
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          117
+        ]
+      ]
+    }
+  ],
+  "133": [
+    "ClassWithId",
+    {
+      "ObjectId": 62,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          60
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          7
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          1
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          100
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          2
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          118
+        ]
+      ]
+    }
+  ],
+  "134": [
+    "ClassWithId",
+    {
+      "ObjectId": 63,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          61
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          0
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          29
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          5
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          119
+        ]
+      ]
+    }
+  ],
+  "135": [
+    "ClassWithId",
+    {
+      "ObjectId": 64,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          62
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          0
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          30
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          5
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          1
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          120
+        ]
+      ]
+    }
+  ],
+  "136": [
+    "ClassWithId",
+    {
+      "ObjectId": 65,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          63
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          0
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          30
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          5
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          2
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          121
+        ]
+      ]
+    }
+  ],
+  "137": [
+    "ClassWithId",
+    {
+      "ObjectId": 66,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          64
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          1
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          31
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          11
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          0
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          125
+        ]
+      ]
+    }
+  ],
+  "138": [
+    "ClassWithId",
+    {
+      "ObjectId": 67,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          65
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          0
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          32
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          12
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          5
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          126
+        ]
+      ]
+    }
+  ],
+  "139": [
+    "ClassWithId",
+    {
+      "ObjectId": 68,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          66
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          5
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          4
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          10
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          3
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          127
+        ]
+      ]
+    }
+  ],
+  "140": [
+    "ClassWithId",
+    {
+      "ObjectId": 69,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          67
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          5
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          4
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          4
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          3
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          128
+        ]
+      ]
+    }
+  ],
+  "141": [
+    "ClassWithId",
+    {
+      "ObjectId": 70,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          68
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          5
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          4
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          1
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          3
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          129
+        ]
+      ]
+    }
+  ],
+  "142": [
+    "ClassWithId",
+    {
+      "ObjectId": 71,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          69
+        ],
+        [
+          "_can_use_menu : Primitive",
+          true
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          5
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          33
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          30
+        ],
+        [
+          "_bst_kind : Primitive",
+          6
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          3
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          130
+        ]
+      ]
+    }
+  ],
+  "143": [
+    "ClassWithId",
+    {
+      "ObjectId": 72,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          70
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          0
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          2
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          4
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          122
+        ]
+      ]
+    }
+  ],
+  "144": [
+    "ClassWithId",
+    {
+      "ObjectId": 73,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_skill_id : Primitive",
+          71
+        ],
+        [
+          "_can_use_menu : Primitive",
+          false
+        ],
+        [
+          "_can_use_battle : Primitive",
+          true
+        ],
+        [
+          "_kind_id : Primitive",
+          3
+        ],
+        [
+          "_calc_id : Primitive",
+          0
+        ],
+        [
+          "_koudou_kouka_id : Primitive",
+          35
+        ],
+        [
+          "_is_must_live_judge : Primitive",
+          false
+        ],
+        [
+          "_use_point : Primitive",
+          0
+        ],
+        [
+          "_hit_percent : Primitive",
+          100
+        ],
+        [
+          "_is_lose_item : Primitive",
+          false
+        ],
+        [
+          "_element : Primitive",
+          0
+        ],
+        [
+          "_effect_value : Primitive",
+          0
+        ],
+        [
+          "_bst_kind : Primitive",
+          0
+        ],
+        [
+          "_status_change : Primitive",
+          0
+        ],
+        [
+          "_target_ptn_id : Primitive",
+          6
+        ],
+        [
+          "_action_command_type_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : Primitive",
+          123
+        ]
+      ]
+    }
+  ],
+  "145": [
+    "MessageEnd",
+    null
+  ]
+}

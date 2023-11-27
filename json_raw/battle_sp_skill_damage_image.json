@@ -1,0 +1,911 @@
+{
+  "0": [
+    "SerializedStreamHeader",
+    {
+      "RootId": 1,
+      "HeaderId": 4294967295,
+      "MajorVersion": 1,
+      "MinorVersion": 0
+    }
+  ],
+  "1": [
+    "BinaryLibrary",
+    {
+      "LibraryId": 2,
+      "LibraryName": "ExcelConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  ],
+  "2": [
+    "BinaryArray",
+    {
+      "ObjectId": 1,
+      "BinaryArrayTypeEnum": "Single",
+      "Rank": 1,
+      "Lengths": [
+        27
+      ],
+      "TypeEnum": "Class",
+      "AdditionalTypeInfo": {
+        "TypeName": "BattleSPSkillDamageImageData",
+        "LibraryId": 2
+      }
+    }
+  ],
+  "3": [
+    "MemberReference",
+    {
+      "IdRef": 3
+    }
+  ],
+  "4": [
+    "MemberReference",
+    {
+      "IdRef": 4
+    }
+  ],
+  "5": [
+    "MemberReference",
+    {
+      "IdRef": 5
+    }
+  ],
+  "6": [
+    "MemberReference",
+    {
+      "IdRef": 6
+    }
+  ],
+  "7": [
+    "MemberReference",
+    {
+      "IdRef": 7
+    }
+  ],
+  "8": [
+    "MemberReference",
+    {
+      "IdRef": 8
+    }
+  ],
+  "9": [
+    "MemberReference",
+    {
+      "IdRef": 9
+    }
+  ],
+  "10": [
+    "MemberReference",
+    {
+      "IdRef": 10
+    }
+  ],
+  "11": [
+    "MemberReference",
+    {
+      "IdRef": 11
+    }
+  ],
+  "12": [
+    "MemberReference",
+    {
+      "IdRef": 12
+    }
+  ],
+  "13": [
+    "MemberReference",
+    {
+      "IdRef": 13
+    }
+  ],
+  "14": [
+    "MemberReference",
+    {
+      "IdRef": 14
+    }
+  ],
+  "15": [
+    "MemberReference",
+    {
+      "IdRef": 15
+    }
+  ],
+  "16": [
+    "MemberReference",
+    {
+      "IdRef": 16
+    }
+  ],
+  "17": [
+    "MemberReference",
+    {
+      "IdRef": 17
+    }
+  ],
+  "18": [
+    "MemberReference",
+    {
+      "IdRef": 18
+    }
+  ],
+  "19": [
+    "MemberReference",
+    {
+      "IdRef": 19
+    }
+  ],
+  "20": [
+    "MemberReference",
+    {
+      "IdRef": 20
+    }
+  ],
+  "21": [
+    "MemberReference",
+    {
+      "IdRef": 21
+    }
+  ],
+  "22": [
+    "MemberReference",
+    {
+      "IdRef": 22
+    }
+  ],
+  "23": [
+    "MemberReference",
+    {
+      "IdRef": 23
+    }
+  ],
+  "24": [
+    "MemberReference",
+    {
+      "IdRef": 24
+    }
+  ],
+  "25": [
+    "MemberReference",
+    {
+      "IdRef": 25
+    }
+  ],
+  "26": [
+    "MemberReference",
+    {
+      "IdRef": 26
+    }
+  ],
+  "27": [
+    "MemberReference",
+    {
+      "IdRef": 27
+    }
+  ],
+  "28": [
+    "MemberReference",
+    {
+      "IdRef": 28
+    }
+  ],
+  "29": [
+    "MemberReference",
+    {
+      "IdRef": 29
+    }
+  ],
+  "30": [
+    "ClassWithMembersAndTypes",
+    {
+      "ClassInfo": {
+        "ObjectId": 3,
+        "Name": "BattleSPSkillDamageImageData",
+        "MemberCount": 4,
+        "MemberNames": [
+          "_id",
+          "_type",
+          "_succeed_min",
+          "_sweetspot_min"
+        ]
+      },
+      "MemberTypeInfo": {
+        "BinaryTypeEnums": [
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive"
+        ],
+        "AdditionalInfos": [
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ]
+        ]
+      },
+      "LibraryId": 2,
+      "Values": [
+        [
+          "_id : Primitive",
+          103
+        ],
+        [
+          "_type : Primitive",
+          1
+        ],
+        [
+          "_succeed_min : Primitive",
+          0
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "31": [
+    "ClassWithId",
+    {
+      "ObjectId": 4,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          104
+        ],
+        [
+          "_type : Primitive",
+          2
+        ],
+        [
+          "_succeed_min : Primitive",
+          1
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          7
+        ]
+      ]
+    }
+  ],
+  "32": [
+    "ClassWithId",
+    {
+      "ObjectId": 5,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          105
+        ],
+        [
+          "_type : Primitive",
+          2
+        ],
+        [
+          "_succeed_min : Primitive",
+          1
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          5
+        ]
+      ]
+    }
+  ],
+  "33": [
+    "ClassWithId",
+    {
+      "ObjectId": 6,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          106
+        ],
+        [
+          "_type : Primitive",
+          2
+        ],
+        [
+          "_succeed_min : Primitive",
+          1
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          7
+        ]
+      ]
+    }
+  ],
+  "34": [
+    "ClassWithId",
+    {
+      "ObjectId": 7,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          107
+        ],
+        [
+          "_type : Primitive",
+          2
+        ],
+        [
+          "_succeed_min : Primitive",
+          1
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          5
+        ]
+      ]
+    }
+  ],
+  "35": [
+    "ClassWithId",
+    {
+      "ObjectId": 8,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          108
+        ],
+        [
+          "_type : Primitive",
+          2
+        ],
+        [
+          "_succeed_min : Primitive",
+          1
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          7
+        ]
+      ]
+    }
+  ],
+  "36": [
+    "ClassWithId",
+    {
+      "ObjectId": 9,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          109
+        ],
+        [
+          "_type : Primitive",
+          3
+        ],
+        [
+          "_succeed_min : Primitive",
+          0
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "37": [
+    "ClassWithId",
+    {
+      "ObjectId": 10,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          110
+        ],
+        [
+          "_type : Primitive",
+          1
+        ],
+        [
+          "_succeed_min : Primitive",
+          0
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "38": [
+    "ClassWithId",
+    {
+      "ObjectId": 11,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          111
+        ],
+        [
+          "_type : Primitive",
+          1
+        ],
+        [
+          "_succeed_min : Primitive",
+          0
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "39": [
+    "ClassWithId",
+    {
+      "ObjectId": 12,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          112
+        ],
+        [
+          "_type : Primitive",
+          1
+        ],
+        [
+          "_succeed_min : Primitive",
+          0
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "40": [
+    "ClassWithId",
+    {
+      "ObjectId": 13,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          113
+        ],
+        [
+          "_type : Primitive",
+          2
+        ],
+        [
+          "_succeed_min : Primitive",
+          1
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          4
+        ]
+      ]
+    }
+  ],
+  "41": [
+    "ClassWithId",
+    {
+      "ObjectId": 14,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          114
+        ],
+        [
+          "_type : Primitive",
+          2
+        ],
+        [
+          "_succeed_min : Primitive",
+          1
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          5
+        ]
+      ]
+    }
+  ],
+  "42": [
+    "ClassWithId",
+    {
+      "ObjectId": 15,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          115
+        ],
+        [
+          "_type : Primitive",
+          2
+        ],
+        [
+          "_succeed_min : Primitive",
+          1
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          3
+        ]
+      ]
+    }
+  ],
+  "43": [
+    "ClassWithId",
+    {
+      "ObjectId": 16,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          116
+        ],
+        [
+          "_type : Primitive",
+          1
+        ],
+        [
+          "_succeed_min : Primitive",
+          0
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "44": [
+    "ClassWithId",
+    {
+      "ObjectId": 17,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          117
+        ],
+        [
+          "_type : Primitive",
+          3
+        ],
+        [
+          "_succeed_min : Primitive",
+          0
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "45": [
+    "ClassWithId",
+    {
+      "ObjectId": 18,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          118
+        ],
+        [
+          "_type : Primitive",
+          2
+        ],
+        [
+          "_succeed_min : Primitive",
+          1
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          3
+        ]
+      ]
+    }
+  ],
+  "46": [
+    "ClassWithId",
+    {
+      "ObjectId": 19,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          119
+        ],
+        [
+          "_type : Primitive",
+          2
+        ],
+        [
+          "_succeed_min : Primitive",
+          1
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          3
+        ]
+      ]
+    }
+  ],
+  "47": [
+    "ClassWithId",
+    {
+      "ObjectId": 20,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          120
+        ],
+        [
+          "_type : Primitive",
+          2
+        ],
+        [
+          "_succeed_min : Primitive",
+          1
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          4
+        ]
+      ]
+    }
+  ],
+  "48": [
+    "ClassWithId",
+    {
+      "ObjectId": 21,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          121
+        ],
+        [
+          "_type : Primitive",
+          2
+        ],
+        [
+          "_succeed_min : Primitive",
+          1
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          4
+        ]
+      ]
+    }
+  ],
+  "49": [
+    "ClassWithId",
+    {
+      "ObjectId": 22,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          122
+        ],
+        [
+          "_type : Primitive",
+          1
+        ],
+        [
+          "_succeed_min : Primitive",
+          0
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "50": [
+    "ClassWithId",
+    {
+      "ObjectId": 23,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          123
+        ],
+        [
+          "_type : Primitive",
+          2
+        ],
+        [
+          "_succeed_min : Primitive",
+          1
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          7
+        ]
+      ]
+    }
+  ],
+  "51": [
+    "ClassWithId",
+    {
+      "ObjectId": 24,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          124
+        ],
+        [
+          "_type : Primitive",
+          1
+        ],
+        [
+          "_succeed_min : Primitive",
+          0
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "52": [
+    "ClassWithId",
+    {
+      "ObjectId": 25,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          125
+        ],
+        [
+          "_type : Primitive",
+          1
+        ],
+        [
+          "_succeed_min : Primitive",
+          0
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "53": [
+    "ClassWithId",
+    {
+      "ObjectId": 26,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          126
+        ],
+        [
+          "_type : Primitive",
+          1
+        ],
+        [
+          "_succeed_min : Primitive",
+          0
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "54": [
+    "ClassWithId",
+    {
+      "ObjectId": 27,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          127
+        ],
+        [
+          "_type : Primitive",
+          1
+        ],
+        [
+          "_succeed_min : Primitive",
+          0
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "55": [
+    "ClassWithId",
+    {
+      "ObjectId": 28,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          128
+        ],
+        [
+          "_type : Primitive",
+          1
+        ],
+        [
+          "_succeed_min : Primitive",
+          0
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "56": [
+    "ClassWithId",
+    {
+      "ObjectId": 29,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_id : Primitive",
+          129
+        ],
+        [
+          "_type : Primitive",
+          2
+        ],
+        [
+          "_succeed_min : Primitive",
+          1
+        ],
+        [
+          "_sweetspot_min : Primitive",
+          7
+        ]
+      ]
+    }
+  ],
+  "57": [
+    "MessageEnd",
+    null
+  ]
+}

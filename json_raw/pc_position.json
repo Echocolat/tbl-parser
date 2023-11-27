@@ -1,0 +1,1349 @@
+{
+  "0": [
+    "SerializedStreamHeader",
+    {
+      "RootId": 1,
+      "HeaderId": 4294967295,
+      "MajorVersion": 1,
+      "MinorVersion": 0
+    }
+  ],
+  "1": [
+    "BinaryLibrary",
+    {
+      "LibraryId": 2,
+      "LibraryName": "ExcelConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  ],
+  "2": [
+    "BinaryArray",
+    {
+      "ObjectId": 1,
+      "BinaryArrayTypeEnum": "Single",
+      "Rank": 1,
+      "Lengths": [
+        15
+      ],
+      "TypeEnum": "Class",
+      "AdditionalTypeInfo": {
+        "TypeName": "PCPositionData",
+        "LibraryId": 2
+      }
+    }
+  ],
+  "3": [
+    "MemberReference",
+    {
+      "IdRef": 3
+    }
+  ],
+  "4": [
+    "MemberReference",
+    {
+      "IdRef": 4
+    }
+  ],
+  "5": [
+    "MemberReference",
+    {
+      "IdRef": 5
+    }
+  ],
+  "6": [
+    "MemberReference",
+    {
+      "IdRef": 6
+    }
+  ],
+  "7": [
+    "MemberReference",
+    {
+      "IdRef": 7
+    }
+  ],
+  "8": [
+    "MemberReference",
+    {
+      "IdRef": 8
+    }
+  ],
+  "9": [
+    "MemberReference",
+    {
+      "IdRef": 9
+    }
+  ],
+  "10": [
+    "MemberReference",
+    {
+      "IdRef": 10
+    }
+  ],
+  "11": [
+    "MemberReference",
+    {
+      "IdRef": 11
+    }
+  ],
+  "12": [
+    "MemberReference",
+    {
+      "IdRef": 12
+    }
+  ],
+  "13": [
+    "MemberReference",
+    {
+      "IdRef": 13
+    }
+  ],
+  "14": [
+    "MemberReference",
+    {
+      "IdRef": 14
+    }
+  ],
+  "15": [
+    "MemberReference",
+    {
+      "IdRef": 15
+    }
+  ],
+  "16": [
+    "MemberReference",
+    {
+      "IdRef": 16
+    }
+  ],
+  "17": [
+    "MemberReference",
+    {
+      "IdRef": 17
+    }
+  ],
+  "18": [
+    "ClassWithMembersAndTypes",
+    {
+      "ClassInfo": {
+        "ObjectId": 3,
+        "Name": "PCPositionData",
+        "MemberCount": 4,
+        "MemberNames": [
+          "_pos_id",
+          "_pos_x",
+          "_pos_y",
+          "_pos_z"
+        ]
+      },
+      "MemberTypeInfo": {
+        "BinaryTypeEnums": [
+          "Primitive",
+          "PrimitiveArray",
+          "PrimitiveArray",
+          "PrimitiveArray"
+        ],
+        "AdditionalInfos": [
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "PrimitiveArray",
+            "Single"
+          ],
+          [
+            "PrimitiveArray",
+            "Single"
+          ],
+          [
+            "PrimitiveArray",
+            "Single"
+          ]
+        ]
+      },
+      "LibraryId": 2,
+      "Values": [
+        [
+          "_pos_id : Primitive",
+          0
+        ],
+        [
+          "_pos_x : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 18
+            }
+          ]
+        ],
+        [
+          "_pos_y : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 19
+            }
+          ]
+        ],
+        [
+          "_pos_z : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 20
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "19": [
+    "ClassWithId",
+    {
+      "ObjectId": 4,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_pos_id : Primitive",
+          1
+        ],
+        [
+          "_pos_x : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 21
+            }
+          ]
+        ],
+        [
+          "_pos_y : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 22
+            }
+          ]
+        ],
+        [
+          "_pos_z : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 23
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "20": [
+    "ClassWithId",
+    {
+      "ObjectId": 5,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_pos_id : Primitive",
+          2
+        ],
+        [
+          "_pos_x : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 24
+            }
+          ]
+        ],
+        [
+          "_pos_y : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 25
+            }
+          ]
+        ],
+        [
+          "_pos_z : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 26
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "21": [
+    "ClassWithId",
+    {
+      "ObjectId": 6,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_pos_id : Primitive",
+          3
+        ],
+        [
+          "_pos_x : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 27
+            }
+          ]
+        ],
+        [
+          "_pos_y : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 28
+            }
+          ]
+        ],
+        [
+          "_pos_z : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 29
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "22": [
+    "ClassWithId",
+    {
+      "ObjectId": 7,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_pos_id : Primitive",
+          4
+        ],
+        [
+          "_pos_x : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 30
+            }
+          ]
+        ],
+        [
+          "_pos_y : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 31
+            }
+          ]
+        ],
+        [
+          "_pos_z : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 32
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "23": [
+    "ClassWithId",
+    {
+      "ObjectId": 8,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_pos_id : Primitive",
+          5
+        ],
+        [
+          "_pos_x : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 33
+            }
+          ]
+        ],
+        [
+          "_pos_y : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 34
+            }
+          ]
+        ],
+        [
+          "_pos_z : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 35
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "24": [
+    "ClassWithId",
+    {
+      "ObjectId": 9,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_pos_id : Primitive",
+          6
+        ],
+        [
+          "_pos_x : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 36
+            }
+          ]
+        ],
+        [
+          "_pos_y : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 37
+            }
+          ]
+        ],
+        [
+          "_pos_z : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 38
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "25": [
+    "ClassWithId",
+    {
+      "ObjectId": 10,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_pos_id : Primitive",
+          7
+        ],
+        [
+          "_pos_x : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 39
+            }
+          ]
+        ],
+        [
+          "_pos_y : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 40
+            }
+          ]
+        ],
+        [
+          "_pos_z : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 41
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "26": [
+    "ClassWithId",
+    {
+      "ObjectId": 11,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_pos_id : Primitive",
+          8
+        ],
+        [
+          "_pos_x : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 42
+            }
+          ]
+        ],
+        [
+          "_pos_y : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 43
+            }
+          ]
+        ],
+        [
+          "_pos_z : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 44
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "27": [
+    "ClassWithId",
+    {
+      "ObjectId": 12,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_pos_id : Primitive",
+          9
+        ],
+        [
+          "_pos_x : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 45
+            }
+          ]
+        ],
+        [
+          "_pos_y : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 46
+            }
+          ]
+        ],
+        [
+          "_pos_z : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 47
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "28": [
+    "ClassWithId",
+    {
+      "ObjectId": 13,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_pos_id : Primitive",
+          10
+        ],
+        [
+          "_pos_x : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 48
+            }
+          ]
+        ],
+        [
+          "_pos_y : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 49
+            }
+          ]
+        ],
+        [
+          "_pos_z : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 50
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "29": [
+    "ClassWithId",
+    {
+      "ObjectId": 14,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_pos_id : Primitive",
+          11
+        ],
+        [
+          "_pos_x : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 51
+            }
+          ]
+        ],
+        [
+          "_pos_y : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 52
+            }
+          ]
+        ],
+        [
+          "_pos_z : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 53
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "30": [
+    "ClassWithId",
+    {
+      "ObjectId": 15,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_pos_id : Primitive",
+          12
+        ],
+        [
+          "_pos_x : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 54
+            }
+          ]
+        ],
+        [
+          "_pos_y : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 55
+            }
+          ]
+        ],
+        [
+          "_pos_z : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 56
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "31": [
+    "ClassWithId",
+    {
+      "ObjectId": 16,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_pos_id : Primitive",
+          13
+        ],
+        [
+          "_pos_x : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 57
+            }
+          ]
+        ],
+        [
+          "_pos_y : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 58
+            }
+          ]
+        ],
+        [
+          "_pos_z : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 59
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "32": [
+    "ClassWithId",
+    {
+      "ObjectId": 17,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_pos_id : Primitive",
+          14
+        ],
+        [
+          "_pos_x : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 60
+            }
+          ]
+        ],
+        [
+          "_pos_y : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 61
+            }
+          ]
+        ],
+        [
+          "_pos_z : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 62
+            }
+          ]
+        ]
+      ]
+    }
+  ],
+  "33": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 18,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "34": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 19,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "35": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 20,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "36": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 21,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        0.5,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "37": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 22,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "38": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 23,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        3.5,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "39": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 24,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        1.5,
+        -0.5,
+        0.0
+      ]
+    }
+  ],
+  "40": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 25,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "41": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 26,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        3.5,
+        3.5,
+        0.0
+      ]
+    }
+  ],
+  "42": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 27,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        2.5,
+        0.5,
+        -1.5
+      ]
+    }
+  ],
+  "43": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 28,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "44": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 29,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        3.5,
+        3.5,
+        3.5
+      ]
+    }
+  ],
+  "45": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 30,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        2.0,
+        0.0,
+        -2.0
+      ]
+    }
+  ],
+  "46": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 31,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "47": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 32,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        3.5,
+        3.5,
+        3.5
+      ]
+    }
+  ],
+  "48": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 33,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        2.5999999046325684,
+        0.0,
+        -3.5
+      ]
+    }
+  ],
+  "49": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 34,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "50": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 35,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        -4.0,
+        -1.2000000476837158,
+        -3.0999999046325684
+      ]
+    }
+  ],
+  "51": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 36,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        2.9000000953674316,
+        0.0,
+        -3.1500000953674316
+      ]
+    }
+  ],
+  "52": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 37,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "53": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 38,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        -12.199999809265137,
+        -11.199999809265137,
+        -12.0
+      ]
+    }
+  ],
+  "54": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 39,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        2.5,
+        0.5,
+        -1.5
+      ]
+    }
+  ],
+  "55": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 40,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "56": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 41,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        -8.5,
+        -8.5,
+        -8.5
+      ]
+    }
+  ],
+  "57": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 42,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        -0.18000000715255737,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "58": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 43,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "59": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 44,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        3.5,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "60": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 45,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "61": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 46,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "62": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 47,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        3.5,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "63": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 48,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        -2.5,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "64": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 49,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "65": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 50,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        3.5,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "66": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 51,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        -2.5,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "67": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 52,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "68": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 53,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        1.5,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "69": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 54,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        -2.5,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "70": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 55,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "71": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 56,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        -0.5,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "72": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 57,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        -2.5,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "73": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 58,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "74": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 59,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        -2.5,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "75": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 60,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        0.5,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "76": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 61,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "77": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 62,
+      "Length": 3,
+      "PrimitiveTypeEnum": "Single",
+      "Values": [
+        2.9000000953674316,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "78": [
+    "MessageEnd",
+    null
+  ]
+}

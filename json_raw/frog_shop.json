@@ -1,0 +1,501 @@
+{
+  "0": [
+    "SerializedStreamHeader",
+    {
+      "RootId": 1,
+      "HeaderId": 4294967295,
+      "MajorVersion": 1,
+      "MinorVersion": 0
+    }
+  ],
+  "1": [
+    "BinaryLibrary",
+    {
+      "LibraryId": 2,
+      "LibraryName": "ExcelConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  ],
+  "2": [
+    "BinaryArray",
+    {
+      "ObjectId": 1,
+      "BinaryArrayTypeEnum": "Single",
+      "Rank": 1,
+      "Lengths": [
+        7
+      ],
+      "TypeEnum": "Class",
+      "AdditionalTypeInfo": {
+        "TypeName": "FrogShopData",
+        "LibraryId": 2
+      }
+    }
+  ],
+  "3": [
+    "MemberReference",
+    {
+      "IdRef": 3
+    }
+  ],
+  "4": [
+    "MemberReference",
+    {
+      "IdRef": 4
+    }
+  ],
+  "5": [
+    "MemberReference",
+    {
+      "IdRef": 5
+    }
+  ],
+  "6": [
+    "MemberReference",
+    {
+      "IdRef": 6
+    }
+  ],
+  "7": [
+    "MemberReference",
+    {
+      "IdRef": 7
+    }
+  ],
+  "8": [
+    "MemberReference",
+    {
+      "IdRef": 8
+    }
+  ],
+  "9": [
+    "MemberReference",
+    {
+      "IdRef": 9
+    }
+  ],
+  "10": [
+    "ClassWithMembersAndTypes",
+    {
+      "ClassInfo": {
+        "ObjectId": 3,
+        "Name": "FrogShopData",
+        "MemberCount": 4,
+        "MemberNames": [
+          "_shop_id",
+          "_area_id",
+          "_item_id",
+          "_shop_name_id"
+        ]
+      },
+      "MemberTypeInfo": {
+        "BinaryTypeEnums": [
+          "Primitive",
+          "Primitive",
+          "PrimitiveArray",
+          "Primitive"
+        ],
+        "AdditionalInfos": [
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "PrimitiveArray",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ]
+        ]
+      },
+      "LibraryId": 2,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          0
+        ],
+        [
+          "_area_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 10
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "11": [
+    "ClassWithId",
+    {
+      "ObjectId": 4,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          1
+        ],
+        [
+          "_area_id : Primitive",
+          103
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 11
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          625
+        ]
+      ]
+    }
+  ],
+  "12": [
+    "ClassWithId",
+    {
+      "ObjectId": 5,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          2
+        ],
+        [
+          "_area_id : Primitive",
+          5
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 12
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          626
+        ]
+      ]
+    }
+  ],
+  "13": [
+    "ClassWithId",
+    {
+      "ObjectId": 6,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          3
+        ],
+        [
+          "_area_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 13
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "14": [
+    "ClassWithId",
+    {
+      "ObjectId": 7,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          4
+        ],
+        [
+          "_area_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 14
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "15": [
+    "ClassWithId",
+    {
+      "ObjectId": 8,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          5
+        ],
+        [
+          "_area_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 15
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "16": [
+    "ClassWithId",
+    {
+      "ObjectId": 9,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_shop_id : Primitive",
+          0
+        ],
+        [
+          "_area_id : Primitive",
+          0
+        ],
+        [
+          "_item_id : PrimitiveArray",
+          [
+            "MemberReference",
+            {
+              "IdRef": 16
+            }
+          ]
+        ],
+        [
+          "_shop_name_id : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "17": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 10,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "18": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 11,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        113,
+        105,
+        106,
+        107,
+        108,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "19": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 12,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        122,
+        123,
+        84,
+        85,
+        86,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "20": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 13,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "21": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 14,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "22": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 15,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "23": [
+    "ArraySinglePrimitive",
+    {
+      "ObjectId": 16,
+      "Length": 15,
+      "PrimitiveTypeEnum": "Int32",
+      "Values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "24": [
+    "MessageEnd",
+    null
+  ]
+}

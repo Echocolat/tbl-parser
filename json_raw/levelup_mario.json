@@ -1,0 +1,2205 @@
+{
+  "0": [
+    "SerializedStreamHeader",
+    {
+      "RootId": 1,
+      "HeaderId": 4294967295,
+      "MajorVersion": 1,
+      "MinorVersion": 0
+    }
+  ],
+  "1": [
+    "BinaryLibrary",
+    {
+      "LibraryId": 2,
+      "LibraryName": "ExcelConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    }
+  ],
+  "2": [
+    "BinaryArray",
+    {
+      "ObjectId": 1,
+      "BinaryArrayTypeEnum": "Single",
+      "Rank": 1,
+      "Lengths": [
+        31
+      ],
+      "TypeEnum": "Class",
+      "AdditionalTypeInfo": {
+        "TypeName": "LevelUpData",
+        "LibraryId": 2
+      }
+    }
+  ],
+  "3": [
+    "MemberReference",
+    {
+      "IdRef": 3
+    }
+  ],
+  "4": [
+    "MemberReference",
+    {
+      "IdRef": 4
+    }
+  ],
+  "5": [
+    "MemberReference",
+    {
+      "IdRef": 5
+    }
+  ],
+  "6": [
+    "MemberReference",
+    {
+      "IdRef": 6
+    }
+  ],
+  "7": [
+    "MemberReference",
+    {
+      "IdRef": 7
+    }
+  ],
+  "8": [
+    "MemberReference",
+    {
+      "IdRef": 8
+    }
+  ],
+  "9": [
+    "MemberReference",
+    {
+      "IdRef": 9
+    }
+  ],
+  "10": [
+    "MemberReference",
+    {
+      "IdRef": 10
+    }
+  ],
+  "11": [
+    "MemberReference",
+    {
+      "IdRef": 11
+    }
+  ],
+  "12": [
+    "MemberReference",
+    {
+      "IdRef": 12
+    }
+  ],
+  "13": [
+    "MemberReference",
+    {
+      "IdRef": 13
+    }
+  ],
+  "14": [
+    "MemberReference",
+    {
+      "IdRef": 14
+    }
+  ],
+  "15": [
+    "MemberReference",
+    {
+      "IdRef": 15
+    }
+  ],
+  "16": [
+    "MemberReference",
+    {
+      "IdRef": 16
+    }
+  ],
+  "17": [
+    "MemberReference",
+    {
+      "IdRef": 17
+    }
+  ],
+  "18": [
+    "MemberReference",
+    {
+      "IdRef": 18
+    }
+  ],
+  "19": [
+    "MemberReference",
+    {
+      "IdRef": 19
+    }
+  ],
+  "20": [
+    "MemberReference",
+    {
+      "IdRef": 20
+    }
+  ],
+  "21": [
+    "MemberReference",
+    {
+      "IdRef": 21
+    }
+  ],
+  "22": [
+    "MemberReference",
+    {
+      "IdRef": 22
+    }
+  ],
+  "23": [
+    "MemberReference",
+    {
+      "IdRef": 23
+    }
+  ],
+  "24": [
+    "MemberReference",
+    {
+      "IdRef": 24
+    }
+  ],
+  "25": [
+    "MemberReference",
+    {
+      "IdRef": 25
+    }
+  ],
+  "26": [
+    "MemberReference",
+    {
+      "IdRef": 26
+    }
+  ],
+  "27": [
+    "MemberReference",
+    {
+      "IdRef": 27
+    }
+  ],
+  "28": [
+    "MemberReference",
+    {
+      "IdRef": 28
+    }
+  ],
+  "29": [
+    "MemberReference",
+    {
+      "IdRef": 29
+    }
+  ],
+  "30": [
+    "MemberReference",
+    {
+      "IdRef": 30
+    }
+  ],
+  "31": [
+    "MemberReference",
+    {
+      "IdRef": 31
+    }
+  ],
+  "32": [
+    "MemberReference",
+    {
+      "IdRef": 32
+    }
+  ],
+  "33": [
+    "MemberReference",
+    {
+      "IdRef": 33
+    }
+  ],
+  "34": [
+    "ClassWithMembersAndTypes",
+    {
+      "ClassInfo": {
+        "ObjectId": 3,
+        "Name": "LevelUpData",
+        "MemberCount": 13,
+        "MemberNames": [
+          "_level",
+          "_exp",
+          "_hp",
+          "_hp_bonus",
+          "_attack",
+          "_attack_bonus",
+          "_defence",
+          "_defence_bonus",
+          "_magic_attack",
+          "_magic_attack_bonus",
+          "_magic_defence",
+          "_magic_defence_bonus",
+          "_learn_skill"
+        ]
+      },
+      "MemberTypeInfo": {
+        "BinaryTypeEnums": [
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive",
+          "Primitive"
+        ],
+        "AdditionalInfos": [
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ],
+          [
+            "Primitive",
+            "Int32"
+          ]
+        ]
+      },
+      "LibraryId": 2,
+      "Values": [
+        [
+          "_level : Primitive",
+          0
+        ],
+        [
+          "_exp : Primitive",
+          0
+        ],
+        [
+          "_hp : Primitive",
+          0
+        ],
+        [
+          "_hp_bonus : Primitive",
+          0
+        ],
+        [
+          "_attack : Primitive",
+          0
+        ],
+        [
+          "_attack_bonus : Primitive",
+          0
+        ],
+        [
+          "_defence : Primitive",
+          0
+        ],
+        [
+          "_defence_bonus : Primitive",
+          0
+        ],
+        [
+          "_magic_attack : Primitive",
+          0
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          0
+        ],
+        [
+          "_magic_defence : Primitive",
+          0
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          0
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "35": [
+    "ClassWithId",
+    {
+      "ObjectId": 4,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          1
+        ],
+        [
+          "_exp : Primitive",
+          0
+        ],
+        [
+          "_hp : Primitive",
+          20
+        ],
+        [
+          "_hp_bonus : Primitive",
+          0
+        ],
+        [
+          "_attack : Primitive",
+          20
+        ],
+        [
+          "_attack_bonus : Primitive",
+          0
+        ],
+        [
+          "_defence : Primitive",
+          0
+        ],
+        [
+          "_defence_bonus : Primitive",
+          0
+        ],
+        [
+          "_magic_attack : Primitive",
+          10
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          0
+        ],
+        [
+          "_magic_defence : Primitive",
+          2
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          0
+        ],
+        [
+          "_learn_skill : Primitive",
+          103
+        ]
+      ]
+    }
+  ],
+  "36": [
+    "ClassWithId",
+    {
+      "ObjectId": 5,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          2
+        ],
+        [
+          "_exp : Primitive",
+          16
+        ],
+        [
+          "_hp : Primitive",
+          25
+        ],
+        [
+          "_hp_bonus : Primitive",
+          3
+        ],
+        [
+          "_attack : Primitive",
+          23
+        ],
+        [
+          "_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_defence : Primitive",
+          2
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          12
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          3
+        ],
+        [
+          "_magic_defence : Primitive",
+          4
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "37": [
+    "ClassWithId",
+    {
+      "ObjectId": 6,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          3
+        ],
+        [
+          "_exp : Primitive",
+          48
+        ],
+        [
+          "_hp : Primitive",
+          30
+        ],
+        [
+          "_hp_bonus : Primitive",
+          3
+        ],
+        [
+          "_attack : Primitive",
+          26
+        ],
+        [
+          "_attack_bonus : Primitive",
+          2
+        ],
+        [
+          "_defence : Primitive",
+          4
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          14
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_defence : Primitive",
+          6
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          104
+        ]
+      ]
+    }
+  ],
+  "38": [
+    "ClassWithId",
+    {
+      "ObjectId": 7,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          4
+        ],
+        [
+          "_exp : Primitive",
+          84
+        ],
+        [
+          "_hp : Primitive",
+          35
+        ],
+        [
+          "_hp_bonus : Primitive",
+          4
+        ],
+        [
+          "_attack : Primitive",
+          29
+        ],
+        [
+          "_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_defence : Primitive",
+          7
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          16
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_defence : Primitive",
+          8
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "39": [
+    "ClassWithId",
+    {
+      "ObjectId": 8,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          5
+        ],
+        [
+          "_exp : Primitive",
+          130
+        ],
+        [
+          "_hp : Primitive",
+          40
+        ],
+        [
+          "_hp_bonus : Primitive",
+          3
+        ],
+        [
+          "_attack : Primitive",
+          32
+        ],
+        [
+          "_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_defence : Primitive",
+          10
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          18
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          3
+        ],
+        [
+          "_magic_defence : Primitive",
+          10
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "40": [
+    "ClassWithId",
+    {
+      "ObjectId": 9,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          6
+        ],
+        [
+          "_exp : Primitive",
+          200
+        ],
+        [
+          "_hp : Primitive",
+          45
+        ],
+        [
+          "_hp_bonus : Primitive",
+          3
+        ],
+        [
+          "_attack : Primitive",
+          36
+        ],
+        [
+          "_attack_bonus : Primitive",
+          2
+        ],
+        [
+          "_defence : Primitive",
+          13
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          21
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_defence : Primitive",
+          12
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          105
+        ]
+      ]
+    }
+  ],
+  "41": [
+    "ClassWithId",
+    {
+      "ObjectId": 10,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          7
+        ],
+        [
+          "_exp : Primitive",
+          290
+        ],
+        [
+          "_hp : Primitive",
+          51
+        ],
+        [
+          "_hp_bonus : Primitive",
+          4
+        ],
+        [
+          "_attack : Primitive",
+          40
+        ],
+        [
+          "_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_defence : Primitive",
+          16
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          24
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_defence : Primitive",
+          14
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "42": [
+    "ClassWithId",
+    {
+      "ObjectId": 11,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          8
+        ],
+        [
+          "_exp : Primitive",
+          402
+        ],
+        [
+          "_hp : Primitive",
+          57
+        ],
+        [
+          "_hp_bonus : Primitive",
+          3
+        ],
+        [
+          "_attack : Primitive",
+          44
+        ],
+        [
+          "_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_defence : Primitive",
+          19
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          27
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          3
+        ],
+        [
+          "_magic_defence : Primitive",
+          16
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "43": [
+    "ClassWithId",
+    {
+      "ObjectId": 12,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          9
+        ],
+        [
+          "_exp : Primitive",
+          538
+        ],
+        [
+          "_hp : Primitive",
+          64
+        ],
+        [
+          "_hp_bonus : Primitive",
+          3
+        ],
+        [
+          "_attack : Primitive",
+          48
+        ],
+        [
+          "_attack_bonus : Primitive",
+          2
+        ],
+        [
+          "_defence : Primitive",
+          22
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          30
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_defence : Primitive",
+          18
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "44": [
+    "ClassWithId",
+    {
+      "ObjectId": 13,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          10
+        ],
+        [
+          "_exp : Primitive",
+          700
+        ],
+        [
+          "_hp : Primitive",
+          71
+        ],
+        [
+          "_hp_bonus : Primitive",
+          4
+        ],
+        [
+          "_attack : Primitive",
+          52
+        ],
+        [
+          "_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_defence : Primitive",
+          25
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          33
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_defence : Primitive",
+          20
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          106
+        ]
+      ]
+    }
+  ],
+  "45": [
+    "ClassWithId",
+    {
+      "ObjectId": 14,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          11
+        ],
+        [
+          "_exp : Primitive",
+          890
+        ],
+        [
+          "_hp : Primitive",
+          78
+        ],
+        [
+          "_hp_bonus : Primitive",
+          3
+        ],
+        [
+          "_attack : Primitive",
+          57
+        ],
+        [
+          "_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_defence : Primitive",
+          29
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          36
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          3
+        ],
+        [
+          "_magic_defence : Primitive",
+          23
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "46": [
+    "ClassWithId",
+    {
+      "ObjectId": 15,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          12
+        ],
+        [
+          "_exp : Primitive",
+          1110
+        ],
+        [
+          "_hp : Primitive",
+          86
+        ],
+        [
+          "_hp_bonus : Primitive",
+          3
+        ],
+        [
+          "_attack : Primitive",
+          62
+        ],
+        [
+          "_attack_bonus : Primitive",
+          2
+        ],
+        [
+          "_defence : Primitive",
+          33
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          40
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_defence : Primitive",
+          26
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "47": [
+    "ClassWithId",
+    {
+      "ObjectId": 16,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          13
+        ],
+        [
+          "_exp : Primitive",
+          1360
+        ],
+        [
+          "_hp : Primitive",
+          94
+        ],
+        [
+          "_hp_bonus : Primitive",
+          4
+        ],
+        [
+          "_attack : Primitive",
+          67
+        ],
+        [
+          "_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_defence : Primitive",
+          37
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          44
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_defence : Primitive",
+          29
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "48": [
+    "ClassWithId",
+    {
+      "ObjectId": 17,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          14
+        ],
+        [
+          "_exp : Primitive",
+          1640
+        ],
+        [
+          "_hp : Primitive",
+          102
+        ],
+        [
+          "_hp_bonus : Primitive",
+          3
+        ],
+        [
+          "_attack : Primitive",
+          72
+        ],
+        [
+          "_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_defence : Primitive",
+          41
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          48
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          3
+        ],
+        [
+          "_magic_defence : Primitive",
+          32
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          107
+        ]
+      ]
+    }
+  ],
+  "49": [
+    "ClassWithId",
+    {
+      "ObjectId": 18,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          15
+        ],
+        [
+          "_exp : Primitive",
+          1950
+        ],
+        [
+          "_hp : Primitive",
+          111
+        ],
+        [
+          "_hp_bonus : Primitive",
+          3
+        ],
+        [
+          "_attack : Primitive",
+          77
+        ],
+        [
+          "_attack_bonus : Primitive",
+          2
+        ],
+        [
+          "_defence : Primitive",
+          45
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          52
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_defence : Primitive",
+          35
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "50": [
+    "ClassWithId",
+    {
+      "ObjectId": 19,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          16
+        ],
+        [
+          "_exp : Primitive",
+          2290
+        ],
+        [
+          "_hp : Primitive",
+          120
+        ],
+        [
+          "_hp_bonus : Primitive",
+          4
+        ],
+        [
+          "_attack : Primitive",
+          83
+        ],
+        [
+          "_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_defence : Primitive",
+          49
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          56
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_defence : Primitive",
+          38
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "51": [
+    "ClassWithId",
+    {
+      "ObjectId": 20,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          17
+        ],
+        [
+          "_exp : Primitive",
+          2660
+        ],
+        [
+          "_hp : Primitive",
+          129
+        ],
+        [
+          "_hp_bonus : Primitive",
+          3
+        ],
+        [
+          "_attack : Primitive",
+          89
+        ],
+        [
+          "_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_defence : Primitive",
+          53
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          60
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          3
+        ],
+        [
+          "_magic_defence : Primitive",
+          41
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "52": [
+    "ClassWithId",
+    {
+      "ObjectId": 21,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          18
+        ],
+        [
+          "_exp : Primitive",
+          3060
+        ],
+        [
+          "_hp : Primitive",
+          139
+        ],
+        [
+          "_hp_bonus : Primitive",
+          3
+        ],
+        [
+          "_attack : Primitive",
+          95
+        ],
+        [
+          "_attack_bonus : Primitive",
+          2
+        ],
+        [
+          "_defence : Primitive",
+          57
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          64
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_defence : Primitive",
+          44
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          108
+        ]
+      ]
+    }
+  ],
+  "53": [
+    "ClassWithId",
+    {
+      "ObjectId": 22,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          19
+        ],
+        [
+          "_exp : Primitive",
+          3490
+        ],
+        [
+          "_hp : Primitive",
+          149
+        ],
+        [
+          "_hp_bonus : Primitive",
+          4
+        ],
+        [
+          "_attack : Primitive",
+          101
+        ],
+        [
+          "_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_defence : Primitive",
+          61
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          69
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_defence : Primitive",
+          47
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "54": [
+    "ClassWithId",
+    {
+      "ObjectId": 23,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          20
+        ],
+        [
+          "_exp : Primitive",
+          3950
+        ],
+        [
+          "_hp : Primitive",
+          159
+        ],
+        [
+          "_hp_bonus : Primitive",
+          3
+        ],
+        [
+          "_attack : Primitive",
+          107
+        ],
+        [
+          "_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_defence : Primitive",
+          65
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          74
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          3
+        ],
+        [
+          "_magic_defence : Primitive",
+          50
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "55": [
+    "ClassWithId",
+    {
+      "ObjectId": 24,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          21
+        ],
+        [
+          "_exp : Primitive",
+          4440
+        ],
+        [
+          "_hp : Primitive",
+          161
+        ],
+        [
+          "_hp_bonus : Primitive",
+          1
+        ],
+        [
+          "_attack : Primitive",
+          109
+        ],
+        [
+          "_attack_bonus : Primitive",
+          2
+        ],
+        [
+          "_defence : Primitive",
+          67
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          76
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_defence : Primitive",
+          52
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "56": [
+    "ClassWithId",
+    {
+      "ObjectId": 25,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          22
+        ],
+        [
+          "_exp : Primitive",
+          4960
+        ],
+        [
+          "_hp : Primitive",
+          163
+        ],
+        [
+          "_hp_bonus : Primitive",
+          2
+        ],
+        [
+          "_attack : Primitive",
+          111
+        ],
+        [
+          "_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_defence : Primitive",
+          69
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          78
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_defence : Primitive",
+          54
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "57": [
+    "ClassWithId",
+    {
+      "ObjectId": 26,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          23
+        ],
+        [
+          "_exp : Primitive",
+          5510
+        ],
+        [
+          "_hp : Primitive",
+          165
+        ],
+        [
+          "_hp_bonus : Primitive",
+          1
+        ],
+        [
+          "_attack : Primitive",
+          113
+        ],
+        [
+          "_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_defence : Primitive",
+          71
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          80
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          3
+        ],
+        [
+          "_magic_defence : Primitive",
+          56
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "58": [
+    "ClassWithId",
+    {
+      "ObjectId": 27,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          24
+        ],
+        [
+          "_exp : Primitive",
+          6088
+        ],
+        [
+          "_hp : Primitive",
+          167
+        ],
+        [
+          "_hp_bonus : Primitive",
+          1
+        ],
+        [
+          "_attack : Primitive",
+          115
+        ],
+        [
+          "_attack_bonus : Primitive",
+          2
+        ],
+        [
+          "_defence : Primitive",
+          73
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          82
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_defence : Primitive",
+          58
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "59": [
+    "ClassWithId",
+    {
+      "ObjectId": 28,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          25
+        ],
+        [
+          "_exp : Primitive",
+          6692
+        ],
+        [
+          "_hp : Primitive",
+          169
+        ],
+        [
+          "_hp_bonus : Primitive",
+          2
+        ],
+        [
+          "_attack : Primitive",
+          117
+        ],
+        [
+          "_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_defence : Primitive",
+          75
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          84
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_defence : Primitive",
+          60
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "60": [
+    "ClassWithId",
+    {
+      "ObjectId": 29,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          26
+        ],
+        [
+          "_exp : Primitive",
+          7320
+        ],
+        [
+          "_hp : Primitive",
+          171
+        ],
+        [
+          "_hp_bonus : Primitive",
+          1
+        ],
+        [
+          "_attack : Primitive",
+          119
+        ],
+        [
+          "_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_defence : Primitive",
+          77
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          86
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          3
+        ],
+        [
+          "_magic_defence : Primitive",
+          62
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "61": [
+    "ClassWithId",
+    {
+      "ObjectId": 30,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          27
+        ],
+        [
+          "_exp : Primitive",
+          7968
+        ],
+        [
+          "_hp : Primitive",
+          173
+        ],
+        [
+          "_hp_bonus : Primitive",
+          1
+        ],
+        [
+          "_attack : Primitive",
+          121
+        ],
+        [
+          "_attack_bonus : Primitive",
+          2
+        ],
+        [
+          "_defence : Primitive",
+          79
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          88
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_defence : Primitive",
+          64
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "62": [
+    "ClassWithId",
+    {
+      "ObjectId": 31,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          28
+        ],
+        [
+          "_exp : Primitive",
+          8634
+        ],
+        [
+          "_hp : Primitive",
+          175
+        ],
+        [
+          "_hp_bonus : Primitive",
+          2
+        ],
+        [
+          "_attack : Primitive",
+          123
+        ],
+        [
+          "_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_defence : Primitive",
+          81
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          90
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_defence : Primitive",
+          66
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "63": [
+    "ClassWithId",
+    {
+      "ObjectId": 32,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          29
+        ],
+        [
+          "_exp : Primitive",
+          9315
+        ],
+        [
+          "_hp : Primitive",
+          177
+        ],
+        [
+          "_hp_bonus : Primitive",
+          1
+        ],
+        [
+          "_attack : Primitive",
+          125
+        ],
+        [
+          "_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_defence : Primitive",
+          83
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          92
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          3
+        ],
+        [
+          "_magic_defence : Primitive",
+          68
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "64": [
+    "ClassWithId",
+    {
+      "ObjectId": 33,
+      "MetadataId": 3,
+      "Values": [
+        [
+          "_level : Primitive",
+          30
+        ],
+        [
+          "_exp : Primitive",
+          9999
+        ],
+        [
+          "_hp : Primitive",
+          179
+        ],
+        [
+          "_hp_bonus : Primitive",
+          1
+        ],
+        [
+          "_attack : Primitive",
+          127
+        ],
+        [
+          "_attack_bonus : Primitive",
+          2
+        ],
+        [
+          "_defence : Primitive",
+          85
+        ],
+        [
+          "_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_attack : Primitive",
+          94
+        ],
+        [
+          "_magic_attack_bonus : Primitive",
+          1
+        ],
+        [
+          "_magic_defence : Primitive",
+          70
+        ],
+        [
+          "_magic_defence_bonus : Primitive",
+          1
+        ],
+        [
+          "_learn_skill : Primitive",
+          0
+        ]
+      ]
+    }
+  ],
+  "65": [
+    "MessageEnd",
+    null
+  ]
+}
