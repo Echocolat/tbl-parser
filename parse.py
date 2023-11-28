@@ -2,7 +2,6 @@ import struct
 import json
 import os
 import sys
-import argparse
 
 theClass = {}
 verbose = False
