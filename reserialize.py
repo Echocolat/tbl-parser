@@ -12,7 +12,7 @@ def Length(string):
     value = len(string)
     ret = bytearray()
     while value >= 0x80:
-        ret += chr((value | 0x80)&0xff)
+        ret += chr((value | 0x80)&0xff).encode('utf-8')
         value >>= 7
     ret += chr(value).encode('utf8')
 
